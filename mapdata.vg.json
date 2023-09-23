@@ -1,22 +1,50 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": { "text": "Toyota Manufacturing Plant Count" },
-  "data": {
-      "url": "ne_110m_admin_0_countries.json",
-      "format": {
-        "type": "topojson", 
-        "feature": "ne_110m_admin_0_countries"
+  "width": 800,
+  "height": 500,
+  "layer": [
+    {
+      "data": {
+        "url": "ne_110m_admin_0_countries.json",
+        "format": {
+          "type": "topojson", 
+          "feature": "ne_110m_admin_0_countries"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgrey",
+        "stroke": "white"
+      },
+      "projection": {
+        "type": "equalEarth"
       }
-  },
-  "projection": {
-    "type": "equalEarth"
-  },
+    },
+    {
+      "data": {
+        "url": "toyota_manufacturing_plant_count.csv"
+      },
+      "projection": {
+        "type":"equalEarth"
+      },
+      "mark":"circle",
+      "encoding": {
+        "longitude": {
+          "field":"long",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "value":5
+        }
+      }
+    }
+  ]
+
   
-  "mark": {
-    "type": "geoshape",
-    "fill": "lightgrey",
-    "stroke": "white"
-  },
-  "width": 500,
-  "height": 300
+  
 }

@@ -41,6 +41,9 @@
         "size": {
           "field": "plants_count", 
           "type": "quantitative"
+        },
+        "color": {
+          "value": "red"
         }
       }
     }

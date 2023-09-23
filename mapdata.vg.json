@@ -18,7 +18,8 @@
         "stroke": "white"
       },
       "projection": {
-        "type": "equalEarth"
+        "type": "equalEarth",
+        "rotate": [-140,-42,0]
       }
     },
     {
@@ -26,7 +27,8 @@
         "url": "toyota_manufacturing_plant_count.csv"
       },
       "projection": {
-        "type":"equalEarth"
+        "type":"equalEarth",
+        "rotate": [-140,-42,0]
       },
       "mark":"circle",
       "encoding": {

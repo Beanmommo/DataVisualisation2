@@ -1,0 +1,12 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": { "text": "Toyota Manufacturing Plant Count" },
+  "data": {
+      "url": "toyota_manufacturing_plant_count.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+      "x": { "field": "country", "type": "nominal", "title":null},
+      "y": { "field": "plants_count", "type": "quantitative", "title": "Factories count"}
+  }
+}

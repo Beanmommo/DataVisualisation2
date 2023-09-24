@@ -24,6 +24,16 @@
     },
     {
       "data": {
+        "graticule": { "step": [30, 30]}
+      },
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ddd",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "data": {
         "url": "toyota_manufacturing_plant_count.csv"
       },
       "projection": {
@@ -46,7 +56,11 @@
         },
         "color": {
           "value": "red"
-        }
+        },
+        "tooltip": [
+          {"field": "country", "type": "nominal"},
+          {"field": "plants_count", "type": "quantitative"}
+        ]
       }
     }
   ]

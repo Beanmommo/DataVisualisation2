@@ -8,7 +8,7 @@
       "data": {
         "url": "ne_110m_admin_0_countries.json",
         "format": {
-          "type": "topojson", 
+          "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
         }
       },
@@ -18,8 +18,8 @@
         "stroke": "white"
       },
       "projection": {
-        "type": "equalEarth",
-        "rotate": [-140,-42,0]
+        "type":"equalEarth",
+        "rotate": [-145,-42,0]
       }
     },
     {
@@ -34,28 +34,37 @@
     },
     {
       "data": {
-        "url": "toyota_manufacturing_plant_count.csv"
+        "url": "ne_110m_admin_0_countries.json",
+        "format": {
+          "type": "topojson", 
+          "feature": "ne_110m_admin_0_countries"
+        }
       },
+      "transform": [
+        {
+          "lookup": "properties.NAME_EN",
+          "from": {
+            "data": {
+              "url": "toyota_manufacturing_plant_count.csv"
+            },
+            "key": "country",
+            "fields": ["plants_count", "country"]
+          }
+        }
+      ],
+      "mark": "geoshape",
       "projection": {
-        "type":"equalEarth",
-        "rotate": [-140,-42,0]
+        "type": "equalEarth",
+        "rotate": [-145,-42,0]
       },
-      "mark":"circle",
       "encoding": {
-        "longitude": {
-          "field":"long",
-          "type": "quantitative"
-        },
-        "latitude": {
-          "field": "lat",
-          "type": "quantitative"
-        },
-        "size": {
-          "field": "plants_count", 
-          "type": "quantitative"
-        },
         "color": {
-          "value": "red"
+          "field": "plants_count",
+          "type": "quantitative",
+          "scale": {
+            "type": "linear",
+            "scheme": "reds"
+          }
         },
         "tooltip": [
           {"field": "country", "type": "nominal"},

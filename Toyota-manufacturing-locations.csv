@@ -1,0 +1,50 @@
+Region,Country,Name,Latitude,Longitude
+North America,USA,"Toyota Motor Manufacturing, Kentucky, Inc. (TMMK)",38.261238,-84.532829
+North America,USA,"Toyota Motor Manufacturing, Indiana, Inc. (TMMI)",38.29271,-87.56403
+North America,USA,"Toyota Motor Manufacturing, West Virginia, Inc. (TMMWV)",38.59522,-81.9937
+North America,USA,"Toyota Motor Manufacturing, Alabama, Inc. (TMMAL)",34.83034,-86.639
+North America,USA,"Bodine Aluminum, Inc. (BODINE)",38.9644,-90.97037
+North America,USA,"TABC, Inc. (TABC)",33.8661232,-118.1599274
+North America,USA,"Toyota Motor Manufacturing, Texas, Inc. (TMMTX)",29.2684526,-98.5621344
+North America,USA,"Toyota Motor Manufacturing Mississippi, Inc. (TMMMS)",34.38063049,-88.8841629
+North America,USA,"Subaru of Indiana Automotive, Inc. (SIA)",40.376795,-86.814172
+North America,Canada,Toyota Motor Manufacturing Canada Inc. (TMMC),43.382661,-80.341988
+North America,Canada,Canadian Autoparts Toyota Inc. (CAPTIN),49.1352509,-123.0225056
+Latin America,Mexico,"Toyota Motor Manufacturing de Baja California, S.de R.L.de C.V. (TMMBC)",32.5262872,-116.6916725
+Latin America,Argentina,Toyota Argentina S.A. (TASA),-34.61315,-58.37723
+Latin America,Brazil,Toyota do Brasil Ltda. (TDB),-23.69389,-46.565
+Latin America,Venezuela,Toyota de Venezuela Compania Anonima (TDV),10.45397,-64.18256
+Europe,Poland,Toyota Motor Manufacturing Poland SP.zo.o. (TMMP),50.7667,16.2833
+Europe,Poland,Toyota Motor Industries Poland SP.zo.o. (TMIP),51.03459549,17.29646873
+Europe,France,Toyota Motor Manufacturing France S.A.S. (TMMF),50.370955,3.614072
+Europe,UK,Toyota Motor Manufacturing(UK)Ltd. (TMUK),52.87306,-1.568098
+Europe,Turkey,Toyota Motor Manufacturing Turkey Inc. (TMMT),40.70803452,30.39151001
+Europe,Russia,"Limited Liability Company ""TOYOTA MOTOR MANUFACTURING RUSSIA""(TMMR)",59.8092,30.3817
+Europe,Czech,"Toyota Peugeot Citroen Automobile Czech, s.r.o. (TPCA)",50.0695979,15.2258674
+Europe,Portugal,"Toyota Caetano Portugal, S.A.(TCAP)",41.13363,-8.61742
+Africa,South Africa,Toyota South Africa Motors (Pty) Ltd. (TSAM),-29.9941667,30.9461111
+Africa,Kenya,Associated Vehicle Assemblers Ltd. (AVA),-4.05052,39.667169
+Africa,Egypt,Arab American Vehicles Co. (AAV),30.06263,31.24967
+Asia,India,Toyota Kirloskar Motor Private Ltd. (TKM),13.1,77.23
+Asia,India,Toyota Kirloskar Auto Parts Private Ltd. (TKAP),13.19,77.29
+Asia,Pakistan,Indus Motor Company Ltd. (IMC),24.9056,67.0822
+Asia,Taiwan,"Kuozui Motors,Ltd. (Kuozui)",25.06363,121.55674
+Asia,Indonesia,P.T. Toyota Motor Manufacturing Indonesia (TMMIN),-6.1758729,106.8948805
+Asia,Indonesia,P.T. Astra Daihatsu Motor (ADM,-6.21462,106.84513
+Asia,Indonesia,P.T. Hino Motors Manufacturing Indonesia (HMMI),-6.55694,107.44333
+Asia,Thailand,"Toyota Motor Thailand Co., Ltd. (TMT)",13.65855,100.53362
+Asia,Thailand,"Siam Toyota Manufacturing Co., Ltd. (STM",27.512849,95.516158
+Asia,Malaysia,Assembly Services Sdn. Bhd. (ASSB),3.0610723,101.5160713
+Asia,Philippines,Toyota Motor Philippines Corp. (TMP),14.27332,121.08164
+Asia,Philippines,Toyota Autoparts Philippines Inc. (TAP),14.27332,121.08164
+Asia,Vietnam,"Toyota Motor Vietnam Co., Ltd. (TMV)",21.23678,105.72038
+China,China,"Tianjin FAW Toyota Motor Co., Ltd. (TFTM)",39.02314,117.12672
+China,China,"Toyota FAW (Tianjin) Dies Co.,Ltd. (TFTD)",39.06615164,117.6918605
+China,China,"Tianjin Toyota Forging Co., Ltd. (TTFC)",39.06556731,117.6921069
+China,China,"Tianjin Fengjin Auto Parts Co., Ltd. (TFAP)",39.06556731,117.6921069
+China,China,"Tianjin FAW Toyota Engine Co., Ltd. (TFTE)",39.1523353,117.0803354
+China,China,"FAW Toyota (Changchun) Engine Co.,Ltd.",43.87353316,125.4230654
+China,China,"Sichuan FAW Toyota Motor Co.,Ltd. (SFTM)",30.71101746,104.0392984
+China,China,"GAC Toyota Motor Co., Ltd. (GTMC)",22.78312205,113.5233036
+China,China,"GAC Toyota Engine Co., Ltd. (GTE)",22.79190917,113.5282599
+Oceania,Australia,Toyota Motor Corporation Australia Ltd. (TMCA),-37.82651349,144.934257

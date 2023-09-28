@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Toyota Manufacturing Plant Locations Outside Japan" },
+    "width": 900,
+    "height": 500,
+    "layer": [
+      {
+        "data": {
+          "url": "ne_110m_admin_0_countries.json",
+          "format": {
+            "type": "topojson",
+            "feature": "ne_110m_admin_0_countries"
+          }
+        },
+        "mark": {
+          "type": "geoshape",
+          "fill": "lightgrey",
+          "stroke": "white"
+        },
+        "projection": {
+          "type":"equalEarth"
+        }
+      },
+      {
+        "data": {
+          "graticule": { "step": [30, 30]}
+        },
+        "mark": {
+          "type": "geoshape",
+          "stroke": "#ddd",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "data": {
+            "url": "Toyota-manufacturing-locations.csv"
+        },
+        "projection": {
+          "type":"equalEarth"
+        },
+        "mark":"point",
+        "encoding": {
+            "longitude": {
+                "field": "Longitude",
+                "type": "quantitative"
+            },
+            "latitude": {
+                "field": "Latitude",
+                "type": "quantitative"
+            },
+            "size": {
+                "value": 20
+            },
+            "color": {
+                "value": "red"
+            },
+            "tooltip": [
+                {
+                    "field": "Name", "type": "nominal"
+                },
+                {
+                    "field": "Country",  "type": "nominal"
+                },
+                {
+                    "field": "Region", "type": "nominal"
+                }
+            ]
+        }
+      }
+      
+    ]
+  
+    
+    
+  }

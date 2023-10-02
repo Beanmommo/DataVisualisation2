@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "ToyotaType";
+    src: url(Toyota-Type.ttf);
+}
+
 #layout {
     padding: 0;
 }
@@ -26,20 +31,50 @@
     margin: 3em auto;
 }
 
+.topic-header {
+    font-size: 1.5em;
+    color: #222;
+    margin-bottom: 0.2em;
+}
+
 .title,
 .title-tagline {
     margin: 0;
 }
+
 .title {
     text-transform: uppercase;
 }
+
 .title-tagline {
     font-weight: 300;
     color: #d9494e;
 }
 
+.topic-title {
+    font-size: 1em;
+    color: #222;
+    margin-bottom: 0.2em;
+}
+
+.topic {
+    background-color: white;
+    padding-bottom: 2em;
+}
+
+.topic-meta {
+    color: #999;
+    font-size: 90%;
+    margin: 0;
+}
+
+.topic-description {
+    color: #444;
+    line-height: 1.8em;
+}
+
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'ToyotaType', sans-serif;
     background-image: url('background.jpg');
 }
 

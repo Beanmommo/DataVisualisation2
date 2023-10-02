@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": { "text": "Toyota Manufacturing Plant Locations" },
-  "width": 900,
-  "height": 500,
+  "width": "container",
+  "height": 250,
   "layer": [
     {
       "data": {

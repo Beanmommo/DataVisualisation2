@@ -1,0 +1,56 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "toyota_production_sales_country.csv"},
+    "params": [
+        {
+            "name": "year_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "2010",
+                    "2011",
+                    "2012",
+                    "2013",
+                    "2014",
+                    "2015",
+                    "2016",
+                    "2017",
+                    "2018",
+                    "2019",
+                    "2020",
+                    "2021",
+                    "2022"
+                ],
+                "name": "Year Select: "
+            }
+        }
+    ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Type",
+            "type": "ordinal",
+            "axis": null
+        },
+        "y": {
+            "aggregate":"sum",
+            "field": "2011",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "Type",
+            "scale": {
+                "domain": ["Production", "Sales"],
+                "range": ["#bbbbbb", "#d71920"]
+            }
+        },
+        "column":{
+            "field": "Region",
+            "type": "nominal",
+            "header": {
+                "labelOrient": "bottom"
+            }
+        }
+    }
+
+}   

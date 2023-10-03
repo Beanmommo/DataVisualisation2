@@ -60,6 +60,8 @@
 .topic {
     background-color: white;
     padding-bottom: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .topic-meta {

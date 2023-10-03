@@ -38,7 +38,7 @@
         "projection": {
           "type":"equalEarth"
         },
-        "mark":"point",
+        "mark":"circle",
         "encoding": {
             "longitude": {
                 "field": "Longitude",
@@ -52,7 +52,12 @@
                 "value": 20
             },
             "color": {
-                "value": "red"
+                "field": "Region",
+                "type": "nominal",
+                "scale": {
+                  "domain": ["Africa", "Asia", "China", "Europe", "Latin America", "North America", "Oceania"],
+                  "range": ["#003f5c", "#374c80", "#7a5195", "#bc5090", "#ef5675", "#ff764a", "#ffa600"]
+                }
             },
             "tooltip": [
                 {

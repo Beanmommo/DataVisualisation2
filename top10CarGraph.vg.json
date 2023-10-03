@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "top10carww.csv"
+    },
+    "width": 500,
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "UnitsSold", 
+            "type": "quantitative"
+        },
+        "y": {
+            "field": "Model", 
+            "type": "nominal",
+            "sort": {
+                "field": "UnitsSold",
+                "order": "descending"
+            },
+            "axis": {
+                "labelPadding": 10
+            }
+        },
+        "color": {
+            "field": "Brand",
+            "type": "nominal",
+            "scale": {
+                "domain": ["Toyota", "Ford", "Tesla", "Honda", "Chervolet", "Hyundai"],
+                "range": ["#d71920", "#bbbbbb", "#bbbbbb", "#bbbbbb", "#bbbbbb", "#bbbbbb"]
+            }
+        }
+    },
+    "config": {
+        "padding": {
+            "bottom": 10,
+            "top": 10
+        }
+    }
+  }

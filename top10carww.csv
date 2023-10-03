@@ -1,0 +1,11 @@
+Brand,Model,UnitsSold,Image
+Toyota,Toyota Corolla,1120000,"images/Car/corolla.png"
+Toyota,Toyota RAV4,870000,"images/Car/rav4.png"
+Ford,Ford F-Series,787000,"images/Car/fseries.png"
+Tesla,Tesla Model Y,786000,"images/Car/modely.png"
+Toyota,Toyota Camry,675000,"images/Car/camry.png"
+Honda,Honda CR-V,601000,"images/Car/crv.png"
+Tesla,Tesla Model 3,596000,"images/Car/model3.png"
+Chervolet,Chevy Silverado,592000,"images/Car/silverado.png"
+Toyota,Toyota Hilux,564000,"images/Car/hilux.png"
+Hyundai,Hyundai Tucson,564000,"images/Car/tucson.png"

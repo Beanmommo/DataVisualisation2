@@ -1,0 +1,45 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "top10auto_company_marketcap_wide.csv"
+    },
+    "width": "container",
+    "layer": [
+        {
+            "mark": "bar",
+            "encoding": {
+                "x": {
+                    "field": "2023", 
+                    "type": "quantitative",
+                    "axis": {
+                        "grid": false
+                    }
+                },
+                "y": {
+                    "field": "Name", 
+                    "type": "nominal",
+                    "sort": "-x",
+                    "scale": {
+                        "padding": 0.6
+                    }
+                },
+                "color": {
+                    "field": "Name",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": ["Toyota", "BMW","BYD","Ferrari","Honda","Mercedes", "Porsche", "Stellantis", "Tesla", "Volkswagen"],
+            "range": ["#d71920", "#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb"]
+                    },
+                    "legend": null
+                }
+            }
+        }
+    ],
+    
+    "config": {
+        "padding": {
+            "bottom": 10,
+            "top": 10
+        }
+    }
+  }

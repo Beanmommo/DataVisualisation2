@@ -5,24 +5,35 @@
         "url": "top10auto_company_marketcap.csv"
     },
     "width": "container",
-    "mark": "line",
+    "layer": [
+      {
+        "mark": "line",
     "encoding": {
-      "x": {"field": "Year", "type": "temporal", "axis": {
-        "grid": false
-      }},
-      "y": {"field": "Value", "type": "quantitative",
-    "scale": {
-        "domain": [0, 300]
-    },
-    "axis": {
-        "grid": false
-    }},
-      "color": {
-        "field": "Name", "type": "nominal", "legend": null,
-        "scale": {
-            "domain": ["Toyota", "BMW","BYD","Ferrari","Honda","Mercedes", "Porsche", "Stellantis", "Tesla", "Volkswagen"],
-            "range": ["#d71920", "#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb"]
+      "x": {
+        "field": "Year", 
+        "type": "temporal", 
+        "axis": {
+          "grid": false
         }
-      }
+      },
+      "y": {
+        "field": "Value", 
+        "type": "quantitative",
+        "scale": {
+            "domain": [0, 300]
+        },
+        "axis": {
+            "grid": false
+        }},
+        "color": {
+          "field": "Name", "type": "nominal", "legend": null,
+          "scale": {
+              "domain": ["Toyota", "BMW","BYD","Ferrari","Honda","Mercedes", "Porsche", "Stellantis", "Tesla", "Volkswagen"],
+              "range": ["#d71920", "#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb"]
+          }
+        }
     }
+      }
+    ]
+    
 }

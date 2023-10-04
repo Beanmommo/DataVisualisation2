@@ -4,32 +4,38 @@
       "url": "top10carww.csv"
     },
     "width": 500,
-    "mark": "bar",
-    "encoding": {
-        "x": {
-            "field": "UnitsSold", 
-            "type": "quantitative"
-        },
-        "y": {
-            "field": "Model", 
-            "type": "nominal",
-            "sort": {
-                "field": "UnitsSold",
-                "order": "descending"
-            },
-            "axis": {
-                "labelPadding": 10
-            }
-        },
-        "color": {
-            "field": "Brand",
-            "type": "nominal",
-            "scale": {
-                "domain": ["Toyota", "Ford", "Tesla", "Honda", "Chervolet", "Hyundai"],
-                "range": ["#d71920", "#bbbbbb", "#bbbbbb", "#bbbbbb", "#bbbbbb", "#bbbbbb"]
+    "layer": [
+        {
+            "mark": "bar",
+            "encoding": {
+                "x": {
+                    "field": "UnitsSold", 
+                    "type": "quantitative",
+                    "axis": {
+                        "grid": false
+                    }
+                },
+                "y": {
+                    "field": "Model", 
+                    "type": "nominal",
+                    "sort": "-x",
+                    "scale": {
+                        "padding": 0.6
+                    }
+                },
+                "color": {
+                    "field": "Brand",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": ["Toyota", "Ford", "Tesla", "Honda", "Chervolet", "Hyundai"],
+                        "range": ["#d71920", "#bbbbbb", "#bbbbbb", "#bbbbbb", "#bbbbbb", "#bbbbbb"]
+                    },
+                    "legend": null
+                }
             }
         }
-    },
+    ],
+    
     "config": {
         "padding": {
             "bottom": 10,

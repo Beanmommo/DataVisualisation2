@@ -1,12 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "toyota_production_sales_country.csv"},
+    "data": {"url": "toyota_prod_sales_long.csv"},
     "params": [
         {
             "name": "year_selection",
             "bind": {
                 "input": "select",
                 "options": [
+                    null,
                     "2010",
                     "2011",
                     "2012",
@@ -25,6 +26,9 @@
             }
         }
     ],
+    "transform": [
+        {"filter": "year_selection == null || datum.Year == year_selection"}
+    ],
     "mark": "bar",
     "encoding": {
         "x": {
@@ -33,8 +37,8 @@
             "axis": null
         },
         "y": {
-            "aggregate":"sum",
-            "field": "2011",
+            "aggregate": "sum",
+            "field": "Value",
             "type": "quantitative"
         },
         "color": {

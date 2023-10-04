@@ -1,0 +1,24 @@
+,
+        {
+            "transform": [{"calculate": "-100000", "as": "imgOffset"}],
+            "mark": {
+                "type": "image", "width": 70, "height": 50
+            },
+            "encoding": {
+                "x": {
+                    "field": "imgOffset",
+                    "type": "quantitative",
+                    "scale": {"domain": [0, 1200000]}
+                },
+                "y": {
+                    "field": "Model",
+                    "type": "ordinal",
+                    "axis": null
+                    
+                },
+                "url": {
+                    "field": "Image",
+                    "type": "nominal"
+                }
+            }
+        }

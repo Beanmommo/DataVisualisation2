@@ -1,0 +1,794 @@
+Region,Country,Type,Year,Value
+Africa,Africa,Production,2010,123484
+Africa,Africa,Production,2011,151411
+Africa,Africa,Production,2012,150478
+Africa,Africa,Production,2013,138412
+Africa,Africa,Production,2014,133566
+Africa,Africa,Production,2015,106997
+Africa,Africa,Production,2016,123171
+Africa,Africa,Production,2017,117944
+Africa,Africa,Production,2018,122170
+Africa,Africa,Production,2019,111353
+Africa,Africa,Production,2020,94782
+Africa,Africa,Production,2021,128344
+Africa,Africa,Production,2022,111257
+Africa,Egypt,Production,2010,0
+Africa,Egypt,Production,2011,2
+Africa,Egypt,Production,2012,2054
+Africa,Egypt,Production,2013,303
+Africa,Egypt,Production,2014,1327
+Africa,Egypt,Production,2015,1788
+Africa,Egypt,Production,2016,1090
+Africa,Egypt,Production,2017,647
+Africa,Egypt,Production,2018,931
+Africa,Egypt,Production,2019,774
+Africa,Egypt,Production,2020,720
+Africa,Egypt,Production,2021,1205
+Africa,Egypt,Production,2022,1406
+Africa,Ghana,Production,2010,0
+Africa,Ghana,Production,2011,0
+Africa,Ghana,Production,2012,0
+Africa,Ghana,Production,2013,0
+Africa,Ghana,Production,2014,0
+Africa,Ghana,Production,2015,0
+Africa,Ghana,Production,2016,0
+Africa,Ghana,Production,2017,0
+Africa,Ghana,Production,2018,0
+Africa,Ghana,Production,2019,0
+Africa,Ghana,Production,2020,
+Africa,Ghana,Production,2021,379
+Africa,Ghana,Production,2022,345
+Africa,Kenya,Production,2010,0
+Africa,Kenya,Production,2011,0
+Africa,Kenya,Production,2012,0
+Africa,Kenya,Production,2013,0
+Africa,Kenya,Production,2014,0
+Africa,Kenya,Production,2015,0
+Africa,Kenya,Production,2016,0
+Africa,Kenya,Production,2017,0
+Africa,Kenya,Production,2018,0
+Africa,Kenya,Production,2019,395
+Africa,Kenya,Production,2020,692
+Africa,Kenya,Production,2021,1060
+Africa,Kenya,Production,2022,781
+Africa,Other,Sales,2010,93970
+Africa,Other,Sales,2011,100521
+Africa,Other,Sales,2012,123865
+Africa,Other,Sales,2013,125350
+Africa,Other,Sales,2014,122370
+Africa,Other,Sales,2015,93505
+Africa,Other,Sales,2016,63666
+Africa,Other,Sales,2017,59286
+Africa,Other,Sales,2018,65905
+Africa,Other,Sales,2019,80437
+Africa,Other,Sales,2020,74633
+Africa,Other,Sales,2021,102617
+Africa,Other,Sales,2022,96328
+Africa,South Africa,Production,2010,123484
+Africa,South Africa,Production,2011,151409
+Africa,South Africa,Production,2012,148424
+Africa,South Africa,Production,2013,138109
+Africa,South Africa,Production,2014,132239
+Africa,South Africa,Production,2015,105209
+Africa,South Africa,Production,2016,122081
+Africa,South Africa,Production,2017,117297
+Africa,South Africa,Production,2018,121239
+Africa,South Africa,Production,2019,110184
+Africa,South Africa,Production,2020,93370
+Africa,South Africa,Production,2021,125700
+Africa,South Africa,Production,2022,108725
+Africa,South Africa,Sales,2010,101527
+Africa,South Africa,Sales,2011,104868
+Africa,South Africa,Sales,2012,121305
+Africa,South Africa,Sales,2013,123984
+Africa,South Africa,Sales,2014,123950
+Africa,South Africa,Sales,2015,115470
+Africa,South Africa,Sales,2016,119731
+Africa,South Africa,Sales,2017,123960
+Africa,South Africa,Sales,2018,130297
+Africa,South Africa,Sales,2019,120122
+Africa,South Africa,Sales,2020,89832
+Africa,South Africa,Sales,2021,127620
+Africa,South Africa,Sales,2022,125237
+Asia,China,Production,2010,769941
+Asia,China,Production,2011,821397
+Asia,China,Production,2012,712656
+Asia,China,Production,2013,889917
+Asia,China,Production,2014,940811
+Asia,China,Production,2015,1071344
+Asia,China,Production,2016,1103762
+Asia,China,Production,2017,1141901
+Asia,China,Production,2018,1350749
+Asia,China,Production,2019,1311208
+Asia,China,Production,2020,1716624
+Asia,China,Production,2021,1700928
+Asia,China,Production,2022,1766518
+Asia,China,Sales,2010,886442
+Asia,China,Sales,2011,898660
+Asia,China,Sales,2012,826800
+Asia,China,Sales,2013,974764
+Asia,China,Sales,2014,1047622
+Asia,China,Sales,2015,1201355
+Asia,China,Sales,2016,1230777
+Asia,China,Sales,2017,1328467
+Asia,China,Sales,2018,1510122
+Asia,China,Sales,2019,1543628
+Asia,China,Sales,2020,2000084
+Asia,China,Sales,2021,1915128
+Asia,China,Sales,2022,1875908
+Asia,India,Production,2010,75515
+Asia,India,Production,2011,161321
+Asia,India,Production,2012,189393
+Asia,India,Production,2013,154218
+Asia,India,Production,2014,159591
+Asia,India,Production,2015,146967
+Asia,India,Production,2016,153980
+Asia,India,Production,2017,153540
+Asia,India,Production,2018,159892
+Asia,India,Production,2019,100606
+Asia,India,Production,2020,53310
+Asia,India,Production,2021,74764
+Asia,India,Production,2022,176588
+Asia,India,Sales,2010,0
+Asia,India,Sales,2011,0
+Asia,India,Sales,2012,0
+Asia,India,Sales,2013,0
+Asia,India,Sales,2014,0
+Asia,India,Sales,2015,0
+Asia,India,Sales,2016,0
+Asia,India,Sales,2017,0
+Asia,India,Sales,2018,0
+Asia,India,Sales,2019,0
+Asia,India,Sales,2020,0
+Asia,India,Sales,2021,128266
+Asia,India,Sales,2022,173439
+Asia,Indonesia,Production,2010,264622
+Asia,Indonesia,Production,2011,324900
+Asia,Indonesia,Production,2012,416260
+Asia,Indonesia,Production,2013,430070
+Asia,Indonesia,Production,2014,412114
+Asia,Indonesia,Production,2015,353514
+Asia,Indonesia,Production,2016,406861
+Asia,Indonesia,Production,2017,347892
+Asia,Indonesia,Production,2018,179408
+Asia,Indonesia,Production,2019,185838
+Asia,Indonesia,Production,2020,106661
+Asia,Indonesia,Production,2021,215644
+Asia,Indonesia,Production,2022,264440
+Asia,Indonesia,Sales,2010,299557
+Asia,Indonesia,Sales,2011,326651
+Asia,Indonesia,Sales,2012,400717
+Asia,Indonesia,Sales,2013,437995
+Asia,Indonesia,Sales,2014,363597
+Asia,Indonesia,Sales,2015,337647
+Asia,Indonesia,Sales,2016,397442
+Asia,Indonesia,Sales,2017,364149
+Asia,Indonesia,Sales,2018,346858
+Asia,Indonesia,Sales,2019,322873
+Asia,Indonesia,Sales,2020,171251
+Asia,Indonesia,Sales,2021,312301
+Asia,Indonesia,Sales,2022,336298
+Asia,Malaysia,Production,2010,65137
+Asia,Malaysia,Production,2011,62721
+Asia,Malaysia,Production,2012,70719
+Asia,Malaysia,Production,2013,63763
+Asia,Malaysia,Production,2014,72348
+Asia,Malaysia,Production,2015,71330
+Asia,Malaysia,Production,2016,50891
+Asia,Malaysia,Production,2017,56653
+Asia,Malaysia,Production,2018,48993
+Asia,Malaysia,Production,2019,54175
+Asia,Malaysia,Production,2020,56329
+Asia,Malaysia,Production,2021,58408
+Asia,Malaysia,Production,2022,86972
+Asia,Malaysia,Sales,2010,92936
+Asia,Malaysia,Sales,2011,90143
+Asia,Malaysia,Sales,2012,104046
+Asia,Malaysia,Sales,2013,96786
+Asia,Malaysia,Sales,2014,95606
+Asia,Malaysia,Sales,2015,89746
+Asia,Malaysia,Sales,2016,71317
+Asia,Malaysia,Sales,2017,66579
+Asia,Malaysia,Sales,2018,67600
+Asia,Malaysia,Sales,2019,66727
+Asia,Malaysia,Sales,2020,65888
+Asia,Malaysia,Sales,2021,77690
+Asia,Malaysia,Sales,2022,103807
+Asia,Myanmar,Production,2010,0
+Asia,Myanmar,Production,2011,0
+Asia,Myanmar,Production,2012,0
+Asia,Myanmar,Production,2013,0
+Asia,Myanmar,Production,2014,0
+Asia,Myanmar,Production,2015,0
+Asia,Myanmar,Production,2016,0
+Asia,Myanmar,Production,2017,0
+Asia,Myanmar,Production,2018,0
+Asia,Myanmar,Production,2019,0
+Asia,Myanmar,Production,2020,0
+Asia,Myanmar,Production,2021,0
+Asia,Myanmar,Production,2022,193
+Asia,Other,Sales,2010,103275
+Asia,Other,Sales,2011,171048
+Asia,Other,Sales,2012,183758
+Asia,Other,Sales,2013,167850
+Asia,Other,Sales,2014,170458
+Asia,Other,Sales,2015,163116
+Asia,Other,Sales,2016,179791
+Asia,Other,Sales,2017,180193
+Asia,Other,Sales,2018,189074
+Asia,Other,Sales,2019,152073
+Asia,Other,Sales,2020,121492
+Asia,Other,Sales,2021,25855
+Asia,Other,Sales,2022,25814
+Asia,Pakistan,Production,2010,45577
+Asia,Pakistan,Production,2011,47216
+Asia,Pakistan,Production,2012,39904
+Asia,Pakistan,Production,2013,38347
+Asia,Pakistan,Production,2014,47142
+Asia,Pakistan,Production,2015,64998
+Asia,Pakistan,Production,2016,61989
+Asia,Pakistan,Production,2017,60455
+Asia,Pakistan,Production,2018,66352
+Asia,Pakistan,Production,2019,41016
+Asia,Pakistan,Production,2020,45913
+Asia,Pakistan,Production,2021,71285
+Asia,Pakistan,Production,2022,43794
+Asia,Pakistan,Sales,2010,48456
+Asia,Pakistan,Sales,2011,47793
+Asia,Pakistan,Sales,2012,41643
+Asia,Pakistan,Sales,2013,38385
+Asia,Pakistan,Sales,2014,48818
+Asia,Pakistan,Sales,2015,65086
+Asia,Pakistan,Sales,2016,62668
+Asia,Pakistan,Sales,2017,61837
+Asia,Pakistan,Sales,2018,67058
+Asia,Pakistan,Sales,2019,41294
+Asia,Pakistan,Sales,2020,46850
+Asia,Pakistan,Sales,2021,72155
+Asia,Pakistan,Sales,2022,44865
+Asia,Philippines,Production,2010,28432
+Asia,Philippines,Production,2011,26465
+Asia,Philippines,Production,2012,30718
+Asia,Philippines,Production,2013,38334
+Asia,Philippines,Production,2014,43260
+Asia,Philippines,Production,2015,48394
+Asia,Philippines,Production,2016,60275
+Asia,Philippines,Production,2017,57824
+Asia,Philippines,Production,2018,44516
+Asia,Philippines,Production,2019,52492
+Asia,Philippines,Production,2020,37630
+Asia,Philippines,Production,2021,47370
+Asia,Philippines,Production,2022,55044
+Asia,Philippines,Sales,2010,58359
+Asia,Philippines,Sales,2011,53393
+Asia,Philippines,Sales,2012,69812
+Asia,Philippines,Sales,2013,81354
+Asia,Philippines,Sales,2014,111098
+Asia,Philippines,Sales,2015,127709
+Asia,Philippines,Sales,2016,168919
+Asia,Philippines,Sales,2017,177659
+Asia,Philippines,Sales,2018,152118
+Asia,Philippines,Sales,2019,154153
+Asia,Philippines,Sales,2020,107418
+Asia,Philippines,Sales,2021,133802
+Asia,Philippines,Sales,2022,182081
+Asia,South Korea,Sales,2010,10769
+Asia,South Korea,Sales,2011,10177
+Asia,South Korea,Sales,2012,14732
+Asia,South Korea,Sales,2013,12851
+Asia,South Korea,Sales,2014,14414
+Asia,South Korea,Sales,2015,15476
+Asia,South Korea,Sales,2016,21818
+Asia,South Korea,Sales,2017,26366
+Asia,South Korea,Sales,2018,29856
+Asia,South Korea,Sales,2019,18584
+Asia,South Korea,Sales,2020,15674
+Asia,South Korea,Sales,2021,15510
+Asia,South Korea,Sales,2022,16250
+Asia,Taiwan,Production,2010,117696
+Asia,Taiwan,Production,2011,155339
+Asia,Taiwan,Production,2012,167480
+Asia,Taiwan,Production,2013,172888
+Asia,Taiwan,Production,2014,202722
+Asia,Taiwan,Production,2015,176636
+Asia,Taiwan,Production,2016,132778
+Asia,Taiwan,Production,2017,111561
+Asia,Taiwan,Production,2018,84672
+Asia,Taiwan,Production,2019,106710
+Asia,Taiwan,Production,2020,98960
+Asia,Taiwan,Production,2021,114915
+Asia,Taiwan,Production,2022,125082
+Asia,Taiwan,Sales,2010,114988
+Asia,Taiwan,Sales,2011,117306
+Asia,Taiwan,Sales,2012,120785
+Asia,Taiwan,Sales,2013,125328
+Asia,Taiwan,Sales,2014,143755
+Asia,Taiwan,Sales,2015,128709
+Asia,Taiwan,Sales,2016,137175
+Asia,Taiwan,Sales,2017,129196
+Asia,Taiwan,Sales,2018,118784
+Asia,Taiwan,Sales,2019,145347
+Asia,Taiwan,Sales,2020,152248
+Asia,Taiwan,Sales,2021,142200
+Asia,Taiwan,Sales,2022,143130
+Asia,Thailand,Production,2010,629944
+Asia,Thailand,Production,2011,560604
+Asia,Thailand,Production,2012,885032
+Asia,Thailand,Production,2013,832729
+Asia,Thailand,Production,2014,696227
+Asia,Thailand,Production,2015,580800
+Asia,Thailand,Production,2016,530269
+Asia,Thailand,Production,2017,540053
+Asia,Thailand,Production,2018,609032
+Asia,Thailand,Production,2019,532685
+Asia,Thailand,Production,2020,457102
+Asia,Thailand,Production,2021,551660
+Asia,Thailand,Production,2022,667522
+Asia,Thailand,Sales,2010,349757
+Asia,Thailand,Sales,2011,317699
+Asia,Thailand,Sales,2012,520119
+Asia,Thailand,Sales,2013,404457
+Asia,Thailand,Sales,2014,312854
+Asia,Thailand,Sales,2015,246476
+Asia,Thailand,Sales,2016,253333
+Asia,Thailand,Sales,2017,245612
+Asia,Thailand,Sales,2018,337125
+Asia,Thailand,Sales,2019,302295
+Asia,Thailand,Sales,2020,244086
+Asia,Thailand,Sales,2021,260936
+Asia,Thailand,Sales,2022,286787
+Asia,Vietnam,Production,2010,30618
+Asia,Vietnam,Production,2011,25614
+Asia,Vietnam,Production,2012,22809
+Asia,Vietnam,Production,2013,30942
+Asia,Vietnam,Production,2014,39046
+Asia,Vietnam,Production,2015,45626
+Asia,Vietnam,Production,2016,50112
+Asia,Vietnam,Production,2017,43994
+Asia,Vietnam,Production,2018,50900
+Asia,Vietnam,Production,2019,50734
+Asia,Vietnam,Production,2020,40286
+Asia,Vietnam,Production,2021,29283
+Asia,Vietnam,Production,2022,33786
+Asia,Vietnam,Sales,2010,31677
+Asia,Vietnam,Sales,2011,27619
+Asia,Vietnam,Sales,2012,25947
+Asia,Vietnam,Sales,2013,34341
+Asia,Vietnam,Sales,2014,44851
+Asia,Vietnam,Sales,2015,52664
+Asia,Vietnam,Sales,2016,59974
+Asia,Vietnam,Sales,2017,59042
+Asia,Vietnam,Sales,2018,73334
+Asia,Vietnam,Sales,2019,75376
+Asia,Vietnam,Sales,2020,71786
+Asia,Vietnam,Sales,2021,74373
+Asia,Vietnam,Sales,2022,87473
+Europe,Czech Republic,Production,2010,82920
+Europe,Czech Republic,Production,2011,88716
+Europe,Czech Republic,Production,2012,70314
+Europe,Czech Republic,Production,2013,69617
+Europe,Czech Republic,Production,2014,80429
+Europe,Czech Republic,Production,2015,90009
+Europe,Czech Republic,Production,2016,88598
+Europe,Czech Republic,Production,2017,91204
+Europe,Czech Republic,Production,2018,100794
+Europe,Czech Republic,Production,2019,98573
+Europe,Czech Republic,Production,2020,77280
+Europe,Czech Republic,Production,2021,97303
+Europe,Czech Republic,Production,2022,204061
+Europe,France,Production,2010,158504
+Europe,France,Production,2011,170817
+Europe,France,Production,2012,184055
+Europe,France,Production,2013,200160
+Europe,France,Production,2014,235676
+Europe,France,Production,2015,226683
+Europe,France,Production,2016,236289
+Europe,France,Production,2017,235669
+Europe,France,Production,2018,251669
+Europe,France,Production,2019,214656
+Europe,France,Production,2020,200195
+Europe,France,Production,2021,196460
+Europe,France,Production,2022,266709
+Europe,France,Sales,2010,73137
+Europe,France,Sales,2011,70371
+Europe,France,Sales,2012,75899
+Europe,France,Sales,2013,79969
+Europe,France,Sales,2014,77911
+Europe,France,Sales,2015,84707
+Europe,France,Sales,2016,92439
+Europe,France,Sales,2017,98948
+Europe,France,Sales,2018,107165
+Europe,France,Sales,2019,119105
+Europe,France,Sales,2020,110523
+Europe,France,Sales,2021,104496
+Europe,France,Sales,2022,124601
+Europe,Germany,Sales,2010,83577
+Europe,Germany,Sales,2011,82802
+Europe,Germany,Sales,2012,78381
+Europe,Germany,Sales,2013,75948
+Europe,Germany,Sales,2014,70693
+Europe,Germany,Sales,2015,69736
+Europe,Germany,Sales,2016,80406
+Europe,Germany,Sales,2017,86889
+Europe,Germany,Sales,2018,87687
+Europe,Germany,Sales,2019,91232
+Europe,Germany,Sales,2020,83384
+Europe,Germany,Sales,2021,81177
+Europe,Germany,Sales,2022,91605
+Europe,Italy,Sales,2010,79085
+Europe,Italy,Sales,2011,63909
+Europe,Italy,Sales,2012,54837
+Europe,Italy,Sales,2013,59720
+Europe,Italy,Sales,2014,65615
+Europe,Italy,Sales,2015,73818
+Europe,Italy,Sales,2016,82509
+Europe,Italy,Sales,2017,90083
+Europe,Italy,Sales,2018,91375
+Europe,Italy,Sales,2019,91911
+Europe,Italy,Sales,2020,88511
+Europe,Italy,Sales,2021,84930
+Europe,Italy,Sales,2022,109617
+Europe,Kazakhstan,Production,2010,0
+Europe,Kazakhstan,Production,2011,0
+Europe,Kazakhstan,Production,2012,0
+Europe,Kazakhstan,Production,2013,0
+Europe,Kazakhstan,Production,2014,750
+Europe,Kazakhstan,Production,2015,324
+Europe,Kazakhstan,Production,2016,48
+Europe,Kazakhstan,Production,2017,0
+Europe,Kazakhstan,Production,2018,0
+Europe,Kazakhstan,Production,2019,0
+Europe,Kazakhstan,Production,2020,0
+Europe,Kazakhstan,Production,2021,0
+Europe,Kazakhstan,Production,2022,0
+Europe,Other,Sales,2010,329432
+Europe,Other,Sales,2011,297209
+Europe,Other,Sales,2012,279371
+Europe,Other,Sales,2013,300986
+Europe,Other,Sales,2014,304497
+Europe,Other,Sales,2015,324254
+Europe,Other,Sales,2016,362584
+Europe,Other,Sales,2017,388895
+Europe,Other,Sales,2018,376958
+Europe,Other,Sales,2019,403912
+Europe,Other,Sales,2020,402383
+Europe,Other,Sales,2021,435953
+Europe,Other,Sales,2022,490555
+Europe,Russia,Production,2010,0
+Europe,Russia,Production,2011,0
+Europe,Russia,Production,2012,0
+Europe,Russia,Production,2013,0
+Europe,Russia,Production,2014,22647
+Europe,Russia,Production,2015,31681
+Europe,Russia,Production,2016,31277
+Europe,Russia,Production,2017,30050
+Europe,Russia,Production,2018,44667
+Europe,Russia,Production,2019,61941
+Europe,Russia,Production,2020,67283
+Europe,Russia,Production,2021,72503
+Europe,Russia,Production,2022,0
+Europe,Russia,Sales,2010,106331
+Europe,Russia,Sales,2011,139208
+Europe,Russia,Sales,2012,166261
+Europe,Russia,Sales,2013,177673
+Europe,Russia,Sales,2014,172225
+Europe,Russia,Sales,2015,118835
+Europe,Russia,Sales,2016,117472
+Europe,Russia,Sales,2017,119403
+Europe,Russia,Sales,2018,133804
+Europe,Russia,Sales,2019,133777
+Europe,Russia,Sales,2020,110421
+Europe,Russia,Sales,2021,109485
+Europe,Russia,Sales,2022,3105
+Europe,Spain,Sales,2010,45550
+Europe,Spain,Sales,2011,43007
+Europe,Spain,Sales,2012,35080
+Europe,Spain,Sales,2013,40589
+Europe,Spain,Sales,2014,48808
+Europe,Spain,Sales,2015,59010
+Europe,Spain,Sales,2016,65882
+Europe,Spain,Sales,2017,74095
+Europe,Spain,Sales,2018,80618
+Europe,Spain,Sales,2019,79819
+Europe,Spain,Sales,2020,69785
+Europe,Spain,Sales,2021,75412
+Europe,Spain,Sales,2022,92091
+Europe,Turkey,Production,2010,83384
+Europe,Turkey,Production,2011,88723
+Europe,Turkey,Production,2012,64509
+Europe,Turkey,Production,2013,125749
+Europe,Turkey,Production,2014,126579
+Europe,Turkey,Production,2015,110653
+Europe,Turkey,Production,2016,199130
+Europe,Turkey,Production,2017,274548
+Europe,Turkey,Production,2018,256523
+Europe,Turkey,Production,2019,249014
+Europe,Turkey,Production,2020,225186
+Europe,Turkey,Production,2021,220463
+Europe,Turkey,Production,2022,201307
+Europe,United Kingdom,Production,2010,136927
+Europe,United Kingdom,Production,2011,123747
+Europe,United Kingdom,Production,2012,120366
+Europe,United Kingdom,Production,2013,180647
+Europe,United Kingdom,Production,2014,171560
+Europe,United Kingdom,Production,2015,195917
+Europe,United Kingdom,Production,2016,170656
+Europe,United Kingdom,Production,2017,140781
+Europe,United Kingdom,Production,2018,126521
+Europe,United Kingdom,Production,2019,148514
+Europe,United Kingdom,Production,2020,127442
+Europe,United Kingdom,Production,2021,120003
+Europe,United Kingdom,Production,2022,99230
+Europe,United Kingdom,Sales,2010,96423
+Europe,United Kingdom,Sales,2011,93208
+Europe,United Kingdom,Sales,2012,102209
+Europe,United Kingdom,Sales,2013,109446
+Europe,United Kingdom,Sales,2014,119605
+Europe,United Kingdom,Sales,2015,124272
+Europe,United Kingdom,Sales,2016,123368
+Europe,United Kingdom,Sales,2017,122725
+Europe,United Kingdom,Sales,2018,124642
+Europe,United Kingdom,Sales,2019,125611
+Europe,United Kingdom,Sales,2020,111219
+Europe,United Kingdom,Sales,2021,131886
+Europe,United Kingdom,Sales,2022,132748
+Japan,Japan,Production,2010,3282855
+Japan,Japan,Production,2011,3119709
+Japan,Japan,Production,2012,3368940
+Japan,Japan,Production,2013,3377598
+Japan,Japan,Production,2014,3185473
+Japan,Japan,Production,2015,3171757
+Japan,Japan,Production,2016,3187999
+Japan,Japan,Production,2017,3198912
+Japan,Japan,Production,2018,3212906
+Japan,Japan,Production,2019,3303688
+Japan,Japan,Production,2020,2918905
+Japan,Japan,Production,2021,2760843
+Japan,Japan,Production,2022,2786801
+Japan,Japan,Sales,2010,1407141
+Japan,Japan,Sales,2011,1412999
+Japan,Japan,Sales,2012,1612097
+Japan,Japan,Sales,2013,1648234
+Japan,Japan,Sales,2014,1466302
+Japan,Japan,Sales,2015,1488679
+Japan,Japan,Sales,2016,1636495
+Japan,Japan,Sales,2017,1597471
+Japan,Japan,Sales,2018,1569566
+Japan,Japan,Sales,2019,1587297
+Japan,Japan,Sales,2020,1538224
+Japan,Japan,Sales,2021,1395920
+Japan,Japan,Sales,2022,1407158
+Latin America,Argentina,Production,2010,69950
+Latin America,Argentina,Production,2011,72925
+Latin America,Argentina,Production,2012,94926
+Latin America,Argentina,Production,2013,94792
+Latin America,Argentina,Production,2014,93997
+Latin America,Argentina,Production,2015,77290
+Latin America,Argentina,Production,2016,104854
+Latin America,Argentina,Production,2017,130350
+Latin America,Argentina,Production,2018,140398
+Latin America,Argentina,Production,2019,119307
+Latin America,Argentina,Production,2020,98504
+Latin America,Argentina,Production,2021,146534
+Latin America,Argentina,Production,2022,171087
+Latin America,Argentina,Sales,2010,33344
+Latin America,Argentina,Sales,2011,39515
+Latin America,Argentina,Sales,2012,48959
+Latin America,Argentina,Sales,2013,58657
+Latin America,Argentina,Sales,2014,62827
+Latin America,Argentina,Sales,2015,70554
+Latin America,Argentina,Sales,2016,82038
+Latin America,Argentina,Sales,2017,97513
+Latin America,Argentina,Sales,2018,81234
+Latin America,Argentina,Sales,2019,53712
+Latin America,Argentina,Sales,2020,57528
+Latin America,Argentina,Sales,2021,71134
+Latin America,Argentina,Sales,2022,92073
+Latin America,Brazil,Production,2010,66237
+Latin America,Brazil,Production,2011,67768
+Latin America,Brazil,Production,2012,98297
+Latin America,Brazil,Production,2013,140178
+Latin America,Brazil,Production,2014,168552
+Latin America,Brazil,Production,2015,175026
+Latin America,Brazil,Production,2016,177390
+Latin America,Brazil,Production,2017,203000
+Latin America,Brazil,Production,2018,212981
+Latin America,Brazil,Production,2019,174004
+Latin America,Brazil,Production,2020,114009
+Latin America,Brazil,Production,2021,188872
+Latin America,Brazil,Production,2022,227374
+Latin America,Brazil,Sales,2010,98614
+Latin America,Brazil,Sales,2011,96698
+Latin America,Brazil,Sales,2012,134489
+Latin America,Brazil,Sales,2013,178095
+Latin America,Brazil,Sales,2014,201420
+Latin America,Brazil,Sales,2015,174644
+Latin America,Brazil,Sales,2016,179640
+Latin America,Brazil,Sales,2017,196705
+Latin America,Brazil,Sales,2018,204808
+Latin America,Brazil,Sales,2019,207211
+Latin America,Brazil,Sales,2020,131724
+Latin America,Brazil,Sales,2021,181479
+Latin America,Brazil,Sales,2022,192269
+Latin America,Other,Sales,2010,142350
+Latin America,Other,Sales,2011,124783
+Latin America,Other,Sales,2012,158649
+Latin America,Other,Sales,2013,159166
+Latin America,Other,Sales,2014,141696
+Latin America,Other,Sales,2015,129478
+Latin America,Other,Sales,2016,134088
+Latin America,Other,Sales,2017,137621
+Latin America,Other,Sales,2018,141809
+Latin America,Other,Sales,2019,130985
+Latin America,Other,Sales,2020,94037
+Latin America,Other,Sales,2021,155101
+Latin America,Other,Sales,2022,198787
+Latin America,Venezuela,Production,2010,14061
+Latin America,Venezuela,Production,2011,10456
+Latin America,Venezuela,Production,2012,11136
+Latin America,Venezuela,Production,2013,7122
+Latin America,Venezuela,Production,2014,3872
+Latin America,Venezuela,Production,2015,2238
+Latin America,Venezuela,Production,2016,830
+Latin America,Venezuela,Production,2017,1040
+Latin America,Venezuela,Production,2018,542
+Latin America,Venezuela,Production,2019,491
+Latin America,Venezuela,Production,2020,0
+Latin America,Venezuela,Production,2021,0
+Latin America,Venezuela,Production,2022,0
+Middle East,Other,Sales,2010,65454
+Middle East,Other,Sales,2011,45993
+Middle East,Other,Sales,2012,68593
+Middle East,Other,Sales,2013,94394
+Middle East,Other,Sales,2014,97194
+Middle East,Other,Sales,2015,76985
+Middle East,Other,Sales,2016,72853
+Middle East,Other,Sales,2017,75162
+Middle East,Other,Sales,2018,69813
+Middle East,Other,Sales,2019,86366
+Middle East,Other,Sales,2020,70908
+Middle East,Other,Sales,2021,91699
+Middle East,Other,Sales,2022,104045
+Middle East,United Arab Emirates,Sales,2010,505593
+Middle East,United Arab Emirates,Sales,2011,481722
+Middle East,United Arab Emirates,Sales,2012,657464
+Middle East,United Arab Emirates,Sales,2013,672636
+Middle East,United Arab Emirates,Sales,2014,699805
+Middle East,United Arab Emirates,Sales,2015,655657
+Middle East,United Arab Emirates,Sales,2016,475892
+Middle East,United Arab Emirates,Sales,2017,405253
+Middle East,United Arab Emirates,Sales,2018,348394
+Middle East,United Arab Emirates,Sales,2019,377220
+Middle East,United Arab Emirates,Sales,2020,280563
+Middle East,United Arab Emirates,Sales,2021,338319
+Middle East,United Arab Emirates,Sales,2022,409706
+North America,Canada,Production,2010,458592
+North America,Canada,Production,2011,422926
+North America,Canada,Production,2012,485198
+North America,Canada,Production,2013,509646
+North America,Canada,Production,2014,614702
+North America,Canada,Production,2015,599370
+North America,Canada,Production,2016,606787
+North America,Canada,Production,2017,543250
+North America,Canada,Production,2018,465617
+North America,Canada,Production,2019,477875
+North America,Canada,Production,2020,452723
+North America,Canada,Production,2021,393166
+North America,Canada,Production,2022,454314
+North America,Canada,Sales,2010,166488
+North America,Canada,Sales,2011,166446
+North America,Canada,Sales,2012,188171
+North America,Canada,Sales,2013,197639
+North America,Canada,Sales,2014,203402
+North America,Canada,Sales,2015,213146
+North America,Canada,Sales,2016,217353
+North America,Canada,Sales,2017,226318
+North America,Canada,Sales,2018,232953
+North America,Canada,Sales,2019,228449
+North America,Canada,Sales,2020,198644
+North America,Canada,Sales,2021,219185
+North America,Canada,Sales,2022,204141
+North America,Mexico,Production,2010,54048
+North America,Mexico,Production,2011,50351
+North America,Mexico,Production,2012,56322
+North America,Mexico,Production,2013,66881
+North America,Mexico,Production,2014,72957
+North America,Mexico,Production,2015,126810
+North America,Mexico,Production,2016,143926
+North America,Mexico,Production,2017,150902
+North America,Mexico,Production,2018,198745
+North America,Mexico,Production,2019,182093
+North America,Mexico,Production,2020,182324
+North America,Mexico,Production,2021,236956
+North America,Mexico,Production,2022,263136
+North America,Mexico,Sales,2010,49202
+North America,Mexico,Sales,2011,48641
+North America,Mexico,Sales,2012,56727
+North America,Mexico,Sales,2013,61606
+North America,Mexico,Sales,2014,73496
+North America,Mexico,Sales,2015,89079
+North America,Mexico,Sales,2016,108240
+North America,Mexico,Sales,2017,105471
+North America,Mexico,Sales,2018,109058
+North America,Mexico,Sales,2019,103876
+North America,Mexico,Sales,2020,74188
+North America,Mexico,Sales,2021,93184
+North America,Mexico,Sales,2022,96999
+North America,Other,Sales,2010,26163
+North America,Other,Sales,2011,25613
+North America,Other,Sales,2012,28472
+North America,Other,Sales,2013,28220
+North America,Other,Sales,2014,24554
+North America,Other,Sales,2015,23707
+North America,Other,Sales,2016,25720
+North America,Other,Sales,2017,25506
+North America,Other,Sales,2018,33365
+North America,Other,Sales,2019,28743
+North America,Other,Sales,2020,29904
+North America,Other,Sales,2021,35166
+North America,Other,Sales,2022,35489
+North America,United States of America,Production,2010,945432
+North America,United States of America,Production,2011,883442
+North America,United States of America,Production,2012,1225567
+North America,United States of America,Production,2013,1281450
+North America,United States of America,Production,2014,1336006
+North America,United States of America,Production,2015,1361240
+North America,United States of America,Production,2016,1370226
+North America,United States of America,Production,2017,1249115
+North America,United States of America,Production,2018,1209141
+North America,United States of America,Production,2019,1163699
+North America,United States of America,Production,2020,1011496
+North America,United States of America,Production,2021,1145535
+North America,United States of America,Production,2022,1125032
+North America,United States of America,Sales,2010,1811834
+North America,United States of America,Sales,2011,1698021
+North America,United States of America,Sales,2012,2124664
+North America,United States of America,Sales,2013,2227595
+North America,United States of America,Sales,2014,2428390
+North America,United States of America,Sales,2015,2492722
+North America,United States of America,Sales,2016,2413162
+North America,United States of America,Sales,2017,2473940
+North America,United States of America,Sales,2018,2398415
+North America,United States of America,Sales,2019,2335379
+North America,United States of America,Sales,2020,2220260
+North America,United States of America,Sales,2021,2243788
+North America,United States of America,Sales,2022,2063425
+Oceania,Australia,Production,2010,119473
+Oceania,Australia,Production,2011,93094
+Oceania,Australia,Production,2012,99440
+Oceania,Australia,Production,2013,102590
+Oceania,Australia,Production,2014,88416
+Oceania,Australia,Production,2015,95198
+Oceania,Australia,Production,2016,87464
+Oceania,Australia,Production,2017,42817
+Oceania,Australia,Production,2018,0
+Oceania,Australia,Production,2019,0
+Oceania,Australia,Production,2020,0
+Oceania,Australia,Production,2021,0
+Oceania,Australia,Production,2022,0
+Oceania,Australia,Sales,2010,217374
+Oceania,Australia,Sales,2011,187328
+Oceania,Australia,Sales,2012,225790
+Oceania,Australia,Sales,2013,221759
+Oceania,Australia,Sales,2014,211457
+Oceania,Australia,Sales,2015,212807
+Oceania,Australia,Sales,2016,220728
+Oceania,Australia,Sales,2017,229258
+Oceania,Australia,Sales,2018,223096
+Oceania,Australia,Sales,2019,215720
+Oceania,Australia,Sales,2020,220403
+Oceania,Australia,Sales,2021,234091
+Oceania,Australia,Sales,2022,221274
+Oceania,New Zealand,Sales,2010,29573
+Oceania,New Zealand,Sales,2011,27723
+Oceania,New Zealand,Sales,2012,34900
+Oceania,New Zealand,Sales,2013,36040
+Oceania,New Zealand,Sales,2014,37504
+Oceania,New Zealand,Sales,2015,37967
+Oceania,New Zealand,Sales,2016,38653
+Oceania,New Zealand,Sales,2017,44361
+Oceania,New Zealand,Sales,2018,41283
+Oceania,New Zealand,Sales,2019,40208
+Oceania,New Zealand,Sales,2020,31627
+Oceania,New Zealand,Sales,2021,40700
+Oceania,New Zealand,Sales,2022,42900

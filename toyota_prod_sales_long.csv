@@ -1,17 +1,17 @@
 Region,Country,Type,Year,Value
-Africa,Africa,Production,2010,123484
-Africa,Africa,Production,2011,151411
-Africa,Africa,Production,2012,150478
-Africa,Africa,Production,2013,138412
-Africa,Africa,Production,2014,133566
-Africa,Africa,Production,2015,106997
-Africa,Africa,Production,2016,123171
-Africa,Africa,Production,2017,117944
-Africa,Africa,Production,2018,122170
-Africa,Africa,Production,2019,111353
-Africa,Africa,Production,2020,94782
-Africa,Africa,Production,2021,128344
-Africa,Africa,Production,2022,111257
+Africa,Other,Production,2010,123484
+Africa,Other,Production,2011,151411
+Africa,Other,Production,2012,150478
+Africa,Other,Production,2013,138412
+Africa,Other,Production,2014,133566
+Africa,Other,Production,2015,106997
+Africa,Other,Production,2016,123171
+Africa,Other,Production,2017,117944
+Africa,Other,Production,2018,122170
+Africa,Other,Production,2019,111353
+Africa,Other,Production,2020,94782
+Africa,Other,Production,2021,128344
+Africa,Other,Production,2022,111257
 Africa,Egypt,Production,2010,0
 Africa,Egypt,Production,2011,2
 Africa,Egypt,Production,2012,2054
@@ -649,19 +649,6 @@ Middle East,Other,Sales,2019,86366
 Middle East,Other,Sales,2020,70908
 Middle East,Other,Sales,2021,91699
 Middle East,Other,Sales,2022,104045
-Middle East,United Arab Emirates,Sales,2010,505593
-Middle East,United Arab Emirates,Sales,2011,481722
-Middle East,United Arab Emirates,Sales,2012,657464
-Middle East,United Arab Emirates,Sales,2013,672636
-Middle East,United Arab Emirates,Sales,2014,699805
-Middle East,United Arab Emirates,Sales,2015,655657
-Middle East,United Arab Emirates,Sales,2016,475892
-Middle East,United Arab Emirates,Sales,2017,405253
-Middle East,United Arab Emirates,Sales,2018,348394
-Middle East,United Arab Emirates,Sales,2019,377220
-Middle East,United Arab Emirates,Sales,2020,280563
-Middle East,United Arab Emirates,Sales,2021,338319
-Middle East,United Arab Emirates,Sales,2022,409706
 North America,Canada,Production,2010,458592
 North America,Canada,Production,2011,422926
 North America,Canada,Production,2012,485198
@@ -792,3 +779,68 @@ Oceania,New Zealand,Sales,2019,40208
 Oceania,New Zealand,Sales,2020,31627
 Oceania,New Zealand,Sales,2021,40700
 Oceania,New Zealand,Sales,2022,42900
+Middle East,United Arab Emirates,Sales,2010,101118.6
+Middle East,United Arab Emirates,Sales,2011,96344.4
+Middle East,United Arab Emirates,Sales,2012,131492.8
+Middle East,United Arab Emirates,Sales,2013,134527.2
+Middle East,United Arab Emirates,Sales,2014,139961
+Middle East,United Arab Emirates,Sales,2015,131131.4
+Middle East,United Arab Emirates,Sales,2016,95178.4
+Middle East,United Arab Emirates,Sales,2017,81050.6
+Middle East,United Arab Emirates,Sales,2018,69678.8
+Middle East,United Arab Emirates,Sales,2019,75444
+Middle East,United Arab Emirates,Sales,2020,56112.6
+Middle East,United Arab Emirates,Sales,2021,67663.8
+Middle East,United Arab Emirates,Sales,2022,81941.2
+Middle East,Oman,Sales,2010,101118.6
+Middle East,Oman,Sales,2011,96344.4
+Middle East,Oman,Sales,2012,131492.8
+Middle East,Oman,Sales,2013,134527.2
+Middle East,Oman,Sales,2014,139961
+Middle East,Oman,Sales,2015,131131.4
+Middle East,Oman,Sales,2016,95178.4
+Middle East,Oman,Sales,2017,81050.6
+Middle East,Oman,Sales,2018,69678.8
+Middle East,Oman,Sales,2019,75444
+Middle East,Oman,Sales,2020,56112.6
+Middle East,Oman,Sales,2021,67663.8
+Middle East,Oman,Sales,2022,81941.2
+Middle East,Qatar,Sales,2010,101118.6
+Middle East,Qatar,Sales,2011,96344.4
+Middle East,Qatar,Sales,2012,131492.8
+Middle East,Qatar,Sales,2013,134527.2
+Middle East,Qatar,Sales,2014,139961
+Middle East,Qatar,Sales,2015,131131.4
+Middle East,Qatar,Sales,2016,95178.4
+Middle East,Qatar,Sales,2017,81050.6
+Middle East,Qatar,Sales,2018,69678.8
+Middle East,Qatar,Sales,2019,75444
+Middle East,Qatar,Sales,2020,56112.6
+Middle East,Qatar,Sales,2021,67663.8
+Middle East,Qatar,Sales,2022,81941.2
+Middle East,Saudi Arabia,Sales,2010,101118.6
+Middle East,Saudi Arabia,Sales,2011,96344.4
+Middle East,Saudi Arabia,Sales,2012,131492.8
+Middle East,Saudi Arabia,Sales,2013,134527.2
+Middle East,Saudi Arabia,Sales,2014,139961
+Middle East,Saudi Arabia,Sales,2015,131131.4
+Middle East,Saudi Arabia,Sales,2016,95178.4
+Middle East,Saudi Arabia,Sales,2017,81050.6
+Middle East,Saudi Arabia,Sales,2018,69678.8
+Middle East,Saudi Arabia,Sales,2019,75444
+Middle East,Saudi Arabia,Sales,2020,56112.6
+Middle East,Saudi Arabia,Sales,2021,67663.8
+Middle East,Saudi Arabia,Sales,2022,81941.2
+Middle East,Kuwait,Sales,2010,101118.6
+Middle East,Kuwait,Sales,2011,96344.4
+Middle East,Kuwait,Sales,2012,131492.8
+Middle East,Kuwait,Sales,2013,134527.2
+Middle East,Kuwait,Sales,2014,139961
+Middle East,Kuwait,Sales,2015,131131.4
+Middle East,Kuwait,Sales,2016,95178.4
+Middle East,Kuwait,Sales,2017,81050.6
+Middle East,Kuwait,Sales,2018,69678.8
+Middle East,Kuwait,Sales,2019,75444
+Middle East,Kuwait,Sales,2020,56112.6
+Middle East,Kuwait,Sales,2021,67663.8
+Middle East,Kuwait,Sales,2022,81941.2

@@ -13,6 +13,10 @@
     padding: 0;
 }
 
+#reference {
+    color: #999;
+}
+
 .sidebar {
     background: #ffffff;
     color: #d71920;

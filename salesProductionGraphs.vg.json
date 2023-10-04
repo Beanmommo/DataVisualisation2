@@ -39,7 +39,10 @@
         "y": {
             "aggregate": "sum",
             "field": "Value",
-            "type": "quantitative"
+            "type": "quantitative",
+            "axis": {
+                "grid": false
+            }
         },
         "color": {
             "field": "Type",

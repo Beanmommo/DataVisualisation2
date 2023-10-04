@@ -1,0 +1,134 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "" },
+    "width": "container",
+    "height": 300,
+    "params": [
+      {
+        "name": "year_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+          ],
+          "labels": [
+            "Sum all year data",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+          ],
+          "name": "Select Year: "
+        }
+      },
+      {
+        "name": "type_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Production",
+            "Sales"
+          ],
+          "labels": [
+            "Show Both",
+            "Production",
+            "Sales"
+          ],
+          "name": "Select Category: "
+        }
+      }
+    ],
+    "layer": [
+        {
+            "data": {
+              "url": "ne_110m_admin_0_countries.json",
+              "format": {
+                "type": "topojson",
+                "feature": "ne_110m_admin_0_countries"
+              }
+            },
+            "mark": {
+              "type": "geoshape",
+              "fill": "lightgrey",
+              "stroke": "white"
+            },
+            "projection": {
+              "type":"equalEarth"
+            }
+        },
+        {
+            "data": {
+              "graticule": { "step": [30, 30]}
+            },
+            "mark": {
+              "type": "geoshape",
+              "stroke": "#ddd",
+              "strokeWidth": 1
+            }
+        },
+        {
+          "data": {
+              "url": "toyota_prod_sales_long.csv"
+          },
+          "transform": [
+            {
+              "lookup": "Country",
+              "from": {
+                "data": {
+                    "url": "ne_110m_admin_0_countries.json",
+                    "format": {
+                        "type": "topojson",
+                        "feature": "ne_110m_admin_0_countries"
+                    }
+                  },
+                  "key": "properties.NAME"
+              },
+              "as": "geo"
+            },
+            {
+              "filter": "type_selection == null || datum.Type == type_selection"
+            },
+            {
+              "filter": "year_selection == null || datum.Year == year_selection"
+            }
+          ],
+          "projection": {
+            "type": "equalEarth"
+          },
+          "mark": "geoshape",
+          "encoding": {
+            "shape": {
+                "field": "geo",
+                "type": "geojson"
+            },
+            "color": {
+                "field": "Value",
+                "type": "quantitative"
+            }
+          }
+        }
+  ]
+}

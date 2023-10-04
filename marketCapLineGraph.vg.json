@@ -4,8 +4,7 @@
     "data": {
         "url": "top10auto_company_marketcap.csv"
     },
-    "width": 500,
-    "transform": [{"field": "datum.Year == 2023"}],
+    "width": "container",
     "mark": "line",
     "encoding": {
       "x": {"field": "Year", "type": "temporal", "axis": {

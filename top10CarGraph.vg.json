@@ -3,7 +3,7 @@
     "data": {
       "url": "top10carww.csv"
     },
-    "width": 500,
+    "width": "container",
     "layer": [
         {
             "mark": "bar",

@@ -48,7 +48,7 @@
             "field": "Type",
             "scale": {
                 "domain": ["Production", "Sales"],
-                "range": ["#bbbbbb", "#d71920"]
+                "range": ["#429ec9", "#d71920"]
             }
         },
         "column":{

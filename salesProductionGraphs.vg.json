@@ -52,7 +52,7 @@
             }
         },
         "column":{
-            "field": "Region",
+            "field": "Continent",
             "type": "nominal",
             "header": {
                 "labelOrient": "bottom"

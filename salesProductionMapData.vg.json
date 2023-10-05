@@ -129,6 +129,41 @@
                 "type": "quantitative"
             }
           }
+        },
+        {
+          "data": {
+            "url": "toyota_prod_sales_long.csv"
+          },
+          "transform": [
+            {
+              "lookup": "Continent",
+              "from": {
+                "data": {
+                    "url": "ne_110m_admin_0_countries.json",
+                    "format": {
+                        "type": "topojson",
+                        "feature": "ne_110m_admin_0_countries"
+                    }
+                  },
+                  "key": "properties.Continent"
+              },
+              "as": "geo"
+            },
+            {
+              "filter": "datum.Country == 'Other'"
+            }
+          ],
+          "mark": "geoshape",
+          "encoding": {
+            "shape": {
+              "field": "geo",
+              "type": "geojson"
+            },
+            "color": {
+              "field": "Value",
+              "type": "quantitative"
+            }
+          }
         }
   ]
 }

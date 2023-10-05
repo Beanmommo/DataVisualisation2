@@ -51,19 +51,19 @@ Africa,Kenya,Production,2019,395
 Africa,Kenya,Production,2020,692
 Africa,Kenya,Production,2021,1060
 Africa,Kenya,Production,2022,781
-Africa,Other,Sales,2010,93970
-Africa,Other,Sales,2011,100521
-Africa,Other,Sales,2012,123865
-Africa,Other,Sales,2013,125350
-Africa,Other,Sales,2014,122370
-Africa,Other,Sales,2015,93505
-Africa,Other,Sales,2016,63666
-Africa,Other,Sales,2017,59286
-Africa,Other,Sales,2018,65905
-Africa,Other,Sales,2019,80437
-Africa,Other,Sales,2020,74633
-Africa,Other,Sales,2021,102617
-Africa,Other,Sales,2022,96328
+Africa,Other,Sales,2010,126697
+Africa,Other,Sales,2011,116966.5
+Africa,Other,Sales,2012,128266.5
+Africa,Other,Sales,2013,141167
+Africa,Other,Sales,2014,142567
+Africa,Other,Sales,2015,132462.5
+Africa,Other,Sales,2016,130396.5
+Africa,Other,Sales,2017,131551
+Africa,Other,Sales,2018,128876.5
+Africa,Other,Sales,2019,137153
+Africa,Other,Sales,2020,129424
+Africa,Other,Sales,2021,139819.5
+Africa,Other,Sales,2022,145992.5
 Africa,South Africa,Production,2010,123484
 Africa,South Africa,Production,2011,151409
 Africa,South Africa,Production,2012,148424
@@ -207,19 +207,19 @@ Asia,Myanmar,Production,2019,0
 Asia,Myanmar,Production,2020,0
 Asia,Myanmar,Production,2021,0
 Asia,Myanmar,Production,2022,193
-Asia,Other,Sales,2010,103275
-Asia,Other,Sales,2011,171048
-Asia,Other,Sales,2012,183758
-Asia,Other,Sales,2013,167850
-Asia,Other,Sales,2014,170458
-Asia,Other,Sales,2015,163116
-Asia,Other,Sales,2016,179791
-Asia,Other,Sales,2017,180193
-Asia,Other,Sales,2018,189074
-Asia,Other,Sales,2019,152073
-Asia,Other,Sales,2020,121492
-Asia,Other,Sales,2021,25855
-Asia,Other,Sales,2022,25814
+Asia,Other,Sales,2010,136002
+Asia,Other,Sales,2011,126271.5
+Asia,Other,Sales,2012,137571.5
+Asia,Other,Sales,2013,150472
+Asia,Other,Sales,2014,151872
+Asia,Other,Sales,2015,141767.5
+Asia,Other,Sales,2016,139701.5
+Asia,Other,Sales,2017,140856
+Asia,Other,Sales,2018,138181.5
+Asia,Other,Sales,2019,146458
+Asia,Other,Sales,2020,138729
+Asia,Other,Sales,2021,149124.5
+Asia,Other,Sales,2022,155297.5
 Asia,Pakistan,Production,2010,45577
 Asia,Pakistan,Production,2011,47216
 Asia,Pakistan,Production,2012,39904
@@ -558,97 +558,84 @@ Japan,Japan,Sales,2019,1587297
 Japan,Japan,Sales,2020,1538224
 Japan,Japan,Sales,2021,1395920
 Japan,Japan,Sales,2022,1407158
-Latin America,Argentina,Production,2010,69950
-Latin America,Argentina,Production,2011,72925
-Latin America,Argentina,Production,2012,94926
-Latin America,Argentina,Production,2013,94792
-Latin America,Argentina,Production,2014,93997
-Latin America,Argentina,Production,2015,77290
-Latin America,Argentina,Production,2016,104854
-Latin America,Argentina,Production,2017,130350
-Latin America,Argentina,Production,2018,140398
-Latin America,Argentina,Production,2019,119307
-Latin America,Argentina,Production,2020,98504
-Latin America,Argentina,Production,2021,146534
-Latin America,Argentina,Production,2022,171087
-Latin America,Argentina,Sales,2010,33344
-Latin America,Argentina,Sales,2011,39515
-Latin America,Argentina,Sales,2012,48959
-Latin America,Argentina,Sales,2013,58657
-Latin America,Argentina,Sales,2014,62827
-Latin America,Argentina,Sales,2015,70554
-Latin America,Argentina,Sales,2016,82038
-Latin America,Argentina,Sales,2017,97513
-Latin America,Argentina,Sales,2018,81234
-Latin America,Argentina,Sales,2019,53712
-Latin America,Argentina,Sales,2020,57528
-Latin America,Argentina,Sales,2021,71134
-Latin America,Argentina,Sales,2022,92073
-Latin America,Brazil,Production,2010,66237
-Latin America,Brazil,Production,2011,67768
-Latin America,Brazil,Production,2012,98297
-Latin America,Brazil,Production,2013,140178
-Latin America,Brazil,Production,2014,168552
-Latin America,Brazil,Production,2015,175026
-Latin America,Brazil,Production,2016,177390
-Latin America,Brazil,Production,2017,203000
-Latin America,Brazil,Production,2018,212981
-Latin America,Brazil,Production,2019,174004
-Latin America,Brazil,Production,2020,114009
-Latin America,Brazil,Production,2021,188872
-Latin America,Brazil,Production,2022,227374
-Latin America,Brazil,Sales,2010,98614
-Latin America,Brazil,Sales,2011,96698
-Latin America,Brazil,Sales,2012,134489
-Latin America,Brazil,Sales,2013,178095
-Latin America,Brazil,Sales,2014,201420
-Latin America,Brazil,Sales,2015,174644
-Latin America,Brazil,Sales,2016,179640
-Latin America,Brazil,Sales,2017,196705
-Latin America,Brazil,Sales,2018,204808
-Latin America,Brazil,Sales,2019,207211
-Latin America,Brazil,Sales,2020,131724
-Latin America,Brazil,Sales,2021,181479
-Latin America,Brazil,Sales,2022,192269
-Latin America,Other,Sales,2010,142350
-Latin America,Other,Sales,2011,124783
-Latin America,Other,Sales,2012,158649
-Latin America,Other,Sales,2013,159166
-Latin America,Other,Sales,2014,141696
-Latin America,Other,Sales,2015,129478
-Latin America,Other,Sales,2016,134088
-Latin America,Other,Sales,2017,137621
-Latin America,Other,Sales,2018,141809
-Latin America,Other,Sales,2019,130985
-Latin America,Other,Sales,2020,94037
-Latin America,Other,Sales,2021,155101
-Latin America,Other,Sales,2022,198787
-Latin America,Venezuela,Production,2010,14061
-Latin America,Venezuela,Production,2011,10456
-Latin America,Venezuela,Production,2012,11136
-Latin America,Venezuela,Production,2013,7122
-Latin America,Venezuela,Production,2014,3872
-Latin America,Venezuela,Production,2015,2238
-Latin America,Venezuela,Production,2016,830
-Latin America,Venezuela,Production,2017,1040
-Latin America,Venezuela,Production,2018,542
-Latin America,Venezuela,Production,2019,491
-Latin America,Venezuela,Production,2020,0
-Latin America,Venezuela,Production,2021,0
-Latin America,Venezuela,Production,2022,0
-Middle East,Other,Sales,2010,65454
-Middle East,Other,Sales,2011,45993
-Middle East,Other,Sales,2012,68593
-Middle East,Other,Sales,2013,94394
-Middle East,Other,Sales,2014,97194
-Middle East,Other,Sales,2015,76985
-Middle East,Other,Sales,2016,72853
-Middle East,Other,Sales,2017,75162
-Middle East,Other,Sales,2018,69813
-Middle East,Other,Sales,2019,86366
-Middle East,Other,Sales,2020,70908
-Middle East,Other,Sales,2021,91699
-Middle East,Other,Sales,2022,104045
+South America,Argentina,Production,2010,69950
+South America,Argentina,Production,2011,72925
+South America,Argentina,Production,2012,94926
+South America,Argentina,Production,2013,94792
+South America,Argentina,Production,2014,93997
+South America,Argentina,Production,2015,77290
+South America,Argentina,Production,2016,104854
+South America,Argentina,Production,2017,130350
+South America,Argentina,Production,2018,140398
+South America,Argentina,Production,2019,119307
+South America,Argentina,Production,2020,98504
+South America,Argentina,Production,2021,146534
+South America,Argentina,Production,2022,171087
+South America,Argentina,Sales,2010,33344
+South America,Argentina,Sales,2011,39515
+South America,Argentina,Sales,2012,48959
+South America,Argentina,Sales,2013,58657
+South America,Argentina,Sales,2014,62827
+South America,Argentina,Sales,2015,70554
+South America,Argentina,Sales,2016,82038
+South America,Argentina,Sales,2017,97513
+South America,Argentina,Sales,2018,81234
+South America,Argentina,Sales,2019,53712
+South America,Argentina,Sales,2020,57528
+South America,Argentina,Sales,2021,71134
+South America,Argentina,Sales,2022,92073
+South America,Brazil,Production,2010,66237
+South America,Brazil,Production,2011,67768
+South America,Brazil,Production,2012,98297
+South America,Brazil,Production,2013,140178
+South America,Brazil,Production,2014,168552
+South America,Brazil,Production,2015,175026
+South America,Brazil,Production,2016,177390
+South America,Brazil,Production,2017,203000
+South America,Brazil,Production,2018,212981
+South America,Brazil,Production,2019,174004
+South America,Brazil,Production,2020,114009
+South America,Brazil,Production,2021,188872
+South America,Brazil,Production,2022,227374
+South America,Brazil,Sales,2010,98614
+South America,Brazil,Sales,2011,96698
+South America,Brazil,Sales,2012,134489
+South America,Brazil,Sales,2013,178095
+South America,Brazil,Sales,2014,201420
+South America,Brazil,Sales,2015,174644
+South America,Brazil,Sales,2016,179640
+South America,Brazil,Sales,2017,196705
+South America,Brazil,Sales,2018,204808
+South America,Brazil,Sales,2019,207211
+South America,Brazil,Sales,2020,131724
+South America,Brazil,Sales,2021,181479
+South America,Brazil,Sales,2022,192269
+South America,Other,Sales,2010,142350
+South America,Other,Sales,2011,124783
+South America,Other,Sales,2012,158649
+South America,Other,Sales,2013,159166
+South America,Other,Sales,2014,141696
+South America,Other,Sales,2015,129478
+South America,Other,Sales,2016,134088
+South America,Other,Sales,2017,137621
+South America,Other,Sales,2018,141809
+South America,Other,Sales,2019,130985
+South America,Other,Sales,2020,94037
+South America,Other,Sales,2021,155101
+South America,Other,Sales,2022,198787
+South America,Venezuela,Production,2010,14061
+South America,Venezuela,Production,2011,10456
+South America,Venezuela,Production,2012,11136
+South America,Venezuela,Production,2013,7122
+South America,Venezuela,Production,2014,3872
+South America,Venezuela,Production,2015,2238
+South America,Venezuela,Production,2016,830
+South America,Venezuela,Production,2017,1040
+South America,Venezuela,Production,2018,542
+South America,Venezuela,Production,2019,491
+South America,Venezuela,Production,2020,0
+South America,Venezuela,Production,2021,0
+South America,Venezuela,Production,2022,0
 North America,Canada,Production,2010,458592
 North America,Canada,Production,2011,422926
 North America,Canada,Production,2012,485198
@@ -766,81 +753,81 @@ Oceania,Australia,Sales,2019,215720
 Oceania,Australia,Sales,2020,220403
 Oceania,Australia,Sales,2021,234091
 Oceania,Australia,Sales,2022,221274
-Oceania,New Zealand,Sales,2010,29573
-Oceania,New Zealand,Sales,2011,27723
-Oceania,New Zealand,Sales,2012,34900
-Oceania,New Zealand,Sales,2013,36040
-Oceania,New Zealand,Sales,2014,37504
-Oceania,New Zealand,Sales,2015,37967
-Oceania,New Zealand,Sales,2016,38653
-Oceania,New Zealand,Sales,2017,44361
-Oceania,New Zealand,Sales,2018,41283
-Oceania,New Zealand,Sales,2019,40208
-Oceania,New Zealand,Sales,2020,31627
-Oceania,New Zealand,Sales,2021,40700
-Oceania,New Zealand,Sales,2022,42900
-Middle East,United Arab Emirates,Sales,2010,101118.6
-Middle East,United Arab Emirates,Sales,2011,96344.4
-Middle East,United Arab Emirates,Sales,2012,131492.8
-Middle East,United Arab Emirates,Sales,2013,134527.2
-Middle East,United Arab Emirates,Sales,2014,139961
-Middle East,United Arab Emirates,Sales,2015,131131.4
-Middle East,United Arab Emirates,Sales,2016,95178.4
-Middle East,United Arab Emirates,Sales,2017,81050.6
-Middle East,United Arab Emirates,Sales,2018,69678.8
-Middle East,United Arab Emirates,Sales,2019,75444
-Middle East,United Arab Emirates,Sales,2020,56112.6
-Middle East,United Arab Emirates,Sales,2021,67663.8
-Middle East,United Arab Emirates,Sales,2022,81941.2
-Middle East,Oman,Sales,2010,101118.6
-Middle East,Oman,Sales,2011,96344.4
-Middle East,Oman,Sales,2012,131492.8
-Middle East,Oman,Sales,2013,134527.2
-Middle East,Oman,Sales,2014,139961
-Middle East,Oman,Sales,2015,131131.4
-Middle East,Oman,Sales,2016,95178.4
-Middle East,Oman,Sales,2017,81050.6
-Middle East,Oman,Sales,2018,69678.8
-Middle East,Oman,Sales,2019,75444
-Middle East,Oman,Sales,2020,56112.6
-Middle East,Oman,Sales,2021,67663.8
-Middle East,Oman,Sales,2022,81941.2
-Middle East,Qatar,Sales,2010,101118.6
-Middle East,Qatar,Sales,2011,96344.4
-Middle East,Qatar,Sales,2012,131492.8
-Middle East,Qatar,Sales,2013,134527.2
-Middle East,Qatar,Sales,2014,139961
-Middle East,Qatar,Sales,2015,131131.4
-Middle East,Qatar,Sales,2016,95178.4
-Middle East,Qatar,Sales,2017,81050.6
-Middle East,Qatar,Sales,2018,69678.8
-Middle East,Qatar,Sales,2019,75444
-Middle East,Qatar,Sales,2020,56112.6
-Middle East,Qatar,Sales,2021,67663.8
-Middle East,Qatar,Sales,2022,81941.2
-Middle East,Saudi Arabia,Sales,2010,101118.6
-Middle East,Saudi Arabia,Sales,2011,96344.4
-Middle East,Saudi Arabia,Sales,2012,131492.8
-Middle East,Saudi Arabia,Sales,2013,134527.2
-Middle East,Saudi Arabia,Sales,2014,139961
-Middle East,Saudi Arabia,Sales,2015,131131.4
-Middle East,Saudi Arabia,Sales,2016,95178.4
-Middle East,Saudi Arabia,Sales,2017,81050.6
-Middle East,Saudi Arabia,Sales,2018,69678.8
-Middle East,Saudi Arabia,Sales,2019,75444
-Middle East,Saudi Arabia,Sales,2020,56112.6
-Middle East,Saudi Arabia,Sales,2021,67663.8
-Middle East,Saudi Arabia,Sales,2022,81941.2
-Middle East,Kuwait,Sales,2010,101118.6
-Middle East,Kuwait,Sales,2011,96344.4
-Middle East,Kuwait,Sales,2012,131492.8
-Middle East,Kuwait,Sales,2013,134527.2
-Middle East,Kuwait,Sales,2014,139961
-Middle East,Kuwait,Sales,2015,131131.4
-Middle East,Kuwait,Sales,2016,95178.4
-Middle East,Kuwait,Sales,2017,81050.6
-Middle East,Kuwait,Sales,2018,69678.8
-Middle East,Kuwait,Sales,2019,75444
-Middle East,Kuwait,Sales,2020,56112.6
-Middle East,Kuwait,Sales,2021,67663.8
-Middle East,Kuwait,Sales,2022,81941.2
+Oceania,Other,Sales,2010,29573
+Oceania,Other,Sales,2011,27723
+Oceania,Other,Sales,2012,34900
+Oceania,Other,Sales,2013,36040
+Oceania,Other,Sales,2014,37504
+Oceania,Other,Sales,2015,37967
+Oceania,Other,Sales,2016,38653
+Oceania,Other,Sales,2017,44361
+Oceania,Other,Sales,2018,41283
+Oceania,Other,Sales,2019,40208
+Oceania,Other,Sales,2020,31627
+Oceania,Other,Sales,2021,40700
+Oceania,Other,Sales,2022,42900
+Middle East & North Africa,United Arab Emirates,Sales,2010,101118.6
+Middle East & North Africa,United Arab Emirates,Sales,2011,96344.4
+Middle East & North Africa,United Arab Emirates,Sales,2012,131492.8
+Middle East & North Africa,United Arab Emirates,Sales,2013,134527.2
+Middle East & North Africa,United Arab Emirates,Sales,2014,139961
+Middle East & North Africa,United Arab Emirates,Sales,2015,131131.4
+Middle East & North Africa,United Arab Emirates,Sales,2016,95178.4
+Middle East & North Africa,United Arab Emirates,Sales,2017,81050.6
+Middle East & North Africa,United Arab Emirates,Sales,2018,69678.8
+Middle East & North Africa,United Arab Emirates,Sales,2019,75444
+Middle East & North Africa,United Arab Emirates,Sales,2020,56112.6
+Middle East & North Africa,United Arab Emirates,Sales,2021,67663.8
+Middle East & North Africa,United Arab Emirates,Sales,2022,81941.2
+Middle East & North Africa,Oman,Sales,2010,101118.6
+Middle East & North Africa,Oman,Sales,2011,96344.4
+Middle East & North Africa,Oman,Sales,2012,131492.8
+Middle East & North Africa,Oman,Sales,2013,134527.2
+Middle East & North Africa,Oman,Sales,2014,139961
+Middle East & North Africa,Oman,Sales,2015,131131.4
+Middle East & North Africa,Oman,Sales,2016,95178.4
+Middle East & North Africa,Oman,Sales,2017,81050.6
+Middle East & North Africa,Oman,Sales,2018,69678.8
+Middle East & North Africa,Oman,Sales,2019,75444
+Middle East & North Africa,Oman,Sales,2020,56112.6
+Middle East & North Africa,Oman,Sales,2021,67663.8
+Middle East & North Africa,Oman,Sales,2022,81941.2
+Middle East & North Africa,Qatar,Sales,2010,101118.6
+Middle East & North Africa,Qatar,Sales,2011,96344.4
+Middle East & North Africa,Qatar,Sales,2012,131492.8
+Middle East & North Africa,Qatar,Sales,2013,134527.2
+Middle East & North Africa,Qatar,Sales,2014,139961
+Middle East & North Africa,Qatar,Sales,2015,131131.4
+Middle East & North Africa,Qatar,Sales,2016,95178.4
+Middle East & North Africa,Qatar,Sales,2017,81050.6
+Middle East & North Africa,Qatar,Sales,2018,69678.8
+Middle East & North Africa,Qatar,Sales,2019,75444
+Middle East & North Africa,Qatar,Sales,2020,56112.6
+Middle East & North Africa,Qatar,Sales,2021,67663.8
+Middle East & North Africa,Qatar,Sales,2022,81941.2
+Middle East & North Africa,Saudi Arabia,Sales,2010,101118.6
+Middle East & North Africa,Saudi Arabia,Sales,2011,96344.4
+Middle East & North Africa,Saudi Arabia,Sales,2012,131492.8
+Middle East & North Africa,Saudi Arabia,Sales,2013,134527.2
+Middle East & North Africa,Saudi Arabia,Sales,2014,139961
+Middle East & North Africa,Saudi Arabia,Sales,2015,131131.4
+Middle East & North Africa,Saudi Arabia,Sales,2016,95178.4
+Middle East & North Africa,Saudi Arabia,Sales,2017,81050.6
+Middle East & North Africa,Saudi Arabia,Sales,2018,69678.8
+Middle East & North Africa,Saudi Arabia,Sales,2019,75444
+Middle East & North Africa,Saudi Arabia,Sales,2020,56112.6
+Middle East & North Africa,Saudi Arabia,Sales,2021,67663.8
+Middle East & North Africa,Saudi Arabia,Sales,2022,81941.2
+Middle East & North Africa,Kuwait,Sales,2010,101118.6
+Middle East & North Africa,Kuwait,Sales,2011,96344.4
+Middle East & North Africa,Kuwait,Sales,2012,131492.8
+Middle East & North Africa,Kuwait,Sales,2013,134527.2
+Middle East & North Africa,Kuwait,Sales,2014,139961
+Middle East & North Africa,Kuwait,Sales,2015,131131.4
+Middle East & North Africa,Kuwait,Sales,2016,95178.4
+Middle East & North Africa,Kuwait,Sales,2017,81050.6
+Middle East & North Africa,Kuwait,Sales,2018,69678.8
+Middle East & North Africa,Kuwait,Sales,2019,75444
+Middle East & North Africa,Kuwait,Sales,2020,56112.6
+Middle East & North Africa,Kuwait,Sales,2021,67663.8
+Middle East & North Africa,Kuwait,Sales,2022,81941.2

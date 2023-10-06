@@ -32,8 +32,46 @@
               "range": ["#d71920", "#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb"]
           }
         }
-    }
       }
-    ]
+    },
+    {
+      "data": {
+        "values": [
+          {"x": "2008"}
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "strokeDash": [5, 8]
+      },
+      "encoding": {
+        "x": {
+           "field": "x",
+           "type": "temporal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {"x": "2008", "y": 200, "text": "2008 Global Recesion"}
+        ]
+      },
+      "mark": "text",
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "text", "type": "nominal"
+        }
+      }
+    }
+  ]
     
 }

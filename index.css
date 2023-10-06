@@ -17,6 +17,10 @@
     color: #999;
 }
 
+.center {
+    justify-content: center;
+}
+
 .sidebar {
     background: #ffffff;
     color: #d71920;
@@ -36,6 +40,7 @@
 }
 
 .topic-wrapper {
+    justify-content: center;
 }
 
 .topic-header {
@@ -69,7 +74,6 @@
     padding-bottom: 2em;
     padding-left: 1em;
     padding-right: 1em;
-    width: 750px;
     margin: 0 auto;
 }
 

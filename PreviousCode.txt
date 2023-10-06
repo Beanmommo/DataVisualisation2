@@ -1,24 +1,42 @@
 ,
         {
-            "transform": [{"calculate": "-100000", "as": "imgOffset"}],
-            "mark": {
-                "type": "image", "width": 70, "height": 50
+          "data": {
+              "url": "toyota_prod_sales_long.csv"
+          },
+          "transform": [
+            {
+              "lookup": "Country",
+              "from": {
+                "data": {
+                    "url": "ne_110m_admin_0_countries.json",
+                    "format": {
+                        "type": "topojson",
+                        "feature": "ne_110m_admin_0_countries"
+                    }
+                  },
+                  "key": "properties.NAME"
+              },
+              "as": "geo"
             },
-            "encoding": {
-                "x": {
-                    "field": "imgOffset",
-                    "type": "quantitative",
-                    "scale": {"domain": [0, 1200000]}
-                },
-                "y": {
-                    "field": "Model",
-                    "type": "ordinal",
-                    "axis": null
-                    
-                },
-                "url": {
-                    "field": "Image",
-                    "type": "nominal"
-                }
+            {
+              "filter": "type_selection == null || datum.Type == type_selection"
+            },
+            {
+              "filter": "year_selection == null || datum.Year == year_selection"
             }
+          ],
+          "projection": {
+            "type": "equalEarth"
+          },
+          "mark": "geoshape",
+          "encoding": {
+            "shape": {
+                "field": "geo",
+                "type": "geojson"
+            },
+            "color": {
+                "field": "Value",
+                "type": "quantitative"
+            }
+          }
         }

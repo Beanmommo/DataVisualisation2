@@ -4,27 +4,15 @@
     "params": [
         {
             "name": "year_selection",
+            "value": 2010,
             "bind": {
-                "input": "select",
-                "options": [
-                    null,
-                    "2010",
-                    "2011",
-                    "2012",
-                    "2013",
-                    "2014",
-                    "2015",
-                    "2016",
-                    "2017",
-                    "2018",
-                    "2019",
-                    "2020",
-                    "2021",
-                    "2022"
-                ],
-                "name": "Year Select: "
+              "input": "range",
+              "min": 2010,
+              "max": 2022,
+              "step": 1,
+              "name": "Select Year: "
             }
-        }
+          }
     ],
     "transform": [
         {"filter": "year_selection == null || datum.Year == year_selection"}

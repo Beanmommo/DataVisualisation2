@@ -63,12 +63,12 @@
         },
         {
           "data": {
-              "url": "toyota_prod_sales_long.csv"
+              "url": "toyota_continent_prod_sales.csv"
             }
           ,
           "transform": [
             {
-              "lookup": "Continent",
+              "lookup": "Country",
               "from": {
                 "data": {
                     "url": "ne_110m_admin_0_countries.json",
@@ -77,12 +77,9 @@
                         "feature": "ne_110m_admin_0_countries"
                     }
                   },
-                  "key": "properties.CONTINENT"
+                  "key": "properties.NAME_EN"
               },
               "as": "geo"
-            },
-            {
-              "filter": "datum.Country == 'Other'"
             },
             {
               "filter": "type_selection == null || datum.Type == type_selection"
@@ -96,7 +93,11 @@
             "shape": {
               "field": "geo",
               "type": "geojson"
-            }
+            },
+            "color": {
+              "field": "Value",
+              "type": "quantitative"
+          }
           }
         },
         {

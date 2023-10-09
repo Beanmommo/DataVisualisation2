@@ -1,10 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Google's stock price over time.",
+    "width": "container",
     "data": {
         "url": "top10auto_company_marketcap.csv"
     },
-    "width": "container",
     "layer": [
       {
         "mark": "line",

@@ -1,15 +1,32 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "top10auto_company_marketcap_wide.csv"
+      "url": "top10auto_company_marketcap.csv"
     },
     "width": "container",
+    "params": [
+        {
+            "name": "year_selection",
+            "value": 2010,
+            "bind": {
+              "input": "range",
+              "min": 2010,
+              "max": 2022,
+              "step": 1,
+              "name": "Select Year: "
+            }
+          }
+    ],
+
+    "transform": [
+        {"filter": "year_selection == null || datum.Year == year_selection"}
+    ],
     "layer": [
         {
             "mark": "bar",
             "encoding": {
                 "x": {
-                    "field": "2023", 
+                    "field": "Value", 
                     "type": "quantitative",
                     "axis": {
                         "grid": false

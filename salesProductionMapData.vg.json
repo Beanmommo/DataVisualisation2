@@ -123,10 +123,21 @@
                 "direction": "horizontal",
                 "orient": "bottom",
                 "titleAnchor":"middle",
-                "title": "Sales - Production"
+                "title": "Sales(-) Production(+)"
                 
               }
-          }
+          },
+          "tooltip": [
+            {
+              "field": "Country", "type": "nominal"
+            },
+            {
+              "field": "Continent", "type": "nominal"
+            },
+            {
+              "field": "totalValue", "type": "quantitative", "title": "Production - Sales"
+            }
+          ]
         }
       }
 ]

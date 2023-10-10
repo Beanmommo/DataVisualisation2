@@ -1,17 +1,4 @@
 Continent,Country,Type,Year,Value
-Africa,Other,Production,2010,123484
-Africa,Other,Production,2011,151411
-Africa,Other,Production,2012,150478
-Africa,Other,Production,2013,138412
-Africa,Other,Production,2014,133566
-Africa,Other,Production,2015,106997
-Africa,Other,Production,2016,123171
-Africa,Other,Production,2017,117944
-Africa,Other,Production,2018,122170
-Africa,Other,Production,2019,111353
-Africa,Other,Production,2020,94782
-Africa,Other,Production,2021,128344
-Africa,Other,Production,2022,111257
 Africa,Egypt,Production,2010,0
 Africa,Egypt,Production,2011,2
 Africa,Egypt,Production,2012,2054
@@ -51,19 +38,6 @@ Africa,Kenya,Production,2019,395
 Africa,Kenya,Production,2020,692
 Africa,Kenya,Production,2021,1060
 Africa,Kenya,Production,2022,781
-Africa,Other,Sales,2010,126697
-Africa,Other,Sales,2011,116966.5
-Africa,Other,Sales,2012,128266.5
-Africa,Other,Sales,2013,141167
-Africa,Other,Sales,2014,142567
-Africa,Other,Sales,2015,132462.5
-Africa,Other,Sales,2016,130396.5
-Africa,Other,Sales,2017,131551
-Africa,Other,Sales,2018,128876.5
-Africa,Other,Sales,2019,137153
-Africa,Other,Sales,2020,129424
-Africa,Other,Sales,2021,139819.5
-Africa,Other,Sales,2022,145992.5
 Africa,South Africa,Production,2010,123484
 Africa,South Africa,Production,2011,151409
 Africa,South Africa,Production,2012,148424
@@ -90,32 +64,32 @@ Africa,South Africa,Sales,2019,120122
 Africa,South Africa,Sales,2020,89832
 Africa,South Africa,Sales,2021,127620
 Africa,South Africa,Sales,2022,125237
-Asia,China,Production,2010,769941
-Asia,China,Production,2011,821397
-Asia,China,Production,2012,712656
-Asia,China,Production,2013,889917
-Asia,China,Production,2014,940811
-Asia,China,Production,2015,1071344
-Asia,China,Production,2016,1103762
-Asia,China,Production,2017,1141901
-Asia,China,Production,2018,1350749
-Asia,China,Production,2019,1311208
-Asia,China,Production,2020,1716624
-Asia,China,Production,2021,1700928
-Asia,China,Production,2022,1766518
-Asia,China,Sales,2010,886442
-Asia,China,Sales,2011,898660
-Asia,China,Sales,2012,826800
-Asia,China,Sales,2013,974764
-Asia,China,Sales,2014,1047622
-Asia,China,Sales,2015,1201355
-Asia,China,Sales,2016,1230777
-Asia,China,Sales,2017,1328467
-Asia,China,Sales,2018,1510122
-Asia,China,Sales,2019,1543628
-Asia,China,Sales,2020,2000084
-Asia,China,Sales,2021,1915128
-Asia,China,Sales,2022,1875908
+Asia,People's Republic of China,Production,2010,769941
+Asia,People's Republic of China,Production,2011,821397
+Asia,People's Republic of China,Production,2012,712656
+Asia,People's Republic of China,Production,2013,889917
+Asia,People's Republic of China,Production,2014,940811
+Asia,People's Republic of China,Production,2015,1071344
+Asia,People's Republic of China,Production,2016,1103762
+Asia,People's Republic of China,Production,2017,1141901
+Asia,People's Republic of China,Production,2018,1350749
+Asia,People's Republic of China,Production,2019,1311208
+Asia,People's Republic of China,Production,2020,1716624
+Asia,People's Republic of China,Production,2021,1700928
+Asia,People's Republic of China,Production,2022,1766518
+Asia,People's Republic of China,Sales,2010,886442
+Asia,People's Republic of China,Sales,2011,898660
+Asia,People's Republic of China,Sales,2012,826800
+Asia,People's Republic of China,Sales,2013,974764
+Asia,People's Republic of China,Sales,2014,1047622
+Asia,People's Republic of China,Sales,2015,1201355
+Asia,People's Republic of China,Sales,2016,1230777
+Asia,People's Republic of China,Sales,2017,1328467
+Asia,People's Republic of China,Sales,2018,1510122
+Asia,People's Republic of China,Sales,2019,1543628
+Asia,People's Republic of China,Sales,2020,2000084
+Asia,People's Republic of China,Sales,2021,1915128
+Asia,People's Republic of China,Sales,2022,1875908
 Asia,India,Production,2010,75515
 Asia,India,Production,2011,161321
 Asia,India,Production,2012,189393
@@ -207,19 +181,6 @@ Asia,Myanmar,Production,2019,0
 Asia,Myanmar,Production,2020,0
 Asia,Myanmar,Production,2021,0
 Asia,Myanmar,Production,2022,193
-Asia,Other,Sales,2010,136002
-Asia,Other,Sales,2011,126271.5
-Asia,Other,Sales,2012,137571.5
-Asia,Other,Sales,2013,150472
-Asia,Other,Sales,2014,151872
-Asia,Other,Sales,2015,141767.5
-Asia,Other,Sales,2016,139701.5
-Asia,Other,Sales,2017,140856
-Asia,Other,Sales,2018,138181.5
-Asia,Other,Sales,2019,146458
-Asia,Other,Sales,2020,138729
-Asia,Other,Sales,2021,149124.5
-Asia,Other,Sales,2022,155297.5
 Asia,Pakistan,Production,2010,45577
 Asia,Pakistan,Production,2011,47216
 Asia,Pakistan,Production,2012,39904
@@ -441,19 +402,6 @@ Europe,Kazakhstan,Production,2019,0
 Europe,Kazakhstan,Production,2020,0
 Europe,Kazakhstan,Production,2021,0
 Europe,Kazakhstan,Production,2022,0
-Europe,Other,Sales,2010,329432
-Europe,Other,Sales,2011,297209
-Europe,Other,Sales,2012,279371
-Europe,Other,Sales,2013,300986
-Europe,Other,Sales,2014,304497
-Europe,Other,Sales,2015,324254
-Europe,Other,Sales,2016,362584
-Europe,Other,Sales,2017,388895
-Europe,Other,Sales,2018,376958
-Europe,Other,Sales,2019,403912
-Europe,Other,Sales,2020,402383
-Europe,Other,Sales,2021,435953
-Europe,Other,Sales,2022,490555
 Europe,Russia,Production,2010,0
 Europe,Russia,Production,2011,0
 Europe,Russia,Production,2012,0
@@ -610,19 +558,6 @@ South America,Brazil,Sales,2019,207211
 South America,Brazil,Sales,2020,131724
 South America,Brazil,Sales,2021,181479
 South America,Brazil,Sales,2022,192269
-South America,Other,Sales,2010,142350
-South America,Other,Sales,2011,124783
-South America,Other,Sales,2012,158649
-South America,Other,Sales,2013,159166
-South America,Other,Sales,2014,141696
-South America,Other,Sales,2015,129478
-South America,Other,Sales,2016,134088
-South America,Other,Sales,2017,137621
-South America,Other,Sales,2018,141809
-South America,Other,Sales,2019,130985
-South America,Other,Sales,2020,94037
-South America,Other,Sales,2021,155101
-South America,Other,Sales,2022,198787
 South America,Venezuela,Production,2010,14061
 South America,Venezuela,Production,2011,10456
 South America,Venezuela,Production,2012,11136
@@ -688,19 +623,6 @@ North America,Mexico,Sales,2019,103876
 North America,Mexico,Sales,2020,74188
 North America,Mexico,Sales,2021,93184
 North America,Mexico,Sales,2022,96999
-North America,Other,Sales,2010,26163
-North America,Other,Sales,2011,25613
-North America,Other,Sales,2012,28472
-North America,Other,Sales,2013,28220
-North America,Other,Sales,2014,24554
-North America,Other,Sales,2015,23707
-North America,Other,Sales,2016,25720
-North America,Other,Sales,2017,25506
-North America,Other,Sales,2018,33365
-North America,Other,Sales,2019,28743
-North America,Other,Sales,2020,29904
-North America,Other,Sales,2021,35166
-North America,Other,Sales,2022,35489
 North America,United States of America,Production,2010,945432
 North America,United States of America,Production,2011,883442
 North America,United States of America,Production,2012,1225567
@@ -753,19 +675,6 @@ Oceania,Australia,Sales,2019,215720
 Oceania,Australia,Sales,2020,220403
 Oceania,Australia,Sales,2021,234091
 Oceania,Australia,Sales,2022,221274
-Oceania,Other,Sales,2010,29573
-Oceania,Other,Sales,2011,27723
-Oceania,Other,Sales,2012,34900
-Oceania,Other,Sales,2013,36040
-Oceania,Other,Sales,2014,37504
-Oceania,Other,Sales,2015,37967
-Oceania,Other,Sales,2016,38653
-Oceania,Other,Sales,2017,44361
-Oceania,Other,Sales,2018,41283
-Oceania,Other,Sales,2019,40208
-Oceania,Other,Sales,2020,31627
-Oceania,Other,Sales,2021,40700
-Oceania,Other,Sales,2022,42900
 Middle East,United Arab Emirates,Sales,2010,101118.6
 Middle East,United Arab Emirates,Sales,2011,96344.4
 Middle East,United Arab Emirates,Sales,2012,131492.8
@@ -831,3 +740,2902 @@ Middle East,Kuwait,Sales,2019,75444
 Middle East,Kuwait,Sales,2020,56112.6
 Middle East,Kuwait,Sales,2021,67663.8
 Middle East,Kuwait,Sales,2022,81941.2
+Africa,Tanzania,Production,2010,2421.3
+Africa,Western Sahara,Production,2010,2421.3
+Africa,Democratic Republic of the Congo,Production,2010,2421.3
+Africa,Somalia,Production,2010,2421.3
+Africa,Kenya,Production,2010,2421.3
+Africa,Sudan,Production,2010,2421.3
+Africa,Chad,Production,2010,2421.3
+Africa,South Africa,Production,2010,2421.3
+Africa,Lesotho,Production,2010,2421.3
+Africa,Zimbabwe,Production,2010,2421.3
+Africa,Botswana,Production,2010,2421.3
+Africa,Namibia,Production,2010,2421.3
+Africa,Senegal,Production,2010,2421.3
+Africa,Mali,Production,2010,2421.3
+Africa,Mauritania,Production,2010,2421.3
+Africa,Benin,Production,2010,2421.3
+Africa,Niger,Production,2010,2421.3
+Africa,Nigeria,Production,2010,2421.3
+Africa,Cameroon,Production,2010,2421.3
+Africa,Togo,Production,2010,2421.3
+Africa,Ghana,Production,2010,2421.3
+Africa,Ivory Coast,Production,2010,2421.3
+Africa,Guinea,Production,2010,2421.3
+Africa,Guinea-Bissau,Production,2010,2421.3
+Africa,Liberia,Production,2010,2421.3
+Africa,Sierra Leone,Production,2010,2421.3
+Africa,Burkina Faso,Production,2010,2421.3
+Africa,Central African Republic,Production,2010,2421.3
+Africa,Republic of the Congo,Production,2010,2421.3
+Africa,Gabon,Production,2010,2421.3
+Africa,Equatorial Guinea,Production,2010,2421.3
+Africa,Zambia,Production,2010,2421.3
+Africa,Malawi,Production,2010,2421.3
+Africa,Mozambique,Production,2010,2421.3
+Africa,Eswatini,Production,2010,2421.3
+Africa,Angola,Production,2010,2421.3
+Africa,Burundi,Production,2010,2421.3
+Africa,Madagascar,Production,2010,2421.3
+Africa,The Gambia,Production,2010,2421.3
+Africa,Tunisia,Production,2010,2421.3
+Africa,Algeria,Production,2010,2421.3
+Africa,Eritrea,Production,2010,2421.3
+Africa,Morocco,Production,2010,2421.3
+Africa,Egypt,Production,2010,2421.3
+Africa,Libya,Production,2010,2421.3
+Africa,Ethiopia,Production,2010,2421.3
+Africa,Djibouti,Production,2010,2421.3
+Africa,Somaliland,Production,2010,2421.3
+Africa,Uganda,Production,2010,2421.3
+Africa,Rwanda,Production,2010,2421.3
+Africa,South Sudan,Production,2010,2421.3
+Africa,Tanzania,Production,2011,2968.8
+Africa,Western Sahara,Production,2011,2968.8
+Africa,Democratic Republic of the Congo,Production,2011,2968.8
+Africa,Somalia,Production,2011,2968.8
+Africa,Kenya,Production,2011,2968.8
+Africa,Sudan,Production,2011,2968.8
+Africa,Chad,Production,2011,2968.8
+Africa,South Africa,Production,2011,2968.8
+Africa,Lesotho,Production,2011,2968.8
+Africa,Zimbabwe,Production,2011,2968.8
+Africa,Botswana,Production,2011,2968.8
+Africa,Namibia,Production,2011,2968.8
+Africa,Senegal,Production,2011,2968.8
+Africa,Mali,Production,2011,2968.8
+Africa,Mauritania,Production,2011,2968.8
+Africa,Benin,Production,2011,2968.8
+Africa,Niger,Production,2011,2968.8
+Africa,Nigeria,Production,2011,2968.8
+Africa,Cameroon,Production,2011,2968.8
+Africa,Togo,Production,2011,2968.8
+Africa,Ghana,Production,2011,2968.8
+Africa,Ivory Coast,Production,2011,2968.8
+Africa,Guinea,Production,2011,2968.8
+Africa,Guinea-Bissau,Production,2011,2968.8
+Africa,Liberia,Production,2011,2968.8
+Africa,Sierra Leone,Production,2011,2968.8
+Africa,Burkina Faso,Production,2011,2968.8
+Africa,Central African Republic,Production,2011,2968.8
+Africa,Republic of the Congo,Production,2011,2968.8
+Africa,Gabon,Production,2011,2968.8
+Africa,Equatorial Guinea,Production,2011,2968.8
+Africa,Zambia,Production,2011,2968.8
+Africa,Malawi,Production,2011,2968.8
+Africa,Mozambique,Production,2011,2968.8
+Africa,Eswatini,Production,2011,2968.8
+Africa,Angola,Production,2011,2968.8
+Africa,Burundi,Production,2011,2968.8
+Africa,Madagascar,Production,2011,2968.8
+Africa,The Gambia,Production,2011,2968.8
+Africa,Tunisia,Production,2011,2968.8
+Africa,Algeria,Production,2011,2968.8
+Africa,Eritrea,Production,2011,2968.8
+Africa,Morocco,Production,2011,2968.8
+Africa,Egypt,Production,2011,2968.8
+Africa,Libya,Production,2011,2968.8
+Africa,Ethiopia,Production,2011,2968.8
+Africa,Djibouti,Production,2011,2968.8
+Africa,Somaliland,Production,2011,2968.8
+Africa,Uganda,Production,2011,2968.8
+Africa,Rwanda,Production,2011,2968.8
+Africa,South Sudan,Production,2011,2968.8
+Africa,Tanzania,Production,2012,2950.5
+Africa,Western Sahara,Production,2012,2950.5
+Africa,Democratic Republic of the Congo,Production,2012,2950.5
+Africa,Somalia,Production,2012,2950.5
+Africa,Kenya,Production,2012,2950.5
+Africa,Sudan,Production,2012,2950.5
+Africa,Chad,Production,2012,2950.5
+Africa,South Africa,Production,2012,2950.5
+Africa,Lesotho,Production,2012,2950.5
+Africa,Zimbabwe,Production,2012,2950.5
+Africa,Botswana,Production,2012,2950.5
+Africa,Namibia,Production,2012,2950.5
+Africa,Senegal,Production,2012,2950.5
+Africa,Mali,Production,2012,2950.5
+Africa,Mauritania,Production,2012,2950.5
+Africa,Benin,Production,2012,2950.5
+Africa,Niger,Production,2012,2950.5
+Africa,Nigeria,Production,2012,2950.5
+Africa,Cameroon,Production,2012,2950.5
+Africa,Togo,Production,2012,2950.5
+Africa,Ghana,Production,2012,2950.5
+Africa,Ivory Coast,Production,2012,2950.5
+Africa,Guinea,Production,2012,2950.5
+Africa,Guinea-Bissau,Production,2012,2950.5
+Africa,Liberia,Production,2012,2950.5
+Africa,Sierra Leone,Production,2012,2950.5
+Africa,Burkina Faso,Production,2012,2950.5
+Africa,Central African Republic,Production,2012,2950.5
+Africa,Republic of the Congo,Production,2012,2950.5
+Africa,Gabon,Production,2012,2950.5
+Africa,Equatorial Guinea,Production,2012,2950.5
+Africa,Zambia,Production,2012,2950.5
+Africa,Malawi,Production,2012,2950.5
+Africa,Mozambique,Production,2012,2950.5
+Africa,Eswatini,Production,2012,2950.5
+Africa,Angola,Production,2012,2950.5
+Africa,Burundi,Production,2012,2950.5
+Africa,Madagascar,Production,2012,2950.5
+Africa,The Gambia,Production,2012,2950.5
+Africa,Tunisia,Production,2012,2950.5
+Africa,Algeria,Production,2012,2950.5
+Africa,Eritrea,Production,2012,2950.5
+Africa,Morocco,Production,2012,2950.5
+Africa,Egypt,Production,2012,2950.5
+Africa,Libya,Production,2012,2950.5
+Africa,Ethiopia,Production,2012,2950.5
+Africa,Djibouti,Production,2012,2950.5
+Africa,Somaliland,Production,2012,2950.5
+Africa,Uganda,Production,2012,2950.5
+Africa,Rwanda,Production,2012,2950.5
+Africa,South Sudan,Production,2012,2950.5
+Africa,Tanzania,Production,2013,2714
+Africa,Western Sahara,Production,2013,2714
+Africa,Democratic Republic of the Congo,Production,2013,2714
+Africa,Somalia,Production,2013,2714
+Africa,Kenya,Production,2013,2714
+Africa,Sudan,Production,2013,2714
+Africa,Chad,Production,2013,2714
+Africa,South Africa,Production,2013,2714
+Africa,Lesotho,Production,2013,2714
+Africa,Zimbabwe,Production,2013,2714
+Africa,Botswana,Production,2013,2714
+Africa,Namibia,Production,2013,2714
+Africa,Senegal,Production,2013,2714
+Africa,Mali,Production,2013,2714
+Africa,Mauritania,Production,2013,2714
+Africa,Benin,Production,2013,2714
+Africa,Niger,Production,2013,2714
+Africa,Nigeria,Production,2013,2714
+Africa,Cameroon,Production,2013,2714
+Africa,Togo,Production,2013,2714
+Africa,Ghana,Production,2013,2714
+Africa,Ivory Coast,Production,2013,2714
+Africa,Guinea,Production,2013,2714
+Africa,Guinea-Bissau,Production,2013,2714
+Africa,Liberia,Production,2013,2714
+Africa,Sierra Leone,Production,2013,2714
+Africa,Burkina Faso,Production,2013,2714
+Africa,Central African Republic,Production,2013,2714
+Africa,Republic of the Congo,Production,2013,2714
+Africa,Gabon,Production,2013,2714
+Africa,Equatorial Guinea,Production,2013,2714
+Africa,Zambia,Production,2013,2714
+Africa,Malawi,Production,2013,2714
+Africa,Mozambique,Production,2013,2714
+Africa,Eswatini,Production,2013,2714
+Africa,Angola,Production,2013,2714
+Africa,Burundi,Production,2013,2714
+Africa,Madagascar,Production,2013,2714
+Africa,The Gambia,Production,2013,2714
+Africa,Tunisia,Production,2013,2714
+Africa,Algeria,Production,2013,2714
+Africa,Eritrea,Production,2013,2714
+Africa,Morocco,Production,2013,2714
+Africa,Egypt,Production,2013,2714
+Africa,Libya,Production,2013,2714
+Africa,Ethiopia,Production,2013,2714
+Africa,Djibouti,Production,2013,2714
+Africa,Somaliland,Production,2013,2714
+Africa,Uganda,Production,2013,2714
+Africa,Rwanda,Production,2013,2714
+Africa,South Sudan,Production,2013,2714
+Africa,Tanzania,Production,2014,2618.9
+Africa,Western Sahara,Production,2014,2618.9
+Africa,Democratic Republic of the Congo,Production,2014,2618.9
+Africa,Somalia,Production,2014,2618.9
+Africa,Kenya,Production,2014,2618.9
+Africa,Sudan,Production,2014,2618.9
+Africa,Chad,Production,2014,2618.9
+Africa,South Africa,Production,2014,2618.9
+Africa,Lesotho,Production,2014,2618.9
+Africa,Zimbabwe,Production,2014,2618.9
+Africa,Botswana,Production,2014,2618.9
+Africa,Namibia,Production,2014,2618.9
+Africa,Senegal,Production,2014,2618.9
+Africa,Mali,Production,2014,2618.9
+Africa,Mauritania,Production,2014,2618.9
+Africa,Benin,Production,2014,2618.9
+Africa,Niger,Production,2014,2618.9
+Africa,Nigeria,Production,2014,2618.9
+Africa,Cameroon,Production,2014,2618.9
+Africa,Togo,Production,2014,2618.9
+Africa,Ghana,Production,2014,2618.9
+Africa,Ivory Coast,Production,2014,2618.9
+Africa,Guinea,Production,2014,2618.9
+Africa,Guinea-Bissau,Production,2014,2618.9
+Africa,Liberia,Production,2014,2618.9
+Africa,Sierra Leone,Production,2014,2618.9
+Africa,Burkina Faso,Production,2014,2618.9
+Africa,Central African Republic,Production,2014,2618.9
+Africa,Republic of the Congo,Production,2014,2618.9
+Africa,Gabon,Production,2014,2618.9
+Africa,Equatorial Guinea,Production,2014,2618.9
+Africa,Zambia,Production,2014,2618.9
+Africa,Malawi,Production,2014,2618.9
+Africa,Mozambique,Production,2014,2618.9
+Africa,Eswatini,Production,2014,2618.9
+Africa,Angola,Production,2014,2618.9
+Africa,Burundi,Production,2014,2618.9
+Africa,Madagascar,Production,2014,2618.9
+Africa,The Gambia,Production,2014,2618.9
+Africa,Tunisia,Production,2014,2618.9
+Africa,Algeria,Production,2014,2618.9
+Africa,Eritrea,Production,2014,2618.9
+Africa,Morocco,Production,2014,2618.9
+Africa,Egypt,Production,2014,2618.9
+Africa,Libya,Production,2014,2618.9
+Africa,Ethiopia,Production,2014,2618.9
+Africa,Djibouti,Production,2014,2618.9
+Africa,Somaliland,Production,2014,2618.9
+Africa,Uganda,Production,2014,2618.9
+Africa,Rwanda,Production,2014,2618.9
+Africa,South Sudan,Production,2014,2618.9
+Africa,Tanzania,Production,2015,2098
+Africa,Western Sahara,Production,2015,2098
+Africa,Democratic Republic of the Congo,Production,2015,2098
+Africa,Somalia,Production,2015,2098
+Africa,Kenya,Production,2015,2098
+Africa,Sudan,Production,2015,2098
+Africa,Chad,Production,2015,2098
+Africa,South Africa,Production,2015,2098
+Africa,Lesotho,Production,2015,2098
+Africa,Zimbabwe,Production,2015,2098
+Africa,Botswana,Production,2015,2098
+Africa,Namibia,Production,2015,2098
+Africa,Senegal,Production,2015,2098
+Africa,Mali,Production,2015,2098
+Africa,Mauritania,Production,2015,2098
+Africa,Benin,Production,2015,2098
+Africa,Niger,Production,2015,2098
+Africa,Nigeria,Production,2015,2098
+Africa,Cameroon,Production,2015,2098
+Africa,Togo,Production,2015,2098
+Africa,Ghana,Production,2015,2098
+Africa,Ivory Coast,Production,2015,2098
+Africa,Guinea,Production,2015,2098
+Africa,Guinea-Bissau,Production,2015,2098
+Africa,Liberia,Production,2015,2098
+Africa,Sierra Leone,Production,2015,2098
+Africa,Burkina Faso,Production,2015,2098
+Africa,Central African Republic,Production,2015,2098
+Africa,Republic of the Congo,Production,2015,2098
+Africa,Gabon,Production,2015,2098
+Africa,Equatorial Guinea,Production,2015,2098
+Africa,Zambia,Production,2015,2098
+Africa,Malawi,Production,2015,2098
+Africa,Mozambique,Production,2015,2098
+Africa,Eswatini,Production,2015,2098
+Africa,Angola,Production,2015,2098
+Africa,Burundi,Production,2015,2098
+Africa,Madagascar,Production,2015,2098
+Africa,The Gambia,Production,2015,2098
+Africa,Tunisia,Production,2015,2098
+Africa,Algeria,Production,2015,2098
+Africa,Eritrea,Production,2015,2098
+Africa,Morocco,Production,2015,2098
+Africa,Egypt,Production,2015,2098
+Africa,Libya,Production,2015,2098
+Africa,Ethiopia,Production,2015,2098
+Africa,Djibouti,Production,2015,2098
+Africa,Somaliland,Production,2015,2098
+Africa,Uganda,Production,2015,2098
+Africa,Rwanda,Production,2015,2098
+Africa,South Sudan,Production,2015,2098
+Africa,Tanzania,Production,2016,2415.1
+Africa,Western Sahara,Production,2016,2415.1
+Africa,Democratic Republic of the Congo,Production,2016,2415.1
+Africa,Somalia,Production,2016,2415.1
+Africa,Kenya,Production,2016,2415.1
+Africa,Sudan,Production,2016,2415.1
+Africa,Chad,Production,2016,2415.1
+Africa,South Africa,Production,2016,2415.1
+Africa,Lesotho,Production,2016,2415.1
+Africa,Zimbabwe,Production,2016,2415.1
+Africa,Botswana,Production,2016,2415.1
+Africa,Namibia,Production,2016,2415.1
+Africa,Senegal,Production,2016,2415.1
+Africa,Mali,Production,2016,2415.1
+Africa,Mauritania,Production,2016,2415.1
+Africa,Benin,Production,2016,2415.1
+Africa,Niger,Production,2016,2415.1
+Africa,Nigeria,Production,2016,2415.1
+Africa,Cameroon,Production,2016,2415.1
+Africa,Togo,Production,2016,2415.1
+Africa,Ghana,Production,2016,2415.1
+Africa,Ivory Coast,Production,2016,2415.1
+Africa,Guinea,Production,2016,2415.1
+Africa,Guinea-Bissau,Production,2016,2415.1
+Africa,Liberia,Production,2016,2415.1
+Africa,Sierra Leone,Production,2016,2415.1
+Africa,Burkina Faso,Production,2016,2415.1
+Africa,Central African Republic,Production,2016,2415.1
+Africa,Republic of the Congo,Production,2016,2415.1
+Africa,Gabon,Production,2016,2415.1
+Africa,Equatorial Guinea,Production,2016,2415.1
+Africa,Zambia,Production,2016,2415.1
+Africa,Malawi,Production,2016,2415.1
+Africa,Mozambique,Production,2016,2415.1
+Africa,Eswatini,Production,2016,2415.1
+Africa,Angola,Production,2016,2415.1
+Africa,Burundi,Production,2016,2415.1
+Africa,Madagascar,Production,2016,2415.1
+Africa,The Gambia,Production,2016,2415.1
+Africa,Tunisia,Production,2016,2415.1
+Africa,Algeria,Production,2016,2415.1
+Africa,Eritrea,Production,2016,2415.1
+Africa,Morocco,Production,2016,2415.1
+Africa,Egypt,Production,2016,2415.1
+Africa,Libya,Production,2016,2415.1
+Africa,Ethiopia,Production,2016,2415.1
+Africa,Djibouti,Production,2016,2415.1
+Africa,Somaliland,Production,2016,2415.1
+Africa,Uganda,Production,2016,2415.1
+Africa,Rwanda,Production,2016,2415.1
+Africa,South Sudan,Production,2016,2415.1
+Africa,Tanzania,Production,2017,2312.6
+Africa,Western Sahara,Production,2017,2312.6
+Africa,Democratic Republic of the Congo,Production,2017,2312.6
+Africa,Somalia,Production,2017,2312.6
+Africa,Kenya,Production,2017,2312.6
+Africa,Sudan,Production,2017,2312.6
+Africa,Chad,Production,2017,2312.6
+Africa,South Africa,Production,2017,2312.6
+Africa,Lesotho,Production,2017,2312.6
+Africa,Zimbabwe,Production,2017,2312.6
+Africa,Botswana,Production,2017,2312.6
+Africa,Namibia,Production,2017,2312.6
+Africa,Senegal,Production,2017,2312.6
+Africa,Mali,Production,2017,2312.6
+Africa,Mauritania,Production,2017,2312.6
+Africa,Benin,Production,2017,2312.6
+Africa,Niger,Production,2017,2312.6
+Africa,Nigeria,Production,2017,2312.6
+Africa,Cameroon,Production,2017,2312.6
+Africa,Togo,Production,2017,2312.6
+Africa,Ghana,Production,2017,2312.6
+Africa,Ivory Coast,Production,2017,2312.6
+Africa,Guinea,Production,2017,2312.6
+Africa,Guinea-Bissau,Production,2017,2312.6
+Africa,Liberia,Production,2017,2312.6
+Africa,Sierra Leone,Production,2017,2312.6
+Africa,Burkina Faso,Production,2017,2312.6
+Africa,Central African Republic,Production,2017,2312.6
+Africa,Republic of the Congo,Production,2017,2312.6
+Africa,Gabon,Production,2017,2312.6
+Africa,Equatorial Guinea,Production,2017,2312.6
+Africa,Zambia,Production,2017,2312.6
+Africa,Malawi,Production,2017,2312.6
+Africa,Mozambique,Production,2017,2312.6
+Africa,Eswatini,Production,2017,2312.6
+Africa,Angola,Production,2017,2312.6
+Africa,Burundi,Production,2017,2312.6
+Africa,Madagascar,Production,2017,2312.6
+Africa,The Gambia,Production,2017,2312.6
+Africa,Tunisia,Production,2017,2312.6
+Africa,Algeria,Production,2017,2312.6
+Africa,Eritrea,Production,2017,2312.6
+Africa,Morocco,Production,2017,2312.6
+Africa,Egypt,Production,2017,2312.6
+Africa,Libya,Production,2017,2312.6
+Africa,Ethiopia,Production,2017,2312.6
+Africa,Djibouti,Production,2017,2312.6
+Africa,Somaliland,Production,2017,2312.6
+Africa,Uganda,Production,2017,2312.6
+Africa,Rwanda,Production,2017,2312.6
+Africa,South Sudan,Production,2017,2312.6
+Africa,Tanzania,Production,2018,2395.5
+Africa,Western Sahara,Production,2018,2395.5
+Africa,Democratic Republic of the Congo,Production,2018,2395.5
+Africa,Somalia,Production,2018,2395.5
+Africa,Kenya,Production,2018,2395.5
+Africa,Sudan,Production,2018,2395.5
+Africa,Chad,Production,2018,2395.5
+Africa,South Africa,Production,2018,2395.5
+Africa,Lesotho,Production,2018,2395.5
+Africa,Zimbabwe,Production,2018,2395.5
+Africa,Botswana,Production,2018,2395.5
+Africa,Namibia,Production,2018,2395.5
+Africa,Senegal,Production,2018,2395.5
+Africa,Mali,Production,2018,2395.5
+Africa,Mauritania,Production,2018,2395.5
+Africa,Benin,Production,2018,2395.5
+Africa,Niger,Production,2018,2395.5
+Africa,Nigeria,Production,2018,2395.5
+Africa,Cameroon,Production,2018,2395.5
+Africa,Togo,Production,2018,2395.5
+Africa,Ghana,Production,2018,2395.5
+Africa,Ivory Coast,Production,2018,2395.5
+Africa,Guinea,Production,2018,2395.5
+Africa,Guinea-Bissau,Production,2018,2395.5
+Africa,Liberia,Production,2018,2395.5
+Africa,Sierra Leone,Production,2018,2395.5
+Africa,Burkina Faso,Production,2018,2395.5
+Africa,Central African Republic,Production,2018,2395.5
+Africa,Republic of the Congo,Production,2018,2395.5
+Africa,Gabon,Production,2018,2395.5
+Africa,Equatorial Guinea,Production,2018,2395.5
+Africa,Zambia,Production,2018,2395.5
+Africa,Malawi,Production,2018,2395.5
+Africa,Mozambique,Production,2018,2395.5
+Africa,Eswatini,Production,2018,2395.5
+Africa,Angola,Production,2018,2395.5
+Africa,Burundi,Production,2018,2395.5
+Africa,Madagascar,Production,2018,2395.5
+Africa,The Gambia,Production,2018,2395.5
+Africa,Tunisia,Production,2018,2395.5
+Africa,Algeria,Production,2018,2395.5
+Africa,Eritrea,Production,2018,2395.5
+Africa,Morocco,Production,2018,2395.5
+Africa,Egypt,Production,2018,2395.5
+Africa,Libya,Production,2018,2395.5
+Africa,Ethiopia,Production,2018,2395.5
+Africa,Djibouti,Production,2018,2395.5
+Africa,Somaliland,Production,2018,2395.5
+Africa,Uganda,Production,2018,2395.5
+Africa,Rwanda,Production,2018,2395.5
+Africa,South Sudan,Production,2018,2395.5
+Africa,Tanzania,Production,2019,2183.4
+Africa,Western Sahara,Production,2019,2183.4
+Africa,Democratic Republic of the Congo,Production,2019,2183.4
+Africa,Somalia,Production,2019,2183.4
+Africa,Kenya,Production,2019,2183.4
+Africa,Sudan,Production,2019,2183.4
+Africa,Chad,Production,2019,2183.4
+Africa,South Africa,Production,2019,2183.4
+Africa,Lesotho,Production,2019,2183.4
+Africa,Zimbabwe,Production,2019,2183.4
+Africa,Botswana,Production,2019,2183.4
+Africa,Namibia,Production,2019,2183.4
+Africa,Senegal,Production,2019,2183.4
+Africa,Mali,Production,2019,2183.4
+Africa,Mauritania,Production,2019,2183.4
+Africa,Benin,Production,2019,2183.4
+Africa,Niger,Production,2019,2183.4
+Africa,Nigeria,Production,2019,2183.4
+Africa,Cameroon,Production,2019,2183.4
+Africa,Togo,Production,2019,2183.4
+Africa,Ghana,Production,2019,2183.4
+Africa,Ivory Coast,Production,2019,2183.4
+Africa,Guinea,Production,2019,2183.4
+Africa,Guinea-Bissau,Production,2019,2183.4
+Africa,Liberia,Production,2019,2183.4
+Africa,Sierra Leone,Production,2019,2183.4
+Africa,Burkina Faso,Production,2019,2183.4
+Africa,Central African Republic,Production,2019,2183.4
+Africa,Republic of the Congo,Production,2019,2183.4
+Africa,Gabon,Production,2019,2183.4
+Africa,Equatorial Guinea,Production,2019,2183.4
+Africa,Zambia,Production,2019,2183.4
+Africa,Malawi,Production,2019,2183.4
+Africa,Mozambique,Production,2019,2183.4
+Africa,Eswatini,Production,2019,2183.4
+Africa,Angola,Production,2019,2183.4
+Africa,Burundi,Production,2019,2183.4
+Africa,Madagascar,Production,2019,2183.4
+Africa,The Gambia,Production,2019,2183.4
+Africa,Tunisia,Production,2019,2183.4
+Africa,Algeria,Production,2019,2183.4
+Africa,Eritrea,Production,2019,2183.4
+Africa,Morocco,Production,2019,2183.4
+Africa,Egypt,Production,2019,2183.4
+Africa,Libya,Production,2019,2183.4
+Africa,Ethiopia,Production,2019,2183.4
+Africa,Djibouti,Production,2019,2183.4
+Africa,Somaliland,Production,2019,2183.4
+Africa,Uganda,Production,2019,2183.4
+Africa,Rwanda,Production,2019,2183.4
+Africa,South Sudan,Production,2019,2183.4
+Africa,Tanzania,Production,2020,1858.5
+Africa,Western Sahara,Production,2020,1858.5
+Africa,Democratic Republic of the Congo,Production,2020,1858.5
+Africa,Somalia,Production,2020,1858.5
+Africa,Kenya,Production,2020,1858.5
+Africa,Sudan,Production,2020,1858.5
+Africa,Chad,Production,2020,1858.5
+Africa,South Africa,Production,2020,1858.5
+Africa,Lesotho,Production,2020,1858.5
+Africa,Zimbabwe,Production,2020,1858.5
+Africa,Botswana,Production,2020,1858.5
+Africa,Namibia,Production,2020,1858.5
+Africa,Senegal,Production,2020,1858.5
+Africa,Mali,Production,2020,1858.5
+Africa,Mauritania,Production,2020,1858.5
+Africa,Benin,Production,2020,1858.5
+Africa,Niger,Production,2020,1858.5
+Africa,Nigeria,Production,2020,1858.5
+Africa,Cameroon,Production,2020,1858.5
+Africa,Togo,Production,2020,1858.5
+Africa,Ghana,Production,2020,1858.5
+Africa,Ivory Coast,Production,2020,1858.5
+Africa,Guinea,Production,2020,1858.5
+Africa,Guinea-Bissau,Production,2020,1858.5
+Africa,Liberia,Production,2020,1858.5
+Africa,Sierra Leone,Production,2020,1858.5
+Africa,Burkina Faso,Production,2020,1858.5
+Africa,Central African Republic,Production,2020,1858.5
+Africa,Republic of the Congo,Production,2020,1858.5
+Africa,Gabon,Production,2020,1858.5
+Africa,Equatorial Guinea,Production,2020,1858.5
+Africa,Zambia,Production,2020,1858.5
+Africa,Malawi,Production,2020,1858.5
+Africa,Mozambique,Production,2020,1858.5
+Africa,Eswatini,Production,2020,1858.5
+Africa,Angola,Production,2020,1858.5
+Africa,Burundi,Production,2020,1858.5
+Africa,Madagascar,Production,2020,1858.5
+Africa,The Gambia,Production,2020,1858.5
+Africa,Tunisia,Production,2020,1858.5
+Africa,Algeria,Production,2020,1858.5
+Africa,Eritrea,Production,2020,1858.5
+Africa,Morocco,Production,2020,1858.5
+Africa,Egypt,Production,2020,1858.5
+Africa,Libya,Production,2020,1858.5
+Africa,Ethiopia,Production,2020,1858.5
+Africa,Djibouti,Production,2020,1858.5
+Africa,Somaliland,Production,2020,1858.5
+Africa,Uganda,Production,2020,1858.5
+Africa,Rwanda,Production,2020,1858.5
+Africa,South Sudan,Production,2020,1858.5
+Africa,Tanzania,Production,2021,2516.5
+Africa,Western Sahara,Production,2021,2516.5
+Africa,Democratic Republic of the Congo,Production,2021,2516.5
+Africa,Somalia,Production,2021,2516.5
+Africa,Kenya,Production,2021,2516.5
+Africa,Sudan,Production,2021,2516.5
+Africa,Chad,Production,2021,2516.5
+Africa,South Africa,Production,2021,2516.5
+Africa,Lesotho,Production,2021,2516.5
+Africa,Zimbabwe,Production,2021,2516.5
+Africa,Botswana,Production,2021,2516.5
+Africa,Namibia,Production,2021,2516.5
+Africa,Senegal,Production,2021,2516.5
+Africa,Mali,Production,2021,2516.5
+Africa,Mauritania,Production,2021,2516.5
+Africa,Benin,Production,2021,2516.5
+Africa,Niger,Production,2021,2516.5
+Africa,Nigeria,Production,2021,2516.5
+Africa,Cameroon,Production,2021,2516.5
+Africa,Togo,Production,2021,2516.5
+Africa,Ghana,Production,2021,2516.5
+Africa,Ivory Coast,Production,2021,2516.5
+Africa,Guinea,Production,2021,2516.5
+Africa,Guinea-Bissau,Production,2021,2516.5
+Africa,Liberia,Production,2021,2516.5
+Africa,Sierra Leone,Production,2021,2516.5
+Africa,Burkina Faso,Production,2021,2516.5
+Africa,Central African Republic,Production,2021,2516.5
+Africa,Republic of the Congo,Production,2021,2516.5
+Africa,Gabon,Production,2021,2516.5
+Africa,Equatorial Guinea,Production,2021,2516.5
+Africa,Zambia,Production,2021,2516.5
+Africa,Malawi,Production,2021,2516.5
+Africa,Mozambique,Production,2021,2516.5
+Africa,Eswatini,Production,2021,2516.5
+Africa,Angola,Production,2021,2516.5
+Africa,Burundi,Production,2021,2516.5
+Africa,Madagascar,Production,2021,2516.5
+Africa,The Gambia,Production,2021,2516.5
+Africa,Tunisia,Production,2021,2516.5
+Africa,Algeria,Production,2021,2516.5
+Africa,Eritrea,Production,2021,2516.5
+Africa,Morocco,Production,2021,2516.5
+Africa,Egypt,Production,2021,2516.5
+Africa,Libya,Production,2021,2516.5
+Africa,Ethiopia,Production,2021,2516.5
+Africa,Djibouti,Production,2021,2516.5
+Africa,Somaliland,Production,2021,2516.5
+Africa,Uganda,Production,2021,2516.5
+Africa,Rwanda,Production,2021,2516.5
+Africa,South Sudan,Production,2021,2516.5
+Africa,Tanzania,Production,2022,2181.5
+Africa,Western Sahara,Production,2022,2181.5
+Africa,Democratic Republic of the Congo,Production,2022,2181.5
+Africa,Somalia,Production,2022,2181.5
+Africa,Kenya,Production,2022,2181.5
+Africa,Sudan,Production,2022,2181.5
+Africa,Chad,Production,2022,2181.5
+Africa,South Africa,Production,2022,2181.5
+Africa,Lesotho,Production,2022,2181.5
+Africa,Zimbabwe,Production,2022,2181.5
+Africa,Botswana,Production,2022,2181.5
+Africa,Namibia,Production,2022,2181.5
+Africa,Senegal,Production,2022,2181.5
+Africa,Mali,Production,2022,2181.5
+Africa,Mauritania,Production,2022,2181.5
+Africa,Benin,Production,2022,2181.5
+Africa,Niger,Production,2022,2181.5
+Africa,Nigeria,Production,2022,2181.5
+Africa,Cameroon,Production,2022,2181.5
+Africa,Togo,Production,2022,2181.5
+Africa,Ghana,Production,2022,2181.5
+Africa,Ivory Coast,Production,2022,2181.5
+Africa,Guinea,Production,2022,2181.5
+Africa,Guinea-Bissau,Production,2022,2181.5
+Africa,Liberia,Production,2022,2181.5
+Africa,Sierra Leone,Production,2022,2181.5
+Africa,Burkina Faso,Production,2022,2181.5
+Africa,Central African Republic,Production,2022,2181.5
+Africa,Republic of the Congo,Production,2022,2181.5
+Africa,Gabon,Production,2022,2181.5
+Africa,Equatorial Guinea,Production,2022,2181.5
+Africa,Zambia,Production,2022,2181.5
+Africa,Malawi,Production,2022,2181.5
+Africa,Mozambique,Production,2022,2181.5
+Africa,Eswatini,Production,2022,2181.5
+Africa,Angola,Production,2022,2181.5
+Africa,Burundi,Production,2022,2181.5
+Africa,Madagascar,Production,2022,2181.5
+Africa,The Gambia,Production,2022,2181.5
+Africa,Tunisia,Production,2022,2181.5
+Africa,Algeria,Production,2022,2181.5
+Africa,Eritrea,Production,2022,2181.5
+Africa,Morocco,Production,2022,2181.5
+Africa,Egypt,Production,2022,2181.5
+Africa,Libya,Production,2022,2181.5
+Africa,Ethiopia,Production,2022,2181.5
+Africa,Djibouti,Production,2022,2181.5
+Africa,Somaliland,Production,2022,2181.5
+Africa,Uganda,Production,2022,2181.5
+Africa,Rwanda,Production,2022,2181.5
+Africa,South Sudan,Production,2022,2181.5
+Africa,Tanzania,Sales,2010,2484.3
+Africa,Western Sahara,Sales,2010,2484.3
+Africa,Democratic Republic of the Congo,Sales,2010,2484.3
+Africa,Somalia,Sales,2010,2484.3
+Africa,Kenya,Sales,2010,2484.3
+Africa,Sudan,Sales,2010,2484.3
+Africa,Chad,Sales,2010,2484.3
+Africa,South Africa,Sales,2010,2484.3
+Africa,Lesotho,Sales,2010,2484.3
+Africa,Zimbabwe,Sales,2010,2484.3
+Africa,Botswana,Sales,2010,2484.3
+Africa,Namibia,Sales,2010,2484.3
+Africa,Senegal,Sales,2010,2484.3
+Africa,Mali,Sales,2010,2484.3
+Africa,Mauritania,Sales,2010,2484.3
+Africa,Benin,Sales,2010,2484.3
+Africa,Niger,Sales,2010,2484.3
+Africa,Nigeria,Sales,2010,2484.3
+Africa,Cameroon,Sales,2010,2484.3
+Africa,Togo,Sales,2010,2484.3
+Africa,Ghana,Sales,2010,2484.3
+Africa,Ivory Coast,Sales,2010,2484.3
+Africa,Guinea,Sales,2010,2484.3
+Africa,Guinea-Bissau,Sales,2010,2484.3
+Africa,Liberia,Sales,2010,2484.3
+Africa,Sierra Leone,Sales,2010,2484.3
+Africa,Burkina Faso,Sales,2010,2484.3
+Africa,Central African Republic,Sales,2010,2484.3
+Africa,Republic of the Congo,Sales,2010,2484.3
+Africa,Gabon,Sales,2010,2484.3
+Africa,Equatorial Guinea,Sales,2010,2484.3
+Africa,Zambia,Sales,2010,2484.3
+Africa,Malawi,Sales,2010,2484.3
+Africa,Mozambique,Sales,2010,2484.3
+Africa,Eswatini,Sales,2010,2484.3
+Africa,Angola,Sales,2010,2484.3
+Africa,Burundi,Sales,2010,2484.3
+Africa,Madagascar,Sales,2010,2484.3
+Africa,The Gambia,Sales,2010,2484.3
+Africa,Tunisia,Sales,2010,2484.3
+Africa,Algeria,Sales,2010,2484.3
+Africa,Eritrea,Sales,2010,2484.3
+Africa,Morocco,Sales,2010,2484.3
+Africa,Egypt,Sales,2010,2484.3
+Africa,Libya,Sales,2010,2484.3
+Africa,Ethiopia,Sales,2010,2484.3
+Africa,Djibouti,Sales,2010,2484.3
+Africa,Somaliland,Sales,2010,2484.3
+Africa,Uganda,Sales,2010,2484.3
+Africa,Rwanda,Sales,2010,2484.3
+Africa,South Sudan,Sales,2010,2484.3
+Africa,Tanzania,Sales,2011,2293.5
+Africa,Western Sahara,Sales,2011,2293.5
+Africa,Democratic Republic of the Congo,Sales,2011,2293.5
+Africa,Somalia,Sales,2011,2293.5
+Africa,Kenya,Sales,2011,2293.5
+Africa,Sudan,Sales,2011,2293.5
+Africa,Chad,Sales,2011,2293.5
+Africa,South Africa,Sales,2011,2293.5
+Africa,Lesotho,Sales,2011,2293.5
+Africa,Zimbabwe,Sales,2011,2293.5
+Africa,Botswana,Sales,2011,2293.5
+Africa,Namibia,Sales,2011,2293.5
+Africa,Senegal,Sales,2011,2293.5
+Africa,Mali,Sales,2011,2293.5
+Africa,Mauritania,Sales,2011,2293.5
+Africa,Benin,Sales,2011,2293.5
+Africa,Niger,Sales,2011,2293.5
+Africa,Nigeria,Sales,2011,2293.5
+Africa,Cameroon,Sales,2011,2293.5
+Africa,Togo,Sales,2011,2293.5
+Africa,Ghana,Sales,2011,2293.5
+Africa,Ivory Coast,Sales,2011,2293.5
+Africa,Guinea,Sales,2011,2293.5
+Africa,Guinea-Bissau,Sales,2011,2293.5
+Africa,Liberia,Sales,2011,2293.5
+Africa,Sierra Leone,Sales,2011,2293.5
+Africa,Burkina Faso,Sales,2011,2293.5
+Africa,Central African Republic,Sales,2011,2293.5
+Africa,Republic of the Congo,Sales,2011,2293.5
+Africa,Gabon,Sales,2011,2293.5
+Africa,Equatorial Guinea,Sales,2011,2293.5
+Africa,Zambia,Sales,2011,2293.5
+Africa,Malawi,Sales,2011,2293.5
+Africa,Mozambique,Sales,2011,2293.5
+Africa,Eswatini,Sales,2011,2293.5
+Africa,Angola,Sales,2011,2293.5
+Africa,Burundi,Sales,2011,2293.5
+Africa,Madagascar,Sales,2011,2293.5
+Africa,The Gambia,Sales,2011,2293.5
+Africa,Tunisia,Sales,2011,2293.5
+Africa,Algeria,Sales,2011,2293.5
+Africa,Eritrea,Sales,2011,2293.5
+Africa,Morocco,Sales,2011,2293.5
+Africa,Egypt,Sales,2011,2293.5
+Africa,Libya,Sales,2011,2293.5
+Africa,Ethiopia,Sales,2011,2293.5
+Africa,Djibouti,Sales,2011,2293.5
+Africa,Somaliland,Sales,2011,2293.5
+Africa,Uganda,Sales,2011,2293.5
+Africa,Rwanda,Sales,2011,2293.5
+Africa,South Sudan,Sales,2011,2293.5
+Africa,Tanzania,Sales,2012,2515
+Africa,Western Sahara,Sales,2012,2515
+Africa,Democratic Republic of the Congo,Sales,2012,2515
+Africa,Somalia,Sales,2012,2515
+Africa,Kenya,Sales,2012,2515
+Africa,Sudan,Sales,2012,2515
+Africa,Chad,Sales,2012,2515
+Africa,South Africa,Sales,2012,2515
+Africa,Lesotho,Sales,2012,2515
+Africa,Zimbabwe,Sales,2012,2515
+Africa,Botswana,Sales,2012,2515
+Africa,Namibia,Sales,2012,2515
+Africa,Senegal,Sales,2012,2515
+Africa,Mali,Sales,2012,2515
+Africa,Mauritania,Sales,2012,2515
+Africa,Benin,Sales,2012,2515
+Africa,Niger,Sales,2012,2515
+Africa,Nigeria,Sales,2012,2515
+Africa,Cameroon,Sales,2012,2515
+Africa,Togo,Sales,2012,2515
+Africa,Ghana,Sales,2012,2515
+Africa,Ivory Coast,Sales,2012,2515
+Africa,Guinea,Sales,2012,2515
+Africa,Guinea-Bissau,Sales,2012,2515
+Africa,Liberia,Sales,2012,2515
+Africa,Sierra Leone,Sales,2012,2515
+Africa,Burkina Faso,Sales,2012,2515
+Africa,Central African Republic,Sales,2012,2515
+Africa,Republic of the Congo,Sales,2012,2515
+Africa,Gabon,Sales,2012,2515
+Africa,Equatorial Guinea,Sales,2012,2515
+Africa,Zambia,Sales,2012,2515
+Africa,Malawi,Sales,2012,2515
+Africa,Mozambique,Sales,2012,2515
+Africa,Eswatini,Sales,2012,2515
+Africa,Angola,Sales,2012,2515
+Africa,Burundi,Sales,2012,2515
+Africa,Madagascar,Sales,2012,2515
+Africa,The Gambia,Sales,2012,2515
+Africa,Tunisia,Sales,2012,2515
+Africa,Algeria,Sales,2012,2515
+Africa,Eritrea,Sales,2012,2515
+Africa,Morocco,Sales,2012,2515
+Africa,Egypt,Sales,2012,2515
+Africa,Libya,Sales,2012,2515
+Africa,Ethiopia,Sales,2012,2515
+Africa,Djibouti,Sales,2012,2515
+Africa,Somaliland,Sales,2012,2515
+Africa,Uganda,Sales,2012,2515
+Africa,Rwanda,Sales,2012,2515
+Africa,South Sudan,Sales,2012,2515
+Africa,Tanzania,Sales,2013,2768
+Africa,Western Sahara,Sales,2013,2768
+Africa,Democratic Republic of the Congo,Sales,2013,2768
+Africa,Somalia,Sales,2013,2768
+Africa,Kenya,Sales,2013,2768
+Africa,Sudan,Sales,2013,2768
+Africa,Chad,Sales,2013,2768
+Africa,South Africa,Sales,2013,2768
+Africa,Lesotho,Sales,2013,2768
+Africa,Zimbabwe,Sales,2013,2768
+Africa,Botswana,Sales,2013,2768
+Africa,Namibia,Sales,2013,2768
+Africa,Senegal,Sales,2013,2768
+Africa,Mali,Sales,2013,2768
+Africa,Mauritania,Sales,2013,2768
+Africa,Benin,Sales,2013,2768
+Africa,Niger,Sales,2013,2768
+Africa,Nigeria,Sales,2013,2768
+Africa,Cameroon,Sales,2013,2768
+Africa,Togo,Sales,2013,2768
+Africa,Ghana,Sales,2013,2768
+Africa,Ivory Coast,Sales,2013,2768
+Africa,Guinea,Sales,2013,2768
+Africa,Guinea-Bissau,Sales,2013,2768
+Africa,Liberia,Sales,2013,2768
+Africa,Sierra Leone,Sales,2013,2768
+Africa,Burkina Faso,Sales,2013,2768
+Africa,Central African Republic,Sales,2013,2768
+Africa,Republic of the Congo,Sales,2013,2768
+Africa,Gabon,Sales,2013,2768
+Africa,Equatorial Guinea,Sales,2013,2768
+Africa,Zambia,Sales,2013,2768
+Africa,Malawi,Sales,2013,2768
+Africa,Mozambique,Sales,2013,2768
+Africa,Eswatini,Sales,2013,2768
+Africa,Angola,Sales,2013,2768
+Africa,Burundi,Sales,2013,2768
+Africa,Madagascar,Sales,2013,2768
+Africa,The Gambia,Sales,2013,2768
+Africa,Tunisia,Sales,2013,2768
+Africa,Algeria,Sales,2013,2768
+Africa,Eritrea,Sales,2013,2768
+Africa,Morocco,Sales,2013,2768
+Africa,Egypt,Sales,2013,2768
+Africa,Libya,Sales,2013,2768
+Africa,Ethiopia,Sales,2013,2768
+Africa,Djibouti,Sales,2013,2768
+Africa,Somaliland,Sales,2013,2768
+Africa,Uganda,Sales,2013,2768
+Africa,Rwanda,Sales,2013,2768
+Africa,South Sudan,Sales,2013,2768
+Africa,Tanzania,Sales,2014,2795.4
+Africa,Western Sahara,Sales,2014,2795.4
+Africa,Democratic Republic of the Congo,Sales,2014,2795.4
+Africa,Somalia,Sales,2014,2795.4
+Africa,Kenya,Sales,2014,2795.4
+Africa,Sudan,Sales,2014,2795.4
+Africa,Chad,Sales,2014,2795.4
+Africa,South Africa,Sales,2014,2795.4
+Africa,Lesotho,Sales,2014,2795.4
+Africa,Zimbabwe,Sales,2014,2795.4
+Africa,Botswana,Sales,2014,2795.4
+Africa,Namibia,Sales,2014,2795.4
+Africa,Senegal,Sales,2014,2795.4
+Africa,Mali,Sales,2014,2795.4
+Africa,Mauritania,Sales,2014,2795.4
+Africa,Benin,Sales,2014,2795.4
+Africa,Niger,Sales,2014,2795.4
+Africa,Nigeria,Sales,2014,2795.4
+Africa,Cameroon,Sales,2014,2795.4
+Africa,Togo,Sales,2014,2795.4
+Africa,Ghana,Sales,2014,2795.4
+Africa,Ivory Coast,Sales,2014,2795.4
+Africa,Guinea,Sales,2014,2795.4
+Africa,Guinea-Bissau,Sales,2014,2795.4
+Africa,Liberia,Sales,2014,2795.4
+Africa,Sierra Leone,Sales,2014,2795.4
+Africa,Burkina Faso,Sales,2014,2795.4
+Africa,Central African Republic,Sales,2014,2795.4
+Africa,Republic of the Congo,Sales,2014,2795.4
+Africa,Gabon,Sales,2014,2795.4
+Africa,Equatorial Guinea,Sales,2014,2795.4
+Africa,Zambia,Sales,2014,2795.4
+Africa,Malawi,Sales,2014,2795.4
+Africa,Mozambique,Sales,2014,2795.4
+Africa,Eswatini,Sales,2014,2795.4
+Africa,Angola,Sales,2014,2795.4
+Africa,Burundi,Sales,2014,2795.4
+Africa,Madagascar,Sales,2014,2795.4
+Africa,The Gambia,Sales,2014,2795.4
+Africa,Tunisia,Sales,2014,2795.4
+Africa,Algeria,Sales,2014,2795.4
+Africa,Eritrea,Sales,2014,2795.4
+Africa,Morocco,Sales,2014,2795.4
+Africa,Egypt,Sales,2014,2795.4
+Africa,Libya,Sales,2014,2795.4
+Africa,Ethiopia,Sales,2014,2795.4
+Africa,Djibouti,Sales,2014,2795.4
+Africa,Somaliland,Sales,2014,2795.4
+Africa,Uganda,Sales,2014,2795.4
+Africa,Rwanda,Sales,2014,2795.4
+Africa,South Sudan,Sales,2014,2795.4
+Africa,Tanzania,Sales,2015,2597.3
+Africa,Western Sahara,Sales,2015,2597.3
+Africa,Democratic Republic of the Congo,Sales,2015,2597.3
+Africa,Somalia,Sales,2015,2597.3
+Africa,Kenya,Sales,2015,2597.3
+Africa,Sudan,Sales,2015,2597.3
+Africa,Chad,Sales,2015,2597.3
+Africa,South Africa,Sales,2015,2597.3
+Africa,Lesotho,Sales,2015,2597.3
+Africa,Zimbabwe,Sales,2015,2597.3
+Africa,Botswana,Sales,2015,2597.3
+Africa,Namibia,Sales,2015,2597.3
+Africa,Senegal,Sales,2015,2597.3
+Africa,Mali,Sales,2015,2597.3
+Africa,Mauritania,Sales,2015,2597.3
+Africa,Benin,Sales,2015,2597.3
+Africa,Niger,Sales,2015,2597.3
+Africa,Nigeria,Sales,2015,2597.3
+Africa,Cameroon,Sales,2015,2597.3
+Africa,Togo,Sales,2015,2597.3
+Africa,Ghana,Sales,2015,2597.3
+Africa,Ivory Coast,Sales,2015,2597.3
+Africa,Guinea,Sales,2015,2597.3
+Africa,Guinea-Bissau,Sales,2015,2597.3
+Africa,Liberia,Sales,2015,2597.3
+Africa,Sierra Leone,Sales,2015,2597.3
+Africa,Burkina Faso,Sales,2015,2597.3
+Africa,Central African Republic,Sales,2015,2597.3
+Africa,Republic of the Congo,Sales,2015,2597.3
+Africa,Gabon,Sales,2015,2597.3
+Africa,Equatorial Guinea,Sales,2015,2597.3
+Africa,Zambia,Sales,2015,2597.3
+Africa,Malawi,Sales,2015,2597.3
+Africa,Mozambique,Sales,2015,2597.3
+Africa,Eswatini,Sales,2015,2597.3
+Africa,Angola,Sales,2015,2597.3
+Africa,Burundi,Sales,2015,2597.3
+Africa,Madagascar,Sales,2015,2597.3
+Africa,The Gambia,Sales,2015,2597.3
+Africa,Tunisia,Sales,2015,2597.3
+Africa,Algeria,Sales,2015,2597.3
+Africa,Eritrea,Sales,2015,2597.3
+Africa,Morocco,Sales,2015,2597.3
+Africa,Egypt,Sales,2015,2597.3
+Africa,Libya,Sales,2015,2597.3
+Africa,Ethiopia,Sales,2015,2597.3
+Africa,Djibouti,Sales,2015,2597.3
+Africa,Somaliland,Sales,2015,2597.3
+Africa,Uganda,Sales,2015,2597.3
+Africa,Rwanda,Sales,2015,2597.3
+Africa,South Sudan,Sales,2015,2597.3
+Africa,Tanzania,Sales,2016,2556.8
+Africa,Western Sahara,Sales,2016,2556.8
+Africa,Democratic Republic of the Congo,Sales,2016,2556.8
+Africa,Somalia,Sales,2016,2556.8
+Africa,Kenya,Sales,2016,2556.8
+Africa,Sudan,Sales,2016,2556.8
+Africa,Chad,Sales,2016,2556.8
+Africa,South Africa,Sales,2016,2556.8
+Africa,Lesotho,Sales,2016,2556.8
+Africa,Zimbabwe,Sales,2016,2556.8
+Africa,Botswana,Sales,2016,2556.8
+Africa,Namibia,Sales,2016,2556.8
+Africa,Senegal,Sales,2016,2556.8
+Africa,Mali,Sales,2016,2556.8
+Africa,Mauritania,Sales,2016,2556.8
+Africa,Benin,Sales,2016,2556.8
+Africa,Niger,Sales,2016,2556.8
+Africa,Nigeria,Sales,2016,2556.8
+Africa,Cameroon,Sales,2016,2556.8
+Africa,Togo,Sales,2016,2556.8
+Africa,Ghana,Sales,2016,2556.8
+Africa,Ivory Coast,Sales,2016,2556.8
+Africa,Guinea,Sales,2016,2556.8
+Africa,Guinea-Bissau,Sales,2016,2556.8
+Africa,Liberia,Sales,2016,2556.8
+Africa,Sierra Leone,Sales,2016,2556.8
+Africa,Burkina Faso,Sales,2016,2556.8
+Africa,Central African Republic,Sales,2016,2556.8
+Africa,Republic of the Congo,Sales,2016,2556.8
+Africa,Gabon,Sales,2016,2556.8
+Africa,Equatorial Guinea,Sales,2016,2556.8
+Africa,Zambia,Sales,2016,2556.8
+Africa,Malawi,Sales,2016,2556.8
+Africa,Mozambique,Sales,2016,2556.8
+Africa,Eswatini,Sales,2016,2556.8
+Africa,Angola,Sales,2016,2556.8
+Africa,Burundi,Sales,2016,2556.8
+Africa,Madagascar,Sales,2016,2556.8
+Africa,The Gambia,Sales,2016,2556.8
+Africa,Tunisia,Sales,2016,2556.8
+Africa,Algeria,Sales,2016,2556.8
+Africa,Eritrea,Sales,2016,2556.8
+Africa,Morocco,Sales,2016,2556.8
+Africa,Egypt,Sales,2016,2556.8
+Africa,Libya,Sales,2016,2556.8
+Africa,Ethiopia,Sales,2016,2556.8
+Africa,Djibouti,Sales,2016,2556.8
+Africa,Somaliland,Sales,2016,2556.8
+Africa,Uganda,Sales,2016,2556.8
+Africa,Rwanda,Sales,2016,2556.8
+Africa,South Sudan,Sales,2016,2556.8
+Africa,Tanzania,Sales,2017,2579.4
+Africa,Western Sahara,Sales,2017,2579.4
+Africa,Democratic Republic of the Congo,Sales,2017,2579.4
+Africa,Somalia,Sales,2017,2579.4
+Africa,Kenya,Sales,2017,2579.4
+Africa,Sudan,Sales,2017,2579.4
+Africa,Chad,Sales,2017,2579.4
+Africa,South Africa,Sales,2017,2579.4
+Africa,Lesotho,Sales,2017,2579.4
+Africa,Zimbabwe,Sales,2017,2579.4
+Africa,Botswana,Sales,2017,2579.4
+Africa,Namibia,Sales,2017,2579.4
+Africa,Senegal,Sales,2017,2579.4
+Africa,Mali,Sales,2017,2579.4
+Africa,Mauritania,Sales,2017,2579.4
+Africa,Benin,Sales,2017,2579.4
+Africa,Niger,Sales,2017,2579.4
+Africa,Nigeria,Sales,2017,2579.4
+Africa,Cameroon,Sales,2017,2579.4
+Africa,Togo,Sales,2017,2579.4
+Africa,Ghana,Sales,2017,2579.4
+Africa,Ivory Coast,Sales,2017,2579.4
+Africa,Guinea,Sales,2017,2579.4
+Africa,Guinea-Bissau,Sales,2017,2579.4
+Africa,Liberia,Sales,2017,2579.4
+Africa,Sierra Leone,Sales,2017,2579.4
+Africa,Burkina Faso,Sales,2017,2579.4
+Africa,Central African Republic,Sales,2017,2579.4
+Africa,Republic of the Congo,Sales,2017,2579.4
+Africa,Gabon,Sales,2017,2579.4
+Africa,Equatorial Guinea,Sales,2017,2579.4
+Africa,Zambia,Sales,2017,2579.4
+Africa,Malawi,Sales,2017,2579.4
+Africa,Mozambique,Sales,2017,2579.4
+Africa,Eswatini,Sales,2017,2579.4
+Africa,Angola,Sales,2017,2579.4
+Africa,Burundi,Sales,2017,2579.4
+Africa,Madagascar,Sales,2017,2579.4
+Africa,The Gambia,Sales,2017,2579.4
+Africa,Tunisia,Sales,2017,2579.4
+Africa,Algeria,Sales,2017,2579.4
+Africa,Eritrea,Sales,2017,2579.4
+Africa,Morocco,Sales,2017,2579.4
+Africa,Egypt,Sales,2017,2579.4
+Africa,Libya,Sales,2017,2579.4
+Africa,Ethiopia,Sales,2017,2579.4
+Africa,Djibouti,Sales,2017,2579.4
+Africa,Somaliland,Sales,2017,2579.4
+Africa,Uganda,Sales,2017,2579.4
+Africa,Rwanda,Sales,2017,2579.4
+Africa,South Sudan,Sales,2017,2579.4
+Africa,Tanzania,Sales,2018,2527
+Africa,Western Sahara,Sales,2018,2527
+Africa,Democratic Republic of the Congo,Sales,2018,2527
+Africa,Somalia,Sales,2018,2527
+Africa,Kenya,Sales,2018,2527
+Africa,Sudan,Sales,2018,2527
+Africa,Chad,Sales,2018,2527
+Africa,South Africa,Sales,2018,2527
+Africa,Lesotho,Sales,2018,2527
+Africa,Zimbabwe,Sales,2018,2527
+Africa,Botswana,Sales,2018,2527
+Africa,Namibia,Sales,2018,2527
+Africa,Senegal,Sales,2018,2527
+Africa,Mali,Sales,2018,2527
+Africa,Mauritania,Sales,2018,2527
+Africa,Benin,Sales,2018,2527
+Africa,Niger,Sales,2018,2527
+Africa,Nigeria,Sales,2018,2527
+Africa,Cameroon,Sales,2018,2527
+Africa,Togo,Sales,2018,2527
+Africa,Ghana,Sales,2018,2527
+Africa,Ivory Coast,Sales,2018,2527
+Africa,Guinea,Sales,2018,2527
+Africa,Guinea-Bissau,Sales,2018,2527
+Africa,Liberia,Sales,2018,2527
+Africa,Sierra Leone,Sales,2018,2527
+Africa,Burkina Faso,Sales,2018,2527
+Africa,Central African Republic,Sales,2018,2527
+Africa,Republic of the Congo,Sales,2018,2527
+Africa,Gabon,Sales,2018,2527
+Africa,Equatorial Guinea,Sales,2018,2527
+Africa,Zambia,Sales,2018,2527
+Africa,Malawi,Sales,2018,2527
+Africa,Mozambique,Sales,2018,2527
+Africa,Eswatini,Sales,2018,2527
+Africa,Angola,Sales,2018,2527
+Africa,Burundi,Sales,2018,2527
+Africa,Madagascar,Sales,2018,2527
+Africa,The Gambia,Sales,2018,2527
+Africa,Tunisia,Sales,2018,2527
+Africa,Algeria,Sales,2018,2527
+Africa,Eritrea,Sales,2018,2527
+Africa,Morocco,Sales,2018,2527
+Africa,Egypt,Sales,2018,2527
+Africa,Libya,Sales,2018,2527
+Africa,Ethiopia,Sales,2018,2527
+Africa,Djibouti,Sales,2018,2527
+Africa,Somaliland,Sales,2018,2527
+Africa,Uganda,Sales,2018,2527
+Africa,Rwanda,Sales,2018,2527
+Africa,South Sudan,Sales,2018,2527
+Africa,Tanzania,Sales,2019,2689.3
+Africa,Western Sahara,Sales,2019,2689.3
+Africa,Democratic Republic of the Congo,Sales,2019,2689.3
+Africa,Somalia,Sales,2019,2689.3
+Africa,Kenya,Sales,2019,2689.3
+Africa,Sudan,Sales,2019,2689.3
+Africa,Chad,Sales,2019,2689.3
+Africa,South Africa,Sales,2019,2689.3
+Africa,Lesotho,Sales,2019,2689.3
+Africa,Zimbabwe,Sales,2019,2689.3
+Africa,Botswana,Sales,2019,2689.3
+Africa,Namibia,Sales,2019,2689.3
+Africa,Senegal,Sales,2019,2689.3
+Africa,Mali,Sales,2019,2689.3
+Africa,Mauritania,Sales,2019,2689.3
+Africa,Benin,Sales,2019,2689.3
+Africa,Niger,Sales,2019,2689.3
+Africa,Nigeria,Sales,2019,2689.3
+Africa,Cameroon,Sales,2019,2689.3
+Africa,Togo,Sales,2019,2689.3
+Africa,Ghana,Sales,2019,2689.3
+Africa,Ivory Coast,Sales,2019,2689.3
+Africa,Guinea,Sales,2019,2689.3
+Africa,Guinea-Bissau,Sales,2019,2689.3
+Africa,Liberia,Sales,2019,2689.3
+Africa,Sierra Leone,Sales,2019,2689.3
+Africa,Burkina Faso,Sales,2019,2689.3
+Africa,Central African Republic,Sales,2019,2689.3
+Africa,Republic of the Congo,Sales,2019,2689.3
+Africa,Gabon,Sales,2019,2689.3
+Africa,Equatorial Guinea,Sales,2019,2689.3
+Africa,Zambia,Sales,2019,2689.3
+Africa,Malawi,Sales,2019,2689.3
+Africa,Mozambique,Sales,2019,2689.3
+Africa,Eswatini,Sales,2019,2689.3
+Africa,Angola,Sales,2019,2689.3
+Africa,Burundi,Sales,2019,2689.3
+Africa,Madagascar,Sales,2019,2689.3
+Africa,The Gambia,Sales,2019,2689.3
+Africa,Tunisia,Sales,2019,2689.3
+Africa,Algeria,Sales,2019,2689.3
+Africa,Eritrea,Sales,2019,2689.3
+Africa,Morocco,Sales,2019,2689.3
+Africa,Egypt,Sales,2019,2689.3
+Africa,Libya,Sales,2019,2689.3
+Africa,Ethiopia,Sales,2019,2689.3
+Africa,Djibouti,Sales,2019,2689.3
+Africa,Somaliland,Sales,2019,2689.3
+Africa,Uganda,Sales,2019,2689.3
+Africa,Rwanda,Sales,2019,2689.3
+Africa,South Sudan,Sales,2019,2689.3
+Africa,Tanzania,Sales,2020,2537.7
+Africa,Western Sahara,Sales,2020,2537.7
+Africa,Democratic Republic of the Congo,Sales,2020,2537.7
+Africa,Somalia,Sales,2020,2537.7
+Africa,Kenya,Sales,2020,2537.7
+Africa,Sudan,Sales,2020,2537.7
+Africa,Chad,Sales,2020,2537.7
+Africa,South Africa,Sales,2020,2537.7
+Africa,Lesotho,Sales,2020,2537.7
+Africa,Zimbabwe,Sales,2020,2537.7
+Africa,Botswana,Sales,2020,2537.7
+Africa,Namibia,Sales,2020,2537.7
+Africa,Senegal,Sales,2020,2537.7
+Africa,Mali,Sales,2020,2537.7
+Africa,Mauritania,Sales,2020,2537.7
+Africa,Benin,Sales,2020,2537.7
+Africa,Niger,Sales,2020,2537.7
+Africa,Nigeria,Sales,2020,2537.7
+Africa,Cameroon,Sales,2020,2537.7
+Africa,Togo,Sales,2020,2537.7
+Africa,Ghana,Sales,2020,2537.7
+Africa,Ivory Coast,Sales,2020,2537.7
+Africa,Guinea,Sales,2020,2537.7
+Africa,Guinea-Bissau,Sales,2020,2537.7
+Africa,Liberia,Sales,2020,2537.7
+Africa,Sierra Leone,Sales,2020,2537.7
+Africa,Burkina Faso,Sales,2020,2537.7
+Africa,Central African Republic,Sales,2020,2537.7
+Africa,Republic of the Congo,Sales,2020,2537.7
+Africa,Gabon,Sales,2020,2537.7
+Africa,Equatorial Guinea,Sales,2020,2537.7
+Africa,Zambia,Sales,2020,2537.7
+Africa,Malawi,Sales,2020,2537.7
+Africa,Mozambique,Sales,2020,2537.7
+Africa,Eswatini,Sales,2020,2537.7
+Africa,Angola,Sales,2020,2537.7
+Africa,Burundi,Sales,2020,2537.7
+Africa,Madagascar,Sales,2020,2537.7
+Africa,The Gambia,Sales,2020,2537.7
+Africa,Tunisia,Sales,2020,2537.7
+Africa,Algeria,Sales,2020,2537.7
+Africa,Eritrea,Sales,2020,2537.7
+Africa,Morocco,Sales,2020,2537.7
+Africa,Egypt,Sales,2020,2537.7
+Africa,Libya,Sales,2020,2537.7
+Africa,Ethiopia,Sales,2020,2537.7
+Africa,Djibouti,Sales,2020,2537.7
+Africa,Somaliland,Sales,2020,2537.7
+Africa,Uganda,Sales,2020,2537.7
+Africa,Rwanda,Sales,2020,2537.7
+Africa,South Sudan,Sales,2020,2537.7
+Africa,Tanzania,Sales,2021,2741.5
+Africa,Western Sahara,Sales,2021,2741.5
+Africa,Democratic Republic of the Congo,Sales,2021,2741.5
+Africa,Somalia,Sales,2021,2741.5
+Africa,Kenya,Sales,2021,2741.5
+Africa,Sudan,Sales,2021,2741.5
+Africa,Chad,Sales,2021,2741.5
+Africa,South Africa,Sales,2021,2741.5
+Africa,Lesotho,Sales,2021,2741.5
+Africa,Zimbabwe,Sales,2021,2741.5
+Africa,Botswana,Sales,2021,2741.5
+Africa,Namibia,Sales,2021,2741.5
+Africa,Senegal,Sales,2021,2741.5
+Africa,Mali,Sales,2021,2741.5
+Africa,Mauritania,Sales,2021,2741.5
+Africa,Benin,Sales,2021,2741.5
+Africa,Niger,Sales,2021,2741.5
+Africa,Nigeria,Sales,2021,2741.5
+Africa,Cameroon,Sales,2021,2741.5
+Africa,Togo,Sales,2021,2741.5
+Africa,Ghana,Sales,2021,2741.5
+Africa,Ivory Coast,Sales,2021,2741.5
+Africa,Guinea,Sales,2021,2741.5
+Africa,Guinea-Bissau,Sales,2021,2741.5
+Africa,Liberia,Sales,2021,2741.5
+Africa,Sierra Leone,Sales,2021,2741.5
+Africa,Burkina Faso,Sales,2021,2741.5
+Africa,Central African Republic,Sales,2021,2741.5
+Africa,Republic of the Congo,Sales,2021,2741.5
+Africa,Gabon,Sales,2021,2741.5
+Africa,Equatorial Guinea,Sales,2021,2741.5
+Africa,Zambia,Sales,2021,2741.5
+Africa,Malawi,Sales,2021,2741.5
+Africa,Mozambique,Sales,2021,2741.5
+Africa,Eswatini,Sales,2021,2741.5
+Africa,Angola,Sales,2021,2741.5
+Africa,Burundi,Sales,2021,2741.5
+Africa,Madagascar,Sales,2021,2741.5
+Africa,The Gambia,Sales,2021,2741.5
+Africa,Tunisia,Sales,2021,2741.5
+Africa,Algeria,Sales,2021,2741.5
+Africa,Eritrea,Sales,2021,2741.5
+Africa,Morocco,Sales,2021,2741.5
+Africa,Egypt,Sales,2021,2741.5
+Africa,Libya,Sales,2021,2741.5
+Africa,Ethiopia,Sales,2021,2741.5
+Africa,Djibouti,Sales,2021,2741.5
+Africa,Somaliland,Sales,2021,2741.5
+Africa,Uganda,Sales,2021,2741.5
+Africa,Rwanda,Sales,2021,2741.5
+Africa,South Sudan,Sales,2021,2741.5
+Africa,Tanzania,Sales,2022,2862.6
+Africa,Western Sahara,Sales,2022,2862.6
+Africa,Democratic Republic of the Congo,Sales,2022,2862.6
+Africa,Somalia,Sales,2022,2862.6
+Africa,Kenya,Sales,2022,2862.6
+Africa,Sudan,Sales,2022,2862.6
+Africa,Chad,Sales,2022,2862.6
+Africa,South Africa,Sales,2022,2862.6
+Africa,Lesotho,Sales,2022,2862.6
+Africa,Zimbabwe,Sales,2022,2862.6
+Africa,Botswana,Sales,2022,2862.6
+Africa,Namibia,Sales,2022,2862.6
+Africa,Senegal,Sales,2022,2862.6
+Africa,Mali,Sales,2022,2862.6
+Africa,Mauritania,Sales,2022,2862.6
+Africa,Benin,Sales,2022,2862.6
+Africa,Niger,Sales,2022,2862.6
+Africa,Nigeria,Sales,2022,2862.6
+Africa,Cameroon,Sales,2022,2862.6
+Africa,Togo,Sales,2022,2862.6
+Africa,Ghana,Sales,2022,2862.6
+Africa,Ivory Coast,Sales,2022,2862.6
+Africa,Guinea,Sales,2022,2862.6
+Africa,Guinea-Bissau,Sales,2022,2862.6
+Africa,Liberia,Sales,2022,2862.6
+Africa,Sierra Leone,Sales,2022,2862.6
+Africa,Burkina Faso,Sales,2022,2862.6
+Africa,Central African Republic,Sales,2022,2862.6
+Africa,Republic of the Congo,Sales,2022,2862.6
+Africa,Gabon,Sales,2022,2862.6
+Africa,Equatorial Guinea,Sales,2022,2862.6
+Africa,Zambia,Sales,2022,2862.6
+Africa,Malawi,Sales,2022,2862.6
+Africa,Mozambique,Sales,2022,2862.6
+Africa,Eswatini,Sales,2022,2862.6
+Africa,Angola,Sales,2022,2862.6
+Africa,Burundi,Sales,2022,2862.6
+Africa,Madagascar,Sales,2022,2862.6
+Africa,The Gambia,Sales,2022,2862.6
+Africa,Tunisia,Sales,2022,2862.6
+Africa,Algeria,Sales,2022,2862.6
+Africa,Eritrea,Sales,2022,2862.6
+Africa,Morocco,Sales,2022,2862.6
+Africa,Egypt,Sales,2022,2862.6
+Africa,Libya,Sales,2022,2862.6
+Africa,Ethiopia,Sales,2022,2862.6
+Africa,Djibouti,Sales,2022,2862.6
+Africa,Somaliland,Sales,2022,2862.6
+Africa,Uganda,Sales,2022,2862.6
+Africa,Rwanda,Sales,2022,2862.6
+Africa,South Sudan,Sales,2022,2862.6
+Asia,Kazakhstan,Sales,2010,2893.7
+Asia,Uzbekistan,Sales,2010,2893.7
+Asia,Indonesia,Sales,2010,2893.7
+Asia,East Timor,Sales,2010,2893.7
+Asia,Israel,Sales,2010,2893.7
+Asia,Lebanon,Sales,2010,2893.7
+Asia,Palestine,Sales,2010,2893.7
+Asia,Jordan,Sales,2010,2893.7
+Asia,United Arab Emirates,Sales,2010,2893.7
+Asia,Qatar,Sales,2010,2893.7
+Asia,Kuwait,Sales,2010,2893.7
+Asia,Iraq,Sales,2010,2893.7
+Asia,Oman,Sales,2010,2893.7
+Asia,Cambodia,Sales,2010,2893.7
+Asia,Thailand,Sales,2010,2893.7
+Asia,Laos,Sales,2010,2893.7
+Asia,Myanmar,Sales,2010,2893.7
+Asia,Vietnam,Sales,2010,2893.7
+Asia,North Korea,Sales,2010,2893.7
+Asia,South Korea,Sales,2010,2893.7
+Asia,Mongolia,Sales,2010,2893.7
+Asia,India,Sales,2010,2893.7
+Asia,Bangladesh,Sales,2010,2893.7
+Asia,Bhutan,Sales,2010,2893.7
+Asia,Nepal,Sales,2010,2893.7
+Asia,Pakistan,Sales,2010,2893.7
+Asia,Afghanistan,Sales,2010,2893.7
+Asia,Tajikistan,Sales,2010,2893.7
+Asia,Kyrgyzstan,Sales,2010,2893.7
+Asia,Turkmenistan,Sales,2010,2893.7
+Asia,Iran,Sales,2010,2893.7
+Asia,Syria,Sales,2010,2893.7
+Asia,Armenia,Sales,2010,2893.7
+Asia,Turkey,Sales,2010,2893.7
+Asia,Sri Lanka,Sales,2010,2893.7
+Asia,People's Republic of China,Sales,2010,2893.7
+Asia,Taiwan,Sales,2010,2893.7
+Asia,Azerbaijan,Sales,2010,2893.7
+Asia,Georgia,Sales,2010,2893.7
+Asia,Philippines,Sales,2010,2893.7
+Asia,Malaysia,Sales,2010,2893.7
+Asia,Brunei,Sales,2010,2893.7
+Asia,Japan,Sales,2010,2893.7
+Asia,Yemen,Sales,2010,2893.7
+Asia,Saudi Arabia,Sales,2010,2893.7
+Asia,Turkish Republic of Northern Cyprus,Sales,2010,2893.7
+Asia,Cyprus,Sales,2010,2893.7
+Asia,Kazakhstan,Sales,2011,2686.6
+Asia,Uzbekistan,Sales,2011,2686.6
+Asia,Indonesia,Sales,2011,2686.6
+Asia,East Timor,Sales,2011,2686.6
+Asia,Israel,Sales,2011,2686.6
+Asia,Lebanon,Sales,2011,2686.6
+Asia,Palestine,Sales,2011,2686.6
+Asia,Jordan,Sales,2011,2686.6
+Asia,United Arab Emirates,Sales,2011,2686.6
+Asia,Qatar,Sales,2011,2686.6
+Asia,Kuwait,Sales,2011,2686.6
+Asia,Iraq,Sales,2011,2686.6
+Asia,Oman,Sales,2011,2686.6
+Asia,Cambodia,Sales,2011,2686.6
+Asia,Thailand,Sales,2011,2686.6
+Asia,Laos,Sales,2011,2686.6
+Asia,Myanmar,Sales,2011,2686.6
+Asia,Vietnam,Sales,2011,2686.6
+Asia,North Korea,Sales,2011,2686.6
+Asia,South Korea,Sales,2011,2686.6
+Asia,Mongolia,Sales,2011,2686.6
+Asia,India,Sales,2011,2686.6
+Asia,Bangladesh,Sales,2011,2686.6
+Asia,Bhutan,Sales,2011,2686.6
+Asia,Nepal,Sales,2011,2686.6
+Asia,Pakistan,Sales,2011,2686.6
+Asia,Afghanistan,Sales,2011,2686.6
+Asia,Tajikistan,Sales,2011,2686.6
+Asia,Kyrgyzstan,Sales,2011,2686.6
+Asia,Turkmenistan,Sales,2011,2686.6
+Asia,Iran,Sales,2011,2686.6
+Asia,Syria,Sales,2011,2686.6
+Asia,Armenia,Sales,2011,2686.6
+Asia,Turkey,Sales,2011,2686.6
+Asia,Sri Lanka,Sales,2011,2686.6
+Asia,People's Republic of China,Sales,2011,2686.6
+Asia,Taiwan,Sales,2011,2686.6
+Asia,Azerbaijan,Sales,2011,2686.6
+Asia,Georgia,Sales,2011,2686.6
+Asia,Philippines,Sales,2011,2686.6
+Asia,Malaysia,Sales,2011,2686.6
+Asia,Brunei,Sales,2011,2686.6
+Asia,Japan,Sales,2011,2686.6
+Asia,Yemen,Sales,2011,2686.6
+Asia,Saudi Arabia,Sales,2011,2686.6
+Asia,Turkish Republic of Northern Cyprus,Sales,2011,2686.6
+Asia,Cyprus,Sales,2011,2686.6
+Asia,Kazakhstan,Sales,2012,2927
+Asia,Uzbekistan,Sales,2012,2927
+Asia,Indonesia,Sales,2012,2927
+Asia,East Timor,Sales,2012,2927
+Asia,Israel,Sales,2012,2927
+Asia,Lebanon,Sales,2012,2927
+Asia,Palestine,Sales,2012,2927
+Asia,Jordan,Sales,2012,2927
+Asia,United Arab Emirates,Sales,2012,2927
+Asia,Qatar,Sales,2012,2927
+Asia,Kuwait,Sales,2012,2927
+Asia,Iraq,Sales,2012,2927
+Asia,Oman,Sales,2012,2927
+Asia,Cambodia,Sales,2012,2927
+Asia,Thailand,Sales,2012,2927
+Asia,Laos,Sales,2012,2927
+Asia,Myanmar,Sales,2012,2927
+Asia,Vietnam,Sales,2012,2927
+Asia,North Korea,Sales,2012,2927
+Asia,South Korea,Sales,2012,2927
+Asia,Mongolia,Sales,2012,2927
+Asia,India,Sales,2012,2927
+Asia,Bangladesh,Sales,2012,2927
+Asia,Bhutan,Sales,2012,2927
+Asia,Nepal,Sales,2012,2927
+Asia,Pakistan,Sales,2012,2927
+Asia,Afghanistan,Sales,2012,2927
+Asia,Tajikistan,Sales,2012,2927
+Asia,Kyrgyzstan,Sales,2012,2927
+Asia,Turkmenistan,Sales,2012,2927
+Asia,Iran,Sales,2012,2927
+Asia,Syria,Sales,2012,2927
+Asia,Armenia,Sales,2012,2927
+Asia,Turkey,Sales,2012,2927
+Asia,Sri Lanka,Sales,2012,2927
+Asia,People's Republic of China,Sales,2012,2927
+Asia,Taiwan,Sales,2012,2927
+Asia,Azerbaijan,Sales,2012,2927
+Asia,Georgia,Sales,2012,2927
+Asia,Philippines,Sales,2012,2927
+Asia,Malaysia,Sales,2012,2927
+Asia,Brunei,Sales,2012,2927
+Asia,Japan,Sales,2012,2927
+Asia,Yemen,Sales,2012,2927
+Asia,Saudi Arabia,Sales,2012,2927
+Asia,Turkish Republic of Northern Cyprus,Sales,2012,2927
+Asia,Cyprus,Sales,2012,2927
+Asia,Kazakhstan,Sales,2013,3201.5
+Asia,Uzbekistan,Sales,2013,3201.5
+Asia,Indonesia,Sales,2013,3201.5
+Asia,East Timor,Sales,2013,3201.5
+Asia,Israel,Sales,2013,3201.5
+Asia,Lebanon,Sales,2013,3201.5
+Asia,Palestine,Sales,2013,3201.5
+Asia,Jordan,Sales,2013,3201.5
+Asia,United Arab Emirates,Sales,2013,3201.5
+Asia,Qatar,Sales,2013,3201.5
+Asia,Kuwait,Sales,2013,3201.5
+Asia,Iraq,Sales,2013,3201.5
+Asia,Oman,Sales,2013,3201.5
+Asia,Cambodia,Sales,2013,3201.5
+Asia,Thailand,Sales,2013,3201.5
+Asia,Laos,Sales,2013,3201.5
+Asia,Myanmar,Sales,2013,3201.5
+Asia,Vietnam,Sales,2013,3201.5
+Asia,North Korea,Sales,2013,3201.5
+Asia,South Korea,Sales,2013,3201.5
+Asia,Mongolia,Sales,2013,3201.5
+Asia,India,Sales,2013,3201.5
+Asia,Bangladesh,Sales,2013,3201.5
+Asia,Bhutan,Sales,2013,3201.5
+Asia,Nepal,Sales,2013,3201.5
+Asia,Pakistan,Sales,2013,3201.5
+Asia,Afghanistan,Sales,2013,3201.5
+Asia,Tajikistan,Sales,2013,3201.5
+Asia,Kyrgyzstan,Sales,2013,3201.5
+Asia,Turkmenistan,Sales,2013,3201.5
+Asia,Iran,Sales,2013,3201.5
+Asia,Syria,Sales,2013,3201.5
+Asia,Armenia,Sales,2013,3201.5
+Asia,Turkey,Sales,2013,3201.5
+Asia,Sri Lanka,Sales,2013,3201.5
+Asia,People's Republic of China,Sales,2013,3201.5
+Asia,Taiwan,Sales,2013,3201.5
+Asia,Azerbaijan,Sales,2013,3201.5
+Asia,Georgia,Sales,2013,3201.5
+Asia,Philippines,Sales,2013,3201.5
+Asia,Malaysia,Sales,2013,3201.5
+Asia,Brunei,Sales,2013,3201.5
+Asia,Japan,Sales,2013,3201.5
+Asia,Yemen,Sales,2013,3201.5
+Asia,Saudi Arabia,Sales,2013,3201.5
+Asia,Turkish Republic of Northern Cyprus,Sales,2013,3201.5
+Asia,Cyprus,Sales,2013,3201.5
+Asia,Kazakhstan,Sales,2014,3231.3
+Asia,Uzbekistan,Sales,2014,3231.3
+Asia,Indonesia,Sales,2014,3231.3
+Asia,East Timor,Sales,2014,3231.3
+Asia,Israel,Sales,2014,3231.3
+Asia,Lebanon,Sales,2014,3231.3
+Asia,Palestine,Sales,2014,3231.3
+Asia,Jordan,Sales,2014,3231.3
+Asia,United Arab Emirates,Sales,2014,3231.3
+Asia,Qatar,Sales,2014,3231.3
+Asia,Kuwait,Sales,2014,3231.3
+Asia,Iraq,Sales,2014,3231.3
+Asia,Oman,Sales,2014,3231.3
+Asia,Cambodia,Sales,2014,3231.3
+Asia,Thailand,Sales,2014,3231.3
+Asia,Laos,Sales,2014,3231.3
+Asia,Myanmar,Sales,2014,3231.3
+Asia,Vietnam,Sales,2014,3231.3
+Asia,North Korea,Sales,2014,3231.3
+Asia,South Korea,Sales,2014,3231.3
+Asia,Mongolia,Sales,2014,3231.3
+Asia,India,Sales,2014,3231.3
+Asia,Bangladesh,Sales,2014,3231.3
+Asia,Bhutan,Sales,2014,3231.3
+Asia,Nepal,Sales,2014,3231.3
+Asia,Pakistan,Sales,2014,3231.3
+Asia,Afghanistan,Sales,2014,3231.3
+Asia,Tajikistan,Sales,2014,3231.3
+Asia,Kyrgyzstan,Sales,2014,3231.3
+Asia,Turkmenistan,Sales,2014,3231.3
+Asia,Iran,Sales,2014,3231.3
+Asia,Syria,Sales,2014,3231.3
+Asia,Armenia,Sales,2014,3231.3
+Asia,Turkey,Sales,2014,3231.3
+Asia,Sri Lanka,Sales,2014,3231.3
+Asia,People's Republic of China,Sales,2014,3231.3
+Asia,Taiwan,Sales,2014,3231.3
+Asia,Azerbaijan,Sales,2014,3231.3
+Asia,Georgia,Sales,2014,3231.3
+Asia,Philippines,Sales,2014,3231.3
+Asia,Malaysia,Sales,2014,3231.3
+Asia,Brunei,Sales,2014,3231.3
+Asia,Japan,Sales,2014,3231.3
+Asia,Yemen,Sales,2014,3231.3
+Asia,Saudi Arabia,Sales,2014,3231.3
+Asia,Turkish Republic of Northern Cyprus,Sales,2014,3231.3
+Asia,Cyprus,Sales,2014,3231.3
+Asia,Kazakhstan,Sales,2015,3016.3
+Asia,Uzbekistan,Sales,2015,3016.3
+Asia,Indonesia,Sales,2015,3016.3
+Asia,East Timor,Sales,2015,3016.3
+Asia,Israel,Sales,2015,3016.3
+Asia,Lebanon,Sales,2015,3016.3
+Asia,Palestine,Sales,2015,3016.3
+Asia,Jordan,Sales,2015,3016.3
+Asia,United Arab Emirates,Sales,2015,3016.3
+Asia,Qatar,Sales,2015,3016.3
+Asia,Kuwait,Sales,2015,3016.3
+Asia,Iraq,Sales,2015,3016.3
+Asia,Oman,Sales,2015,3016.3
+Asia,Cambodia,Sales,2015,3016.3
+Asia,Thailand,Sales,2015,3016.3
+Asia,Laos,Sales,2015,3016.3
+Asia,Myanmar,Sales,2015,3016.3
+Asia,Vietnam,Sales,2015,3016.3
+Asia,North Korea,Sales,2015,3016.3
+Asia,South Korea,Sales,2015,3016.3
+Asia,Mongolia,Sales,2015,3016.3
+Asia,India,Sales,2015,3016.3
+Asia,Bangladesh,Sales,2015,3016.3
+Asia,Bhutan,Sales,2015,3016.3
+Asia,Nepal,Sales,2015,3016.3
+Asia,Pakistan,Sales,2015,3016.3
+Asia,Afghanistan,Sales,2015,3016.3
+Asia,Tajikistan,Sales,2015,3016.3
+Asia,Kyrgyzstan,Sales,2015,3016.3
+Asia,Turkmenistan,Sales,2015,3016.3
+Asia,Iran,Sales,2015,3016.3
+Asia,Syria,Sales,2015,3016.3
+Asia,Armenia,Sales,2015,3016.3
+Asia,Turkey,Sales,2015,3016.3
+Asia,Sri Lanka,Sales,2015,3016.3
+Asia,People's Republic of China,Sales,2015,3016.3
+Asia,Taiwan,Sales,2015,3016.3
+Asia,Azerbaijan,Sales,2015,3016.3
+Asia,Georgia,Sales,2015,3016.3
+Asia,Philippines,Sales,2015,3016.3
+Asia,Malaysia,Sales,2015,3016.3
+Asia,Brunei,Sales,2015,3016.3
+Asia,Japan,Sales,2015,3016.3
+Asia,Yemen,Sales,2015,3016.3
+Asia,Saudi Arabia,Sales,2015,3016.3
+Asia,Turkish Republic of Northern Cyprus,Sales,2015,3016.3
+Asia,Cyprus,Sales,2015,3016.3
+Asia,Kazakhstan,Sales,2016,2972.4
+Asia,Uzbekistan,Sales,2016,2972.4
+Asia,Indonesia,Sales,2016,2972.4
+Asia,East Timor,Sales,2016,2972.4
+Asia,Israel,Sales,2016,2972.4
+Asia,Lebanon,Sales,2016,2972.4
+Asia,Palestine,Sales,2016,2972.4
+Asia,Jordan,Sales,2016,2972.4
+Asia,United Arab Emirates,Sales,2016,2972.4
+Asia,Qatar,Sales,2016,2972.4
+Asia,Kuwait,Sales,2016,2972.4
+Asia,Iraq,Sales,2016,2972.4
+Asia,Oman,Sales,2016,2972.4
+Asia,Cambodia,Sales,2016,2972.4
+Asia,Thailand,Sales,2016,2972.4
+Asia,Laos,Sales,2016,2972.4
+Asia,Myanmar,Sales,2016,2972.4
+Asia,Vietnam,Sales,2016,2972.4
+Asia,North Korea,Sales,2016,2972.4
+Asia,South Korea,Sales,2016,2972.4
+Asia,Mongolia,Sales,2016,2972.4
+Asia,India,Sales,2016,2972.4
+Asia,Bangladesh,Sales,2016,2972.4
+Asia,Bhutan,Sales,2016,2972.4
+Asia,Nepal,Sales,2016,2972.4
+Asia,Pakistan,Sales,2016,2972.4
+Asia,Afghanistan,Sales,2016,2972.4
+Asia,Tajikistan,Sales,2016,2972.4
+Asia,Kyrgyzstan,Sales,2016,2972.4
+Asia,Turkmenistan,Sales,2016,2972.4
+Asia,Iran,Sales,2016,2972.4
+Asia,Syria,Sales,2016,2972.4
+Asia,Armenia,Sales,2016,2972.4
+Asia,Turkey,Sales,2016,2972.4
+Asia,Sri Lanka,Sales,2016,2972.4
+Asia,People's Republic of China,Sales,2016,2972.4
+Asia,Taiwan,Sales,2016,2972.4
+Asia,Azerbaijan,Sales,2016,2972.4
+Asia,Georgia,Sales,2016,2972.4
+Asia,Philippines,Sales,2016,2972.4
+Asia,Malaysia,Sales,2016,2972.4
+Asia,Brunei,Sales,2016,2972.4
+Asia,Japan,Sales,2016,2972.4
+Asia,Yemen,Sales,2016,2972.4
+Asia,Saudi Arabia,Sales,2016,2972.4
+Asia,Turkish Republic of Northern Cyprus,Sales,2016,2972.4
+Asia,Cyprus,Sales,2016,2972.4
+Asia,Kazakhstan,Sales,2017,2996.9
+Asia,Uzbekistan,Sales,2017,2996.9
+Asia,Indonesia,Sales,2017,2996.9
+Asia,East Timor,Sales,2017,2996.9
+Asia,Israel,Sales,2017,2996.9
+Asia,Lebanon,Sales,2017,2996.9
+Asia,Palestine,Sales,2017,2996.9
+Asia,Jordan,Sales,2017,2996.9
+Asia,United Arab Emirates,Sales,2017,2996.9
+Asia,Qatar,Sales,2017,2996.9
+Asia,Kuwait,Sales,2017,2996.9
+Asia,Iraq,Sales,2017,2996.9
+Asia,Oman,Sales,2017,2996.9
+Asia,Cambodia,Sales,2017,2996.9
+Asia,Thailand,Sales,2017,2996.9
+Asia,Laos,Sales,2017,2996.9
+Asia,Myanmar,Sales,2017,2996.9
+Asia,Vietnam,Sales,2017,2996.9
+Asia,North Korea,Sales,2017,2996.9
+Asia,South Korea,Sales,2017,2996.9
+Asia,Mongolia,Sales,2017,2996.9
+Asia,India,Sales,2017,2996.9
+Asia,Bangladesh,Sales,2017,2996.9
+Asia,Bhutan,Sales,2017,2996.9
+Asia,Nepal,Sales,2017,2996.9
+Asia,Pakistan,Sales,2017,2996.9
+Asia,Afghanistan,Sales,2017,2996.9
+Asia,Tajikistan,Sales,2017,2996.9
+Asia,Kyrgyzstan,Sales,2017,2996.9
+Asia,Turkmenistan,Sales,2017,2996.9
+Asia,Iran,Sales,2017,2996.9
+Asia,Syria,Sales,2017,2996.9
+Asia,Armenia,Sales,2017,2996.9
+Asia,Turkey,Sales,2017,2996.9
+Asia,Sri Lanka,Sales,2017,2996.9
+Asia,People's Republic of China,Sales,2017,2996.9
+Asia,Taiwan,Sales,2017,2996.9
+Asia,Azerbaijan,Sales,2017,2996.9
+Asia,Georgia,Sales,2017,2996.9
+Asia,Philippines,Sales,2017,2996.9
+Asia,Malaysia,Sales,2017,2996.9
+Asia,Brunei,Sales,2017,2996.9
+Asia,Japan,Sales,2017,2996.9
+Asia,Yemen,Sales,2017,2996.9
+Asia,Saudi Arabia,Sales,2017,2996.9
+Asia,Turkish Republic of Northern Cyprus,Sales,2017,2996.9
+Asia,Cyprus,Sales,2017,2996.9
+Asia,Kazakhstan,Sales,2018,2940
+Asia,Uzbekistan,Sales,2018,2940
+Asia,Indonesia,Sales,2018,2940
+Asia,East Timor,Sales,2018,2940
+Asia,Israel,Sales,2018,2940
+Asia,Lebanon,Sales,2018,2940
+Asia,Palestine,Sales,2018,2940
+Asia,Jordan,Sales,2018,2940
+Asia,United Arab Emirates,Sales,2018,2940
+Asia,Qatar,Sales,2018,2940
+Asia,Kuwait,Sales,2018,2940
+Asia,Iraq,Sales,2018,2940
+Asia,Oman,Sales,2018,2940
+Asia,Cambodia,Sales,2018,2940
+Asia,Thailand,Sales,2018,2940
+Asia,Laos,Sales,2018,2940
+Asia,Myanmar,Sales,2018,2940
+Asia,Vietnam,Sales,2018,2940
+Asia,North Korea,Sales,2018,2940
+Asia,South Korea,Sales,2018,2940
+Asia,Mongolia,Sales,2018,2940
+Asia,India,Sales,2018,2940
+Asia,Bangladesh,Sales,2018,2940
+Asia,Bhutan,Sales,2018,2940
+Asia,Nepal,Sales,2018,2940
+Asia,Pakistan,Sales,2018,2940
+Asia,Afghanistan,Sales,2018,2940
+Asia,Tajikistan,Sales,2018,2940
+Asia,Kyrgyzstan,Sales,2018,2940
+Asia,Turkmenistan,Sales,2018,2940
+Asia,Iran,Sales,2018,2940
+Asia,Syria,Sales,2018,2940
+Asia,Armenia,Sales,2018,2940
+Asia,Turkey,Sales,2018,2940
+Asia,Sri Lanka,Sales,2018,2940
+Asia,People's Republic of China,Sales,2018,2940
+Asia,Taiwan,Sales,2018,2940
+Asia,Azerbaijan,Sales,2018,2940
+Asia,Georgia,Sales,2018,2940
+Asia,Philippines,Sales,2018,2940
+Asia,Malaysia,Sales,2018,2940
+Asia,Brunei,Sales,2018,2940
+Asia,Japan,Sales,2018,2940
+Asia,Yemen,Sales,2018,2940
+Asia,Saudi Arabia,Sales,2018,2940
+Asia,Turkish Republic of Northern Cyprus,Sales,2018,2940
+Asia,Cyprus,Sales,2018,2940
+Asia,Kazakhstan,Sales,2019,3116.1
+Asia,Uzbekistan,Sales,2019,3116.1
+Asia,Indonesia,Sales,2019,3116.1
+Asia,East Timor,Sales,2019,3116.1
+Asia,Israel,Sales,2019,3116.1
+Asia,Lebanon,Sales,2019,3116.1
+Asia,Palestine,Sales,2019,3116.1
+Asia,Jordan,Sales,2019,3116.1
+Asia,United Arab Emirates,Sales,2019,3116.1
+Asia,Qatar,Sales,2019,3116.1
+Asia,Kuwait,Sales,2019,3116.1
+Asia,Iraq,Sales,2019,3116.1
+Asia,Oman,Sales,2019,3116.1
+Asia,Cambodia,Sales,2019,3116.1
+Asia,Thailand,Sales,2019,3116.1
+Asia,Laos,Sales,2019,3116.1
+Asia,Myanmar,Sales,2019,3116.1
+Asia,Vietnam,Sales,2019,3116.1
+Asia,North Korea,Sales,2019,3116.1
+Asia,South Korea,Sales,2019,3116.1
+Asia,Mongolia,Sales,2019,3116.1
+Asia,India,Sales,2019,3116.1
+Asia,Bangladesh,Sales,2019,3116.1
+Asia,Bhutan,Sales,2019,3116.1
+Asia,Nepal,Sales,2019,3116.1
+Asia,Pakistan,Sales,2019,3116.1
+Asia,Afghanistan,Sales,2019,3116.1
+Asia,Tajikistan,Sales,2019,3116.1
+Asia,Kyrgyzstan,Sales,2019,3116.1
+Asia,Turkmenistan,Sales,2019,3116.1
+Asia,Iran,Sales,2019,3116.1
+Asia,Syria,Sales,2019,3116.1
+Asia,Armenia,Sales,2019,3116.1
+Asia,Turkey,Sales,2019,3116.1
+Asia,Sri Lanka,Sales,2019,3116.1
+Asia,People's Republic of China,Sales,2019,3116.1
+Asia,Taiwan,Sales,2019,3116.1
+Asia,Azerbaijan,Sales,2019,3116.1
+Asia,Georgia,Sales,2019,3116.1
+Asia,Philippines,Sales,2019,3116.1
+Asia,Malaysia,Sales,2019,3116.1
+Asia,Brunei,Sales,2019,3116.1
+Asia,Japan,Sales,2019,3116.1
+Asia,Yemen,Sales,2019,3116.1
+Asia,Saudi Arabia,Sales,2019,3116.1
+Asia,Turkish Republic of Northern Cyprus,Sales,2019,3116.1
+Asia,Cyprus,Sales,2019,3116.1
+Asia,Kazakhstan,Sales,2020,2951.7
+Asia,Uzbekistan,Sales,2020,2951.7
+Asia,Indonesia,Sales,2020,2951.7
+Asia,East Timor,Sales,2020,2951.7
+Asia,Israel,Sales,2020,2951.7
+Asia,Lebanon,Sales,2020,2951.7
+Asia,Palestine,Sales,2020,2951.7
+Asia,Jordan,Sales,2020,2951.7
+Asia,United Arab Emirates,Sales,2020,2951.7
+Asia,Qatar,Sales,2020,2951.7
+Asia,Kuwait,Sales,2020,2951.7
+Asia,Iraq,Sales,2020,2951.7
+Asia,Oman,Sales,2020,2951.7
+Asia,Cambodia,Sales,2020,2951.7
+Asia,Thailand,Sales,2020,2951.7
+Asia,Laos,Sales,2020,2951.7
+Asia,Myanmar,Sales,2020,2951.7
+Asia,Vietnam,Sales,2020,2951.7
+Asia,North Korea,Sales,2020,2951.7
+Asia,South Korea,Sales,2020,2951.7
+Asia,Mongolia,Sales,2020,2951.7
+Asia,India,Sales,2020,2951.7
+Asia,Bangladesh,Sales,2020,2951.7
+Asia,Bhutan,Sales,2020,2951.7
+Asia,Nepal,Sales,2020,2951.7
+Asia,Pakistan,Sales,2020,2951.7
+Asia,Afghanistan,Sales,2020,2951.7
+Asia,Tajikistan,Sales,2020,2951.7
+Asia,Kyrgyzstan,Sales,2020,2951.7
+Asia,Turkmenistan,Sales,2020,2951.7
+Asia,Iran,Sales,2020,2951.7
+Asia,Syria,Sales,2020,2951.7
+Asia,Armenia,Sales,2020,2951.7
+Asia,Turkey,Sales,2020,2951.7
+Asia,Sri Lanka,Sales,2020,2951.7
+Asia,People's Republic of China,Sales,2020,2951.7
+Asia,Taiwan,Sales,2020,2951.7
+Asia,Azerbaijan,Sales,2020,2951.7
+Asia,Georgia,Sales,2020,2951.7
+Asia,Philippines,Sales,2020,2951.7
+Asia,Malaysia,Sales,2020,2951.7
+Asia,Brunei,Sales,2020,2951.7
+Asia,Japan,Sales,2020,2951.7
+Asia,Yemen,Sales,2020,2951.7
+Asia,Saudi Arabia,Sales,2020,2951.7
+Asia,Turkish Republic of Northern Cyprus,Sales,2020,2951.7
+Asia,Cyprus,Sales,2020,2951.7
+Asia,Kazakhstan,Sales,2021,3172.9
+Asia,Uzbekistan,Sales,2021,3172.9
+Asia,Indonesia,Sales,2021,3172.9
+Asia,East Timor,Sales,2021,3172.9
+Asia,Israel,Sales,2021,3172.9
+Asia,Lebanon,Sales,2021,3172.9
+Asia,Palestine,Sales,2021,3172.9
+Asia,Jordan,Sales,2021,3172.9
+Asia,United Arab Emirates,Sales,2021,3172.9
+Asia,Qatar,Sales,2021,3172.9
+Asia,Kuwait,Sales,2021,3172.9
+Asia,Iraq,Sales,2021,3172.9
+Asia,Oman,Sales,2021,3172.9
+Asia,Cambodia,Sales,2021,3172.9
+Asia,Thailand,Sales,2021,3172.9
+Asia,Laos,Sales,2021,3172.9
+Asia,Myanmar,Sales,2021,3172.9
+Asia,Vietnam,Sales,2021,3172.9
+Asia,North Korea,Sales,2021,3172.9
+Asia,South Korea,Sales,2021,3172.9
+Asia,Mongolia,Sales,2021,3172.9
+Asia,India,Sales,2021,3172.9
+Asia,Bangladesh,Sales,2021,3172.9
+Asia,Bhutan,Sales,2021,3172.9
+Asia,Nepal,Sales,2021,3172.9
+Asia,Pakistan,Sales,2021,3172.9
+Asia,Afghanistan,Sales,2021,3172.9
+Asia,Tajikistan,Sales,2021,3172.9
+Asia,Kyrgyzstan,Sales,2021,3172.9
+Asia,Turkmenistan,Sales,2021,3172.9
+Asia,Iran,Sales,2021,3172.9
+Asia,Syria,Sales,2021,3172.9
+Asia,Armenia,Sales,2021,3172.9
+Asia,Turkey,Sales,2021,3172.9
+Asia,Sri Lanka,Sales,2021,3172.9
+Asia,People's Republic of China,Sales,2021,3172.9
+Asia,Taiwan,Sales,2021,3172.9
+Asia,Azerbaijan,Sales,2021,3172.9
+Asia,Georgia,Sales,2021,3172.9
+Asia,Philippines,Sales,2021,3172.9
+Asia,Malaysia,Sales,2021,3172.9
+Asia,Brunei,Sales,2021,3172.9
+Asia,Japan,Sales,2021,3172.9
+Asia,Yemen,Sales,2021,3172.9
+Asia,Saudi Arabia,Sales,2021,3172.9
+Asia,Turkish Republic of Northern Cyprus,Sales,2021,3172.9
+Asia,Cyprus,Sales,2021,3172.9
+Asia,Kazakhstan,Sales,2022,3304.2
+Asia,Uzbekistan,Sales,2022,3304.2
+Asia,Indonesia,Sales,2022,3304.2
+Asia,East Timor,Sales,2022,3304.2
+Asia,Israel,Sales,2022,3304.2
+Asia,Lebanon,Sales,2022,3304.2
+Asia,Palestine,Sales,2022,3304.2
+Asia,Jordan,Sales,2022,3304.2
+Asia,United Arab Emirates,Sales,2022,3304.2
+Asia,Qatar,Sales,2022,3304.2
+Asia,Kuwait,Sales,2022,3304.2
+Asia,Iraq,Sales,2022,3304.2
+Asia,Oman,Sales,2022,3304.2
+Asia,Cambodia,Sales,2022,3304.2
+Asia,Thailand,Sales,2022,3304.2
+Asia,Laos,Sales,2022,3304.2
+Asia,Myanmar,Sales,2022,3304.2
+Asia,Vietnam,Sales,2022,3304.2
+Asia,North Korea,Sales,2022,3304.2
+Asia,South Korea,Sales,2022,3304.2
+Asia,Mongolia,Sales,2022,3304.2
+Asia,India,Sales,2022,3304.2
+Asia,Bangladesh,Sales,2022,3304.2
+Asia,Bhutan,Sales,2022,3304.2
+Asia,Nepal,Sales,2022,3304.2
+Asia,Pakistan,Sales,2022,3304.2
+Asia,Afghanistan,Sales,2022,3304.2
+Asia,Tajikistan,Sales,2022,3304.2
+Asia,Kyrgyzstan,Sales,2022,3304.2
+Asia,Turkmenistan,Sales,2022,3304.2
+Asia,Iran,Sales,2022,3304.2
+Asia,Syria,Sales,2022,3304.2
+Asia,Armenia,Sales,2022,3304.2
+Asia,Turkey,Sales,2022,3304.2
+Asia,Sri Lanka,Sales,2022,3304.2
+Asia,People's Republic of China,Sales,2022,3304.2
+Asia,Taiwan,Sales,2022,3304.2
+Asia,Azerbaijan,Sales,2022,3304.2
+Asia,Georgia,Sales,2022,3304.2
+Asia,Philippines,Sales,2022,3304.2
+Asia,Malaysia,Sales,2022,3304.2
+Asia,Brunei,Sales,2022,3304.2
+Asia,Japan,Sales,2022,3304.2
+Asia,Yemen,Sales,2022,3304.2
+Asia,Saudi Arabia,Sales,2022,3304.2
+Asia,Turkish Republic of Northern Cyprus,Sales,2022,3304.2
+Asia,Cyprus,Sales,2022,3304.2
+Europe,Russia,Sales,2011,7620.7
+Europe,Norway,Sales,2011,7620.7
+Europe,France,Sales,2011,7620.7
+Europe,Sweden,Sales,2011,7620.7
+Europe,Belarus,Sales,2011,7620.7
+Europe,Ukraine,Sales,2011,7620.7
+Europe,Poland,Sales,2011,7620.7
+Europe,Austria,Sales,2011,7620.7
+Europe,Hungary,Sales,2011,7620.7
+Europe,Moldova,Sales,2011,7620.7
+Europe,Romania,Sales,2011,7620.7
+Europe,Lithuania,Sales,2011,7620.7
+Europe,Latvia,Sales,2011,7620.7
+Europe,Estonia,Sales,2011,7620.7
+Europe,Germany,Sales,2011,7620.7
+Europe,Bulgaria,Sales,2011,7620.7
+Europe,Greece,Sales,2011,7620.7
+Europe,Albania,Sales,2011,7620.7
+Europe,Croatia,Sales,2011,7620.7
+Europe,Switzerland,Sales,2011,7620.7
+Europe,Luxembourg,Sales,2011,7620.7
+Europe,Belgium,Sales,2011,7620.7
+Europe,Netherlands,Sales,2011,7620.7
+Europe,Portugal,Sales,2011,7620.7
+Europe,Spain,Sales,2011,7620.7
+Europe,Ireland,Sales,2011,7620.7
+Europe,Italy,Sales,2011,7620.7
+Europe,Denmark,Sales,2011,7620.7
+Europe,United Kingdom,Sales,2011,7620.7
+Europe,Iceland,Sales,2011,7620.7
+Europe,Slovenia,Sales,2011,7620.7
+Europe,Finland,Sales,2011,7620.7
+Europe,Slovakia,Sales,2011,7620.7
+Europe,Czech Republic,Sales,2011,7620.7
+Europe,Bosnia and Herzegovina,Sales,2011,7620.7
+Europe,North Macedonia,Sales,2011,7620.7
+Europe,Serbia,Sales,2011,7620.7
+Europe,Montenegro,Sales,2011,7620.7
+Europe,Kosovo,Sales,2011,7620.7
+Europe,Russia,Sales,2012,7163.4
+Europe,Norway,Sales,2012,7163.4
+Europe,France,Sales,2012,7163.4
+Europe,Sweden,Sales,2012,7163.4
+Europe,Belarus,Sales,2012,7163.4
+Europe,Ukraine,Sales,2012,7163.4
+Europe,Poland,Sales,2012,7163.4
+Europe,Austria,Sales,2012,7163.4
+Europe,Hungary,Sales,2012,7163.4
+Europe,Moldova,Sales,2012,7163.4
+Europe,Romania,Sales,2012,7163.4
+Europe,Lithuania,Sales,2012,7163.4
+Europe,Latvia,Sales,2012,7163.4
+Europe,Estonia,Sales,2012,7163.4
+Europe,Germany,Sales,2012,7163.4
+Europe,Bulgaria,Sales,2012,7163.4
+Europe,Greece,Sales,2012,7163.4
+Europe,Albania,Sales,2012,7163.4
+Europe,Croatia,Sales,2012,7163.4
+Europe,Switzerland,Sales,2012,7163.4
+Europe,Luxembourg,Sales,2012,7163.4
+Europe,Belgium,Sales,2012,7163.4
+Europe,Netherlands,Sales,2012,7163.4
+Europe,Portugal,Sales,2012,7163.4
+Europe,Spain,Sales,2012,7163.4
+Europe,Ireland,Sales,2012,7163.4
+Europe,Italy,Sales,2012,7163.4
+Europe,Denmark,Sales,2012,7163.4
+Europe,United Kingdom,Sales,2012,7163.4
+Europe,Iceland,Sales,2012,7163.4
+Europe,Slovenia,Sales,2012,7163.4
+Europe,Finland,Sales,2012,7163.4
+Europe,Slovakia,Sales,2012,7163.4
+Europe,Czech Republic,Sales,2012,7163.4
+Europe,Bosnia and Herzegovina,Sales,2012,7163.4
+Europe,North Macedonia,Sales,2012,7163.4
+Europe,Serbia,Sales,2012,7163.4
+Europe,Montenegro,Sales,2012,7163.4
+Europe,Kosovo,Sales,2012,7163.4
+Europe,Russia,Sales,2013,7717.6
+Europe,Norway,Sales,2013,7717.6
+Europe,France,Sales,2013,7717.6
+Europe,Sweden,Sales,2013,7717.6
+Europe,Belarus,Sales,2013,7717.6
+Europe,Ukraine,Sales,2013,7717.6
+Europe,Poland,Sales,2013,7717.6
+Europe,Austria,Sales,2013,7717.6
+Europe,Hungary,Sales,2013,7717.6
+Europe,Moldova,Sales,2013,7717.6
+Europe,Romania,Sales,2013,7717.6
+Europe,Lithuania,Sales,2013,7717.6
+Europe,Latvia,Sales,2013,7717.6
+Europe,Estonia,Sales,2013,7717.6
+Europe,Germany,Sales,2013,7717.6
+Europe,Bulgaria,Sales,2013,7717.6
+Europe,Greece,Sales,2013,7717.6
+Europe,Albania,Sales,2013,7717.6
+Europe,Croatia,Sales,2013,7717.6
+Europe,Switzerland,Sales,2013,7717.6
+Europe,Luxembourg,Sales,2013,7717.6
+Europe,Belgium,Sales,2013,7717.6
+Europe,Netherlands,Sales,2013,7717.6
+Europe,Portugal,Sales,2013,7717.6
+Europe,Spain,Sales,2013,7717.6
+Europe,Ireland,Sales,2013,7717.6
+Europe,Italy,Sales,2013,7717.6
+Europe,Denmark,Sales,2013,7717.6
+Europe,United Kingdom,Sales,2013,7717.6
+Europe,Iceland,Sales,2013,7717.6
+Europe,Slovenia,Sales,2013,7717.6
+Europe,Finland,Sales,2013,7717.6
+Europe,Slovakia,Sales,2013,7717.6
+Europe,Czech Republic,Sales,2013,7717.6
+Europe,Bosnia and Herzegovina,Sales,2013,7717.6
+Europe,North Macedonia,Sales,2013,7717.6
+Europe,Serbia,Sales,2013,7717.6
+Europe,Montenegro,Sales,2013,7717.6
+Europe,Kosovo,Sales,2013,7717.6
+Europe,Russia,Sales,2014,7807.6
+Europe,Norway,Sales,2014,7807.6
+Europe,France,Sales,2014,7807.6
+Europe,Sweden,Sales,2014,7807.6
+Europe,Belarus,Sales,2014,7807.6
+Europe,Ukraine,Sales,2014,7807.6
+Europe,Poland,Sales,2014,7807.6
+Europe,Austria,Sales,2014,7807.6
+Europe,Hungary,Sales,2014,7807.6
+Europe,Moldova,Sales,2014,7807.6
+Europe,Romania,Sales,2014,7807.6
+Europe,Lithuania,Sales,2014,7807.6
+Europe,Latvia,Sales,2014,7807.6
+Europe,Estonia,Sales,2014,7807.6
+Europe,Germany,Sales,2014,7807.6
+Europe,Bulgaria,Sales,2014,7807.6
+Europe,Greece,Sales,2014,7807.6
+Europe,Albania,Sales,2014,7807.6
+Europe,Croatia,Sales,2014,7807.6
+Europe,Switzerland,Sales,2014,7807.6
+Europe,Luxembourg,Sales,2014,7807.6
+Europe,Belgium,Sales,2014,7807.6
+Europe,Netherlands,Sales,2014,7807.6
+Europe,Portugal,Sales,2014,7807.6
+Europe,Spain,Sales,2014,7807.6
+Europe,Ireland,Sales,2014,7807.6
+Europe,Italy,Sales,2014,7807.6
+Europe,Denmark,Sales,2014,7807.6
+Europe,United Kingdom,Sales,2014,7807.6
+Europe,Iceland,Sales,2014,7807.6
+Europe,Slovenia,Sales,2014,7807.6
+Europe,Finland,Sales,2014,7807.6
+Europe,Slovakia,Sales,2014,7807.6
+Europe,Czech Republic,Sales,2014,7807.6
+Europe,Bosnia and Herzegovina,Sales,2014,7807.6
+Europe,North Macedonia,Sales,2014,7807.6
+Europe,Serbia,Sales,2014,7807.6
+Europe,Montenegro,Sales,2014,7807.6
+Europe,Kosovo,Sales,2014,7807.6
+Europe,Russia,Sales,2015,8314.2
+Europe,Norway,Sales,2015,8314.2
+Europe,France,Sales,2015,8314.2
+Europe,Sweden,Sales,2015,8314.2
+Europe,Belarus,Sales,2015,8314.2
+Europe,Ukraine,Sales,2015,8314.2
+Europe,Poland,Sales,2015,8314.2
+Europe,Austria,Sales,2015,8314.2
+Europe,Hungary,Sales,2015,8314.2
+Europe,Moldova,Sales,2015,8314.2
+Europe,Romania,Sales,2015,8314.2
+Europe,Lithuania,Sales,2015,8314.2
+Europe,Latvia,Sales,2015,8314.2
+Europe,Estonia,Sales,2015,8314.2
+Europe,Germany,Sales,2015,8314.2
+Europe,Bulgaria,Sales,2015,8314.2
+Europe,Greece,Sales,2015,8314.2
+Europe,Albania,Sales,2015,8314.2
+Europe,Croatia,Sales,2015,8314.2
+Europe,Switzerland,Sales,2015,8314.2
+Europe,Luxembourg,Sales,2015,8314.2
+Europe,Belgium,Sales,2015,8314.2
+Europe,Netherlands,Sales,2015,8314.2
+Europe,Portugal,Sales,2015,8314.2
+Europe,Spain,Sales,2015,8314.2
+Europe,Ireland,Sales,2015,8314.2
+Europe,Italy,Sales,2015,8314.2
+Europe,Denmark,Sales,2015,8314.2
+Europe,United Kingdom,Sales,2015,8314.2
+Europe,Iceland,Sales,2015,8314.2
+Europe,Slovenia,Sales,2015,8314.2
+Europe,Finland,Sales,2015,8314.2
+Europe,Slovakia,Sales,2015,8314.2
+Europe,Czech Republic,Sales,2015,8314.2
+Europe,Bosnia and Herzegovina,Sales,2015,8314.2
+Europe,North Macedonia,Sales,2015,8314.2
+Europe,Serbia,Sales,2015,8314.2
+Europe,Montenegro,Sales,2015,8314.2
+Europe,Kosovo,Sales,2015,8314.2
+Europe,Russia,Sales,2016,9297
+Europe,Norway,Sales,2016,9297
+Europe,France,Sales,2016,9297
+Europe,Sweden,Sales,2016,9297
+Europe,Belarus,Sales,2016,9297
+Europe,Ukraine,Sales,2016,9297
+Europe,Poland,Sales,2016,9297
+Europe,Austria,Sales,2016,9297
+Europe,Hungary,Sales,2016,9297
+Europe,Moldova,Sales,2016,9297
+Europe,Romania,Sales,2016,9297
+Europe,Lithuania,Sales,2016,9297
+Europe,Latvia,Sales,2016,9297
+Europe,Estonia,Sales,2016,9297
+Europe,Germany,Sales,2016,9297
+Europe,Bulgaria,Sales,2016,9297
+Europe,Greece,Sales,2016,9297
+Europe,Albania,Sales,2016,9297
+Europe,Croatia,Sales,2016,9297
+Europe,Switzerland,Sales,2016,9297
+Europe,Luxembourg,Sales,2016,9297
+Europe,Belgium,Sales,2016,9297
+Europe,Netherlands,Sales,2016,9297
+Europe,Portugal,Sales,2016,9297
+Europe,Spain,Sales,2016,9297
+Europe,Ireland,Sales,2016,9297
+Europe,Italy,Sales,2016,9297
+Europe,Denmark,Sales,2016,9297
+Europe,United Kingdom,Sales,2016,9297
+Europe,Iceland,Sales,2016,9297
+Europe,Slovenia,Sales,2016,9297
+Europe,Finland,Sales,2016,9297
+Europe,Slovakia,Sales,2016,9297
+Europe,Czech Republic,Sales,2016,9297
+Europe,Bosnia and Herzegovina,Sales,2016,9297
+Europe,North Macedonia,Sales,2016,9297
+Europe,Serbia,Sales,2016,9297
+Europe,Montenegro,Sales,2016,9297
+Europe,Kosovo,Sales,2016,9297
+Europe,Russia,Sales,2017,9971.7
+Europe,Norway,Sales,2017,9971.7
+Europe,France,Sales,2017,9971.7
+Europe,Sweden,Sales,2017,9971.7
+Europe,Belarus,Sales,2017,9971.7
+Europe,Ukraine,Sales,2017,9971.7
+Europe,Poland,Sales,2017,9971.7
+Europe,Austria,Sales,2017,9971.7
+Europe,Hungary,Sales,2017,9971.7
+Europe,Moldova,Sales,2017,9971.7
+Europe,Romania,Sales,2017,9971.7
+Europe,Lithuania,Sales,2017,9971.7
+Europe,Latvia,Sales,2017,9971.7
+Europe,Estonia,Sales,2017,9971.7
+Europe,Germany,Sales,2017,9971.7
+Europe,Bulgaria,Sales,2017,9971.7
+Europe,Greece,Sales,2017,9971.7
+Europe,Albania,Sales,2017,9971.7
+Europe,Croatia,Sales,2017,9971.7
+Europe,Switzerland,Sales,2017,9971.7
+Europe,Luxembourg,Sales,2017,9971.7
+Europe,Belgium,Sales,2017,9971.7
+Europe,Netherlands,Sales,2017,9971.7
+Europe,Portugal,Sales,2017,9971.7
+Europe,Spain,Sales,2017,9971.7
+Europe,Ireland,Sales,2017,9971.7
+Europe,Italy,Sales,2017,9971.7
+Europe,Denmark,Sales,2017,9971.7
+Europe,United Kingdom,Sales,2017,9971.7
+Europe,Iceland,Sales,2017,9971.7
+Europe,Slovenia,Sales,2017,9971.7
+Europe,Finland,Sales,2017,9971.7
+Europe,Slovakia,Sales,2017,9971.7
+Europe,Czech Republic,Sales,2017,9971.7
+Europe,Bosnia and Herzegovina,Sales,2017,9971.7
+Europe,North Macedonia,Sales,2017,9971.7
+Europe,Serbia,Sales,2017,9971.7
+Europe,Montenegro,Sales,2017,9971.7
+Europe,Kosovo,Sales,2017,9971.7
+Europe,Russia,Sales,2018,9665.6
+Europe,Norway,Sales,2018,9665.6
+Europe,France,Sales,2018,9665.6
+Europe,Sweden,Sales,2018,9665.6
+Europe,Belarus,Sales,2018,9665.6
+Europe,Ukraine,Sales,2018,9665.6
+Europe,Poland,Sales,2018,9665.6
+Europe,Austria,Sales,2018,9665.6
+Europe,Hungary,Sales,2018,9665.6
+Europe,Moldova,Sales,2018,9665.6
+Europe,Romania,Sales,2018,9665.6
+Europe,Lithuania,Sales,2018,9665.6
+Europe,Latvia,Sales,2018,9665.6
+Europe,Estonia,Sales,2018,9665.6
+Europe,Germany,Sales,2018,9665.6
+Europe,Bulgaria,Sales,2018,9665.6
+Europe,Greece,Sales,2018,9665.6
+Europe,Albania,Sales,2018,9665.6
+Europe,Croatia,Sales,2018,9665.6
+Europe,Switzerland,Sales,2018,9665.6
+Europe,Luxembourg,Sales,2018,9665.6
+Europe,Belgium,Sales,2018,9665.6
+Europe,Netherlands,Sales,2018,9665.6
+Europe,Portugal,Sales,2018,9665.6
+Europe,Spain,Sales,2018,9665.6
+Europe,Ireland,Sales,2018,9665.6
+Europe,Italy,Sales,2018,9665.6
+Europe,Denmark,Sales,2018,9665.6
+Europe,United Kingdom,Sales,2018,9665.6
+Europe,Iceland,Sales,2018,9665.6
+Europe,Slovenia,Sales,2018,9665.6
+Europe,Finland,Sales,2018,9665.6
+Europe,Slovakia,Sales,2018,9665.6
+Europe,Czech Republic,Sales,2018,9665.6
+Europe,Bosnia and Herzegovina,Sales,2018,9665.6
+Europe,North Macedonia,Sales,2018,9665.6
+Europe,Serbia,Sales,2018,9665.6
+Europe,Montenegro,Sales,2018,9665.6
+Europe,Kosovo,Sales,2018,9665.6
+Europe,Russia,Sales,2019,10356.7
+Europe,Norway,Sales,2019,10356.7
+Europe,France,Sales,2019,10356.7
+Europe,Sweden,Sales,2019,10356.7
+Europe,Belarus,Sales,2019,10356.7
+Europe,Ukraine,Sales,2019,10356.7
+Europe,Poland,Sales,2019,10356.7
+Europe,Austria,Sales,2019,10356.7
+Europe,Hungary,Sales,2019,10356.7
+Europe,Moldova,Sales,2019,10356.7
+Europe,Romania,Sales,2019,10356.7
+Europe,Lithuania,Sales,2019,10356.7
+Europe,Latvia,Sales,2019,10356.7
+Europe,Estonia,Sales,2019,10356.7
+Europe,Germany,Sales,2019,10356.7
+Europe,Bulgaria,Sales,2019,10356.7
+Europe,Greece,Sales,2019,10356.7
+Europe,Albania,Sales,2019,10356.7
+Europe,Croatia,Sales,2019,10356.7
+Europe,Switzerland,Sales,2019,10356.7
+Europe,Luxembourg,Sales,2019,10356.7
+Europe,Belgium,Sales,2019,10356.7
+Europe,Netherlands,Sales,2019,10356.7
+Europe,Portugal,Sales,2019,10356.7
+Europe,Spain,Sales,2019,10356.7
+Europe,Ireland,Sales,2019,10356.7
+Europe,Italy,Sales,2019,10356.7
+Europe,Denmark,Sales,2019,10356.7
+Europe,United Kingdom,Sales,2019,10356.7
+Europe,Iceland,Sales,2019,10356.7
+Europe,Slovenia,Sales,2019,10356.7
+Europe,Finland,Sales,2019,10356.7
+Europe,Slovakia,Sales,2019,10356.7
+Europe,Czech Republic,Sales,2019,10356.7
+Europe,Bosnia and Herzegovina,Sales,2019,10356.7
+Europe,North Macedonia,Sales,2019,10356.7
+Europe,Serbia,Sales,2019,10356.7
+Europe,Montenegro,Sales,2019,10356.7
+Europe,Kosovo,Sales,2019,10356.7
+Europe,Russia,Sales,2020,10317.5
+Europe,Norway,Sales,2020,10317.5
+Europe,France,Sales,2020,10317.5
+Europe,Sweden,Sales,2020,10317.5
+Europe,Belarus,Sales,2020,10317.5
+Europe,Ukraine,Sales,2020,10317.5
+Europe,Poland,Sales,2020,10317.5
+Europe,Austria,Sales,2020,10317.5
+Europe,Hungary,Sales,2020,10317.5
+Europe,Moldova,Sales,2020,10317.5
+Europe,Romania,Sales,2020,10317.5
+Europe,Lithuania,Sales,2020,10317.5
+Europe,Latvia,Sales,2020,10317.5
+Europe,Estonia,Sales,2020,10317.5
+Europe,Germany,Sales,2020,10317.5
+Europe,Bulgaria,Sales,2020,10317.5
+Europe,Greece,Sales,2020,10317.5
+Europe,Albania,Sales,2020,10317.5
+Europe,Croatia,Sales,2020,10317.5
+Europe,Switzerland,Sales,2020,10317.5
+Europe,Luxembourg,Sales,2020,10317.5
+Europe,Belgium,Sales,2020,10317.5
+Europe,Netherlands,Sales,2020,10317.5
+Europe,Portugal,Sales,2020,10317.5
+Europe,Spain,Sales,2020,10317.5
+Europe,Ireland,Sales,2020,10317.5
+Europe,Italy,Sales,2020,10317.5
+Europe,Denmark,Sales,2020,10317.5
+Europe,United Kingdom,Sales,2020,10317.5
+Europe,Iceland,Sales,2020,10317.5
+Europe,Slovenia,Sales,2020,10317.5
+Europe,Finland,Sales,2020,10317.5
+Europe,Slovakia,Sales,2020,10317.5
+Europe,Czech Republic,Sales,2020,10317.5
+Europe,Bosnia and Herzegovina,Sales,2020,10317.5
+Europe,North Macedonia,Sales,2020,10317.5
+Europe,Serbia,Sales,2020,10317.5
+Europe,Montenegro,Sales,2020,10317.5
+Europe,Kosovo,Sales,2020,10317.5
+Europe,Russia,Sales,2021,11178.3
+Europe,Norway,Sales,2021,11178.3
+Europe,France,Sales,2021,11178.3
+Europe,Sweden,Sales,2021,11178.3
+Europe,Belarus,Sales,2021,11178.3
+Europe,Ukraine,Sales,2021,11178.3
+Europe,Poland,Sales,2021,11178.3
+Europe,Austria,Sales,2021,11178.3
+Europe,Hungary,Sales,2021,11178.3
+Europe,Moldova,Sales,2021,11178.3
+Europe,Romania,Sales,2021,11178.3
+Europe,Lithuania,Sales,2021,11178.3
+Europe,Latvia,Sales,2021,11178.3
+Europe,Estonia,Sales,2021,11178.3
+Europe,Germany,Sales,2021,11178.3
+Europe,Bulgaria,Sales,2021,11178.3
+Europe,Greece,Sales,2021,11178.3
+Europe,Albania,Sales,2021,11178.3
+Europe,Croatia,Sales,2021,11178.3
+Europe,Switzerland,Sales,2021,11178.3
+Europe,Luxembourg,Sales,2021,11178.3
+Europe,Belgium,Sales,2021,11178.3
+Europe,Netherlands,Sales,2021,11178.3
+Europe,Portugal,Sales,2021,11178.3
+Europe,Spain,Sales,2021,11178.3
+Europe,Ireland,Sales,2021,11178.3
+Europe,Italy,Sales,2021,11178.3
+Europe,Denmark,Sales,2021,11178.3
+Europe,United Kingdom,Sales,2021,11178.3
+Europe,Iceland,Sales,2021,11178.3
+Europe,Slovenia,Sales,2021,11178.3
+Europe,Finland,Sales,2021,11178.3
+Europe,Slovakia,Sales,2021,11178.3
+Europe,Czech Republic,Sales,2021,11178.3
+Europe,Bosnia and Herzegovina,Sales,2021,11178.3
+Europe,North Macedonia,Sales,2021,11178.3
+Europe,Serbia,Sales,2021,11178.3
+Europe,Montenegro,Sales,2021,11178.3
+Europe,Kosovo,Sales,2021,11178.3
+Europe,Russia,Sales,2022,12578.3
+Europe,Norway,Sales,2022,12578.3
+Europe,France,Sales,2022,12578.3
+Europe,Sweden,Sales,2022,12578.3
+Europe,Belarus,Sales,2022,12578.3
+Europe,Ukraine,Sales,2022,12578.3
+Europe,Poland,Sales,2022,12578.3
+Europe,Austria,Sales,2022,12578.3
+Europe,Hungary,Sales,2022,12578.3
+Europe,Moldova,Sales,2022,12578.3
+Europe,Romania,Sales,2022,12578.3
+Europe,Lithuania,Sales,2022,12578.3
+Europe,Latvia,Sales,2022,12578.3
+Europe,Estonia,Sales,2022,12578.3
+Europe,Germany,Sales,2022,12578.3
+Europe,Bulgaria,Sales,2022,12578.3
+Europe,Greece,Sales,2022,12578.3
+Europe,Albania,Sales,2022,12578.3
+Europe,Croatia,Sales,2022,12578.3
+Europe,Switzerland,Sales,2022,12578.3
+Europe,Luxembourg,Sales,2022,12578.3
+Europe,Belgium,Sales,2022,12578.3
+Europe,Netherlands,Sales,2022,12578.3
+Europe,Portugal,Sales,2022,12578.3
+Europe,Spain,Sales,2022,12578.3
+Europe,Ireland,Sales,2022,12578.3
+Europe,Italy,Sales,2022,12578.3
+Europe,Denmark,Sales,2022,12578.3
+Europe,United Kingdom,Sales,2022,12578.3
+Europe,Iceland,Sales,2022,12578.3
+Europe,Slovenia,Sales,2022,12578.3
+Europe,Finland,Sales,2022,12578.3
+Europe,Slovakia,Sales,2022,12578.3
+Europe,Czech Republic,Sales,2022,12578.3
+Europe,Bosnia and Herzegovina,Sales,2022,12578.3
+Europe,North Macedonia,Sales,2022,12578.3
+Europe,Serbia,Sales,2022,12578.3
+Europe,Montenegro,Sales,2022,12578.3
+Europe,Kosovo,Sales,2022,12578.3
+South America,Argentina,Sales,2010,10950
+South America,Chile,Sales,2010,10950
+South America,Falkland Islands,Sales,2010,10950
+South America,Uruguay,Sales,2010,10950
+South America,Brazil,Sales,2010,10950
+South America,Bolivia,Sales,2010,10950
+South America,Peru,Sales,2010,10950
+South America,Colombia,Sales,2010,10950
+South America,Venezuela,Sales,2010,10950
+South America,Guyana,Sales,2010,10950
+South America,Suriname,Sales,2010,10950
+South America,Ecuador,Sales,2010,10950
+South America,Paraguay,Sales,2010,10950
+South America,Argentina,Sales,2011,9598.7
+South America,Chile,Sales,2011,9598.7
+South America,Falkland Islands,Sales,2011,9598.7
+South America,Uruguay,Sales,2011,9598.7
+South America,Brazil,Sales,2011,9598.7
+South America,Bolivia,Sales,2011,9598.7
+South America,Peru,Sales,2011,9598.7
+South America,Colombia,Sales,2011,9598.7
+South America,Venezuela,Sales,2011,9598.7
+South America,Guyana,Sales,2011,9598.7
+South America,Suriname,Sales,2011,9598.7
+South America,Ecuador,Sales,2011,9598.7
+South America,Paraguay,Sales,2011,9598.7
+South America,Argentina,Sales,2012,12203.8
+South America,Chile,Sales,2012,12203.8
+South America,Falkland Islands,Sales,2012,12203.8
+South America,Uruguay,Sales,2012,12203.8
+South America,Brazil,Sales,2012,12203.8
+South America,Bolivia,Sales,2012,12203.8
+South America,Peru,Sales,2012,12203.8
+South America,Colombia,Sales,2012,12203.8
+South America,Venezuela,Sales,2012,12203.8
+South America,Guyana,Sales,2012,12203.8
+South America,Suriname,Sales,2012,12203.8
+South America,Ecuador,Sales,2012,12203.8
+South America,Paraguay,Sales,2012,12203.8
+South America,Argentina,Sales,2013,12243.5
+South America,Chile,Sales,2013,12243.5
+South America,Falkland Islands,Sales,2013,12243.5
+South America,Uruguay,Sales,2013,12243.5
+South America,Brazil,Sales,2013,12243.5
+South America,Bolivia,Sales,2013,12243.5
+South America,Peru,Sales,2013,12243.5
+South America,Colombia,Sales,2013,12243.5
+South America,Venezuela,Sales,2013,12243.5
+South America,Guyana,Sales,2013,12243.5
+South America,Suriname,Sales,2013,12243.5
+South America,Ecuador,Sales,2013,12243.5
+South America,Paraguay,Sales,2013,12243.5
+South America,Argentina,Sales,2014,10899.7
+South America,Chile,Sales,2014,10899.7
+South America,Falkland Islands,Sales,2014,10899.7
+South America,Uruguay,Sales,2014,10899.7
+South America,Brazil,Sales,2014,10899.7
+South America,Bolivia,Sales,2014,10899.7
+South America,Peru,Sales,2014,10899.7
+South America,Colombia,Sales,2014,10899.7
+South America,Venezuela,Sales,2014,10899.7
+South America,Guyana,Sales,2014,10899.7
+South America,Suriname,Sales,2014,10899.7
+South America,Ecuador,Sales,2014,10899.7
+South America,Paraguay,Sales,2014,10899.7
+South America,Argentina,Sales,2015,9959.8
+South America,Chile,Sales,2015,9959.8
+South America,Falkland Islands,Sales,2015,9959.8
+South America,Uruguay,Sales,2015,9959.8
+South America,Brazil,Sales,2015,9959.8
+South America,Bolivia,Sales,2015,9959.8
+South America,Peru,Sales,2015,9959.8
+South America,Colombia,Sales,2015,9959.8
+South America,Venezuela,Sales,2015,9959.8
+South America,Guyana,Sales,2015,9959.8
+South America,Suriname,Sales,2015,9959.8
+South America,Ecuador,Sales,2015,9959.8
+South America,Paraguay,Sales,2015,9959.8
+South America,Argentina,Sales,2016,10314.5
+South America,Chile,Sales,2016,10314.5
+South America,Falkland Islands,Sales,2016,10314.5
+South America,Uruguay,Sales,2016,10314.5
+South America,Brazil,Sales,2016,10314.5
+South America,Bolivia,Sales,2016,10314.5
+South America,Peru,Sales,2016,10314.5
+South America,Colombia,Sales,2016,10314.5
+South America,Venezuela,Sales,2016,10314.5
+South America,Guyana,Sales,2016,10314.5
+South America,Suriname,Sales,2016,10314.5
+South America,Ecuador,Sales,2016,10314.5
+South America,Paraguay,Sales,2016,10314.5
+South America,Argentina,Sales,2017,10586.2
+South America,Chile,Sales,2017,10586.2
+South America,Falkland Islands,Sales,2017,10586.2
+South America,Uruguay,Sales,2017,10586.2
+South America,Brazil,Sales,2017,10586.2
+South America,Bolivia,Sales,2017,10586.2
+South America,Peru,Sales,2017,10586.2
+South America,Colombia,Sales,2017,10586.2
+South America,Venezuela,Sales,2017,10586.2
+South America,Guyana,Sales,2017,10586.2
+South America,Suriname,Sales,2017,10586.2
+South America,Ecuador,Sales,2017,10586.2
+South America,Paraguay,Sales,2017,10586.2
+South America,Argentina,Sales,2018,10908.4
+South America,Chile,Sales,2018,10908.4
+South America,Falkland Islands,Sales,2018,10908.4
+South America,Uruguay,Sales,2018,10908.4
+South America,Brazil,Sales,2018,10908.4
+South America,Bolivia,Sales,2018,10908.4
+South America,Peru,Sales,2018,10908.4
+South America,Colombia,Sales,2018,10908.4
+South America,Venezuela,Sales,2018,10908.4
+South America,Guyana,Sales,2018,10908.4
+South America,Suriname,Sales,2018,10908.4
+South America,Ecuador,Sales,2018,10908.4
+South America,Paraguay,Sales,2018,10908.4
+South America,Argentina,Sales,2019,10075.8
+South America,Chile,Sales,2019,10075.8
+South America,Falkland Islands,Sales,2019,10075.8
+South America,Uruguay,Sales,2019,10075.8
+South America,Brazil,Sales,2019,10075.8
+South America,Bolivia,Sales,2019,10075.8
+South America,Peru,Sales,2019,10075.8
+South America,Colombia,Sales,2019,10075.8
+South America,Venezuela,Sales,2019,10075.8
+South America,Guyana,Sales,2019,10075.8
+South America,Suriname,Sales,2019,10075.8
+South America,Ecuador,Sales,2019,10075.8
+South America,Paraguay,Sales,2019,10075.8
+South America,Argentina,Sales,2020,7233.6
+South America,Chile,Sales,2020,7233.6
+South America,Falkland Islands,Sales,2020,7233.6
+South America,Uruguay,Sales,2020,7233.6
+South America,Brazil,Sales,2020,7233.6
+South America,Bolivia,Sales,2020,7233.6
+South America,Peru,Sales,2020,7233.6
+South America,Colombia,Sales,2020,7233.6
+South America,Venezuela,Sales,2020,7233.6
+South America,Guyana,Sales,2020,7233.6
+South America,Suriname,Sales,2020,7233.6
+South America,Ecuador,Sales,2020,7233.6
+South America,Paraguay,Sales,2020,7233.6
+South America,Argentina,Sales,2021,11930.8
+South America,Chile,Sales,2021,11930.8
+South America,Falkland Islands,Sales,2021,11930.8
+South America,Uruguay,Sales,2021,11930.8
+South America,Brazil,Sales,2021,11930.8
+South America,Bolivia,Sales,2021,11930.8
+South America,Peru,Sales,2021,11930.8
+South America,Colombia,Sales,2021,11930.8
+South America,Venezuela,Sales,2021,11930.8
+South America,Guyana,Sales,2021,11930.8
+South America,Suriname,Sales,2021,11930.8
+South America,Ecuador,Sales,2021,11930.8
+South America,Paraguay,Sales,2021,11930.8
+South America,Argentina,Sales,2022,15291.3
+South America,Chile,Sales,2022,15291.3
+South America,Falkland Islands,Sales,2022,15291.3
+South America,Uruguay,Sales,2022,15291.3
+South America,Brazil,Sales,2022,15291.3
+South America,Bolivia,Sales,2022,15291.3
+South America,Peru,Sales,2022,15291.3
+South America,Colombia,Sales,2022,15291.3
+South America,Venezuela,Sales,2022,15291.3
+South America,Guyana,Sales,2022,15291.3
+South America,Suriname,Sales,2022,15291.3
+South America,Ecuador,Sales,2022,15291.3
+South America,Paraguay,Sales,2022,15291.3
+North America,Canada,Sales,2010,1453.5
+North America,United States of America,Sales,2010,1453.5
+North America,Haiti,Sales,2010,1453.5
+North America,Dominican Republic,Sales,2010,1453.5
+North America,The Bahamas,Sales,2010,1453.5
+North America,Greenland,Sales,2010,1453.5
+North America,Mexico,Sales,2010,1453.5
+North America,Panama,Sales,2010,1453.5
+North America,Costa Rica,Sales,2010,1453.5
+North America,Nicaragua,Sales,2010,1453.5
+North America,Honduras,Sales,2010,1453.5
+North America,El Salvador,Sales,2010,1453.5
+North America,Guatemala,Sales,2010,1453.5
+North America,Belize,Sales,2010,1453.5
+North America,Puerto Rico,Sales,2010,1453.5
+North America,Jamaica,Sales,2010,1453.5
+North America,Cuba,Sales,2010,1453.5
+North America,Trinidad and Tobago,Sales,2010,1453.5
+North America,Canada,Sales,2011,1422.9
+North America,United States of America,Sales,2011,1422.9
+North America,Haiti,Sales,2011,1422.9
+North America,Dominican Republic,Sales,2011,1422.9
+North America,The Bahamas,Sales,2011,1422.9
+North America,Greenland,Sales,2011,1422.9
+North America,Mexico,Sales,2011,1422.9
+North America,Panama,Sales,2011,1422.9
+North America,Costa Rica,Sales,2011,1422.9
+North America,Nicaragua,Sales,2011,1422.9
+North America,Honduras,Sales,2011,1422.9
+North America,El Salvador,Sales,2011,1422.9
+North America,Guatemala,Sales,2011,1422.9
+North America,Belize,Sales,2011,1422.9
+North America,Puerto Rico,Sales,2011,1422.9
+North America,Jamaica,Sales,2011,1422.9
+North America,Cuba,Sales,2011,1422.9
+North America,Trinidad and Tobago,Sales,2011,1422.9
+North America,Canada,Sales,2012,1581.8
+North America,United States of America,Sales,2012,1581.8
+North America,Haiti,Sales,2012,1581.8
+North America,Dominican Republic,Sales,2012,1581.8
+North America,The Bahamas,Sales,2012,1581.8
+North America,Greenland,Sales,2012,1581.8
+North America,Mexico,Sales,2012,1581.8
+North America,Panama,Sales,2012,1581.8
+North America,Costa Rica,Sales,2012,1581.8
+North America,Nicaragua,Sales,2012,1581.8
+North America,Honduras,Sales,2012,1581.8
+North America,El Salvador,Sales,2012,1581.8
+North America,Guatemala,Sales,2012,1581.8
+North America,Belize,Sales,2012,1581.8
+North America,Puerto Rico,Sales,2012,1581.8
+North America,Jamaica,Sales,2012,1581.8
+North America,Cuba,Sales,2012,1581.8
+North America,Trinidad and Tobago,Sales,2012,1581.8
+North America,Canada,Sales,2013,1567.8
+North America,United States of America,Sales,2013,1567.8
+North America,Haiti,Sales,2013,1567.8
+North America,Dominican Republic,Sales,2013,1567.8
+North America,The Bahamas,Sales,2013,1567.8
+North America,Greenland,Sales,2013,1567.8
+North America,Mexico,Sales,2013,1567.8
+North America,Panama,Sales,2013,1567.8
+North America,Costa Rica,Sales,2013,1567.8
+North America,Nicaragua,Sales,2013,1567.8
+North America,Honduras,Sales,2013,1567.8
+North America,El Salvador,Sales,2013,1567.8
+North America,Guatemala,Sales,2013,1567.8
+North America,Belize,Sales,2013,1567.8
+North America,Puerto Rico,Sales,2013,1567.8
+North America,Jamaica,Sales,2013,1567.8
+North America,Cuba,Sales,2013,1567.8
+North America,Trinidad and Tobago,Sales,2013,1567.8
+North America,Canada,Sales,2014,1364.1
+North America,United States of America,Sales,2014,1364.1
+North America,Haiti,Sales,2014,1364.1
+North America,Dominican Republic,Sales,2014,1364.1
+North America,The Bahamas,Sales,2014,1364.1
+North America,Greenland,Sales,2014,1364.1
+North America,Mexico,Sales,2014,1364.1
+North America,Panama,Sales,2014,1364.1
+North America,Costa Rica,Sales,2014,1364.1
+North America,Nicaragua,Sales,2014,1364.1
+North America,Honduras,Sales,2014,1364.1
+North America,El Salvador,Sales,2014,1364.1
+North America,Guatemala,Sales,2014,1364.1
+North America,Belize,Sales,2014,1364.1
+North America,Puerto Rico,Sales,2014,1364.1
+North America,Jamaica,Sales,2014,1364.1
+North America,Cuba,Sales,2014,1364.1
+North America,Trinidad and Tobago,Sales,2014,1364.1
+North America,Canada,Sales,2015,1317.1
+North America,United States of America,Sales,2015,1317.1
+North America,Haiti,Sales,2015,1317.1
+North America,Dominican Republic,Sales,2015,1317.1
+North America,The Bahamas,Sales,2015,1317.1
+North America,Greenland,Sales,2015,1317.1
+North America,Mexico,Sales,2015,1317.1
+North America,Panama,Sales,2015,1317.1
+North America,Costa Rica,Sales,2015,1317.1
+North America,Nicaragua,Sales,2015,1317.1
+North America,Honduras,Sales,2015,1317.1
+North America,El Salvador,Sales,2015,1317.1
+North America,Guatemala,Sales,2015,1317.1
+North America,Belize,Sales,2015,1317.1
+North America,Puerto Rico,Sales,2015,1317.1
+North America,Jamaica,Sales,2015,1317.1
+North America,Cuba,Sales,2015,1317.1
+North America,Trinidad and Tobago,Sales,2015,1317.1
+North America,Canada,Sales,2016,1428.9
+North America,United States of America,Sales,2016,1428.9
+North America,Haiti,Sales,2016,1428.9
+North America,Dominican Republic,Sales,2016,1428.9
+North America,The Bahamas,Sales,2016,1428.9
+North America,Greenland,Sales,2016,1428.9
+North America,Mexico,Sales,2016,1428.9
+North America,Panama,Sales,2016,1428.9
+North America,Costa Rica,Sales,2016,1428.9
+North America,Nicaragua,Sales,2016,1428.9
+North America,Honduras,Sales,2016,1428.9
+North America,El Salvador,Sales,2016,1428.9
+North America,Guatemala,Sales,2016,1428.9
+North America,Belize,Sales,2016,1428.9
+North America,Puerto Rico,Sales,2016,1428.9
+North America,Jamaica,Sales,2016,1428.9
+North America,Cuba,Sales,2016,1428.9
+North America,Trinidad and Tobago,Sales,2016,1428.9
+North America,Canada,Sales,2017,1417
+North America,United States of America,Sales,2017,1417
+North America,Haiti,Sales,2017,1417
+North America,Dominican Republic,Sales,2017,1417
+North America,The Bahamas,Sales,2017,1417
+North America,Greenland,Sales,2017,1417
+North America,Mexico,Sales,2017,1417
+North America,Panama,Sales,2017,1417
+North America,Costa Rica,Sales,2017,1417
+North America,Nicaragua,Sales,2017,1417
+North America,Honduras,Sales,2017,1417
+North America,El Salvador,Sales,2017,1417
+North America,Guatemala,Sales,2017,1417
+North America,Belize,Sales,2017,1417
+North America,Puerto Rico,Sales,2017,1417
+North America,Jamaica,Sales,2017,1417
+North America,Cuba,Sales,2017,1417
+North America,Trinidad and Tobago,Sales,2017,1417
+North America,Canada,Sales,2018,1853.6
+North America,United States of America,Sales,2018,1853.6
+North America,Haiti,Sales,2018,1853.6
+North America,Dominican Republic,Sales,2018,1853.6
+North America,The Bahamas,Sales,2018,1853.6
+North America,Greenland,Sales,2018,1853.6
+North America,Mexico,Sales,2018,1853.6
+North America,Panama,Sales,2018,1853.6
+North America,Costa Rica,Sales,2018,1853.6
+North America,Nicaragua,Sales,2018,1853.6
+North America,Honduras,Sales,2018,1853.6
+North America,El Salvador,Sales,2018,1853.6
+North America,Guatemala,Sales,2018,1853.6
+North America,Belize,Sales,2018,1853.6
+North America,Puerto Rico,Sales,2018,1853.6
+North America,Jamaica,Sales,2018,1853.6
+North America,Cuba,Sales,2018,1853.6
+North America,Trinidad and Tobago,Sales,2018,1853.6
+North America,Canada,Sales,2019,1596.8
+North America,United States of America,Sales,2019,1596.8
+North America,Haiti,Sales,2019,1596.8
+North America,Dominican Republic,Sales,2019,1596.8
+North America,The Bahamas,Sales,2019,1596.8
+North America,Greenland,Sales,2019,1596.8
+North America,Mexico,Sales,2019,1596.8
+North America,Panama,Sales,2019,1596.8
+North America,Costa Rica,Sales,2019,1596.8
+North America,Nicaragua,Sales,2019,1596.8
+North America,Honduras,Sales,2019,1596.8
+North America,El Salvador,Sales,2019,1596.8
+North America,Guatemala,Sales,2019,1596.8
+North America,Belize,Sales,2019,1596.8
+North America,Puerto Rico,Sales,2019,1596.8
+North America,Jamaica,Sales,2019,1596.8
+North America,Cuba,Sales,2019,1596.8
+North America,Trinidad and Tobago,Sales,2019,1596.8
+North America,Canada,Sales,2020,1661.3
+North America,United States of America,Sales,2020,1661.3
+North America,Haiti,Sales,2020,1661.3
+North America,Dominican Republic,Sales,2020,1661.3
+North America,The Bahamas,Sales,2020,1661.3
+North America,Greenland,Sales,2020,1661.3
+North America,Mexico,Sales,2020,1661.3
+North America,Panama,Sales,2020,1661.3
+North America,Costa Rica,Sales,2020,1661.3
+North America,Nicaragua,Sales,2020,1661.3
+North America,Honduras,Sales,2020,1661.3
+North America,El Salvador,Sales,2020,1661.3
+North America,Guatemala,Sales,2020,1661.3
+North America,Belize,Sales,2020,1661.3
+North America,Puerto Rico,Sales,2020,1661.3
+North America,Jamaica,Sales,2020,1661.3
+North America,Cuba,Sales,2020,1661.3
+North America,Trinidad and Tobago,Sales,2020,1661.3
+North America,Canada,Sales,2021,1953.7
+North America,United States of America,Sales,2021,1953.7
+North America,Haiti,Sales,2021,1953.7
+North America,Dominican Republic,Sales,2021,1953.7
+North America,The Bahamas,Sales,2021,1953.7
+North America,Greenland,Sales,2021,1953.7
+North America,Mexico,Sales,2021,1953.7
+North America,Panama,Sales,2021,1953.7
+North America,Costa Rica,Sales,2021,1953.7
+North America,Nicaragua,Sales,2021,1953.7
+North America,Honduras,Sales,2021,1953.7
+North America,El Salvador,Sales,2021,1953.7
+North America,Guatemala,Sales,2021,1953.7
+North America,Belize,Sales,2021,1953.7
+North America,Puerto Rico,Sales,2021,1953.7
+North America,Jamaica,Sales,2021,1953.7
+North America,Cuba,Sales,2021,1953.7
+North America,Trinidad and Tobago,Sales,2021,1953.7
+North America,Canada,Sales,2022,1971.6
+North America,United States of America,Sales,2022,1971.6
+North America,Haiti,Sales,2022,1971.6
+North America,Dominican Republic,Sales,2022,1971.6
+North America,The Bahamas,Sales,2022,1971.6
+North America,Greenland,Sales,2022,1971.6
+North America,Mexico,Sales,2022,1971.6
+North America,Panama,Sales,2022,1971.6
+North America,Costa Rica,Sales,2022,1971.6
+North America,Nicaragua,Sales,2022,1971.6
+North America,Honduras,Sales,2022,1971.6
+North America,El Salvador,Sales,2022,1971.6
+North America,Guatemala,Sales,2022,1971.6
+North America,Belize,Sales,2022,1971.6
+North America,Puerto Rico,Sales,2022,1971.6
+North America,Jamaica,Sales,2022,1971.6
+North America,Cuba,Sales,2022,1971.6
+North America,Trinidad and Tobago,Sales,2022,1971.6
+Oceania,Fiji,Sales,2010,4224.7
+Oceania,Papua New Guinea,Sales,2010,4224.7
+Oceania,Vanuatu,Sales,2010,4224.7
+Oceania,New Caledonia,Sales,2010,4224.7
+Oceania,Solomon Islands,Sales,2010,4224.7
+Oceania,New Zealand,Sales,2010,4224.7
+Oceania,Australia,Sales,2010,4224.7
+Oceania,Fiji,Sales,2011,3960.4
+Oceania,Papua New Guinea,Sales,2011,3960.4
+Oceania,Vanuatu,Sales,2011,3960.4
+Oceania,New Caledonia,Sales,2011,3960.4
+Oceania,Solomon Islands,Sales,2011,3960.4
+Oceania,New Zealand,Sales,2011,3960.4
+Oceania,Australia,Sales,2011,3960.4
+Oceania,Fiji,Sales,2012,4985.7
+Oceania,Papua New Guinea,Sales,2012,4985.7
+Oceania,Vanuatu,Sales,2012,4985.7
+Oceania,New Caledonia,Sales,2012,4985.7
+Oceania,Solomon Islands,Sales,2012,4985.7
+Oceania,New Zealand,Sales,2012,4985.7
+Oceania,Australia,Sales,2012,4985.7
+Oceania,Fiji,Sales,2013,5148.6
+Oceania,Papua New Guinea,Sales,2013,5148.6
+Oceania,Vanuatu,Sales,2013,5148.6
+Oceania,New Caledonia,Sales,2013,5148.6
+Oceania,Solomon Islands,Sales,2013,5148.6
+Oceania,New Zealand,Sales,2013,5148.6
+Oceania,Australia,Sales,2013,5148.6
+Oceania,Fiji,Sales,2014,5357.7
+Oceania,Papua New Guinea,Sales,2014,5357.7
+Oceania,Vanuatu,Sales,2014,5357.7
+Oceania,New Caledonia,Sales,2014,5357.7
+Oceania,Solomon Islands,Sales,2014,5357.7
+Oceania,New Zealand,Sales,2014,5357.7
+Oceania,Australia,Sales,2014,5357.7
+Oceania,Fiji,Sales,2015,5423.9
+Oceania,Papua New Guinea,Sales,2015,5423.9
+Oceania,Vanuatu,Sales,2015,5423.9
+Oceania,New Caledonia,Sales,2015,5423.9
+Oceania,Solomon Islands,Sales,2015,5423.9
+Oceania,New Zealand,Sales,2015,5423.9
+Oceania,Australia,Sales,2015,5423.9
+Oceania,Fiji,Sales,2016,5521.9
+Oceania,Papua New Guinea,Sales,2016,5521.9
+Oceania,Vanuatu,Sales,2016,5521.9
+Oceania,New Caledonia,Sales,2016,5521.9
+Oceania,Solomon Islands,Sales,2016,5521.9
+Oceania,New Zealand,Sales,2016,5521.9
+Oceania,Australia,Sales,2016,5521.9
+Oceania,Fiji,Sales,2017,6337.3
+Oceania,Papua New Guinea,Sales,2017,6337.3
+Oceania,Vanuatu,Sales,2017,6337.3
+Oceania,New Caledonia,Sales,2017,6337.3
+Oceania,Solomon Islands,Sales,2017,6337.3
+Oceania,New Zealand,Sales,2017,6337.3
+Oceania,Australia,Sales,2017,6337.3
+Oceania,Fiji,Sales,2018,5897.6
+Oceania,Papua New Guinea,Sales,2018,5897.6
+Oceania,Vanuatu,Sales,2018,5897.6
+Oceania,New Caledonia,Sales,2018,5897.6
+Oceania,Solomon Islands,Sales,2018,5897.6
+Oceania,New Zealand,Sales,2018,5897.6
+Oceania,Australia,Sales,2018,5897.6
+Oceania,Fiji,Sales,2019,5744
+Oceania,Papua New Guinea,Sales,2019,5744
+Oceania,Vanuatu,Sales,2019,5744
+Oceania,New Caledonia,Sales,2019,5744
+Oceania,Solomon Islands,Sales,2019,5744
+Oceania,New Zealand,Sales,2019,5744
+Oceania,Australia,Sales,2019,5744
+Oceania,Fiji,Sales,2020,4518.1
+Oceania,Papua New Guinea,Sales,2020,4518.1
+Oceania,Vanuatu,Sales,2020,4518.1
+Oceania,New Caledonia,Sales,2020,4518.1
+Oceania,Solomon Islands,Sales,2020,4518.1
+Oceania,New Zealand,Sales,2020,4518.1
+Oceania,Australia,Sales,2020,4518.1
+Oceania,Fiji,Sales,2021,5814.3
+Oceania,Papua New Guinea,Sales,2021,5814.3
+Oceania,Vanuatu,Sales,2021,5814.3
+Oceania,New Caledonia,Sales,2021,5814.3
+Oceania,Solomon Islands,Sales,2021,5814.3
+Oceania,New Zealand,Sales,2021,5814.3
+Oceania,Australia,Sales,2021,5814.3
+Oceania,Fiji,Sales,2022,6128.6
+Oceania,Papua New Guinea,Sales,2022,6128.6
+Oceania,Vanuatu,Sales,2022,6128.6
+Oceania,New Caledonia,Sales,2022,6128.6
+Oceania,Solomon Islands,Sales,2022,6128.6
+Oceania,New Zealand,Sales,2022,6128.6
+Oceania,Australia,Sales,2022,6128.6

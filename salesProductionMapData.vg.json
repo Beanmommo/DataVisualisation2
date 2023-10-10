@@ -63,9 +63,8 @@
         },
         {
           "data": {
-              "url": "toyota_continent_prod_sales.csv"
-            }
-          ,
+              "url": "toyota_prod_sales_long.csv"
+          },
           "transform": [
             {
               "lookup": "Country",
@@ -88,44 +87,6 @@
               "filter": "year_selection == null || datum.Year == year_selection"
             }
           ],
-          "mark": "geoshape",
-          "encoding": {
-            "shape": {
-              "field": "geo",
-              "type": "geojson"
-            },
-            "color": {
-              "field": "Value",
-              "type": "quantitative"
-          }
-          }
-        },
-        {
-          "data": {
-              "url": "toyota_prod_sales_long.csv"
-          },
-          "transform": [
-            {
-              "lookup": "Country",
-              "from": {
-                "data": {
-                    "url": "ne_110m_admin_0_countries.json",
-                    "format": {
-                        "type": "topojson",
-                        "feature": "ne_110m_admin_0_countries"
-                    }
-                  },
-                  "key": "properties.NAME"
-              },
-              "as": "geo"
-            },
-            {
-              "filter": "type_selection == null || datum.Type == type_selection"
-            },
-            {
-              "filter": "year_selection == null || datum.Year == year_selection"
-            }
-          ],
           "projection": {
             "type": "equalEarth"
           },
@@ -136,6 +97,7 @@
                 "type": "geojson"
             },
             "color": {
+                
                 "field": "Value",
                 "type": "quantitative"
             }

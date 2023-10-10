@@ -1,107 +1,133 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": { "text": "" },
-    "width": "container",
-    "height": 300,
-    "params": [
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": { "text": "" },
+  "width": "container",
+  "height": 300,
+  "params": [
+    {
+      "name": "year_selection",
+      "value": 2010,
+      "bind": {
+        "input": "range",
+        "min": 2010,
+        "max": 2022,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    },
+    {
+      "name": "type_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Production",
+          "Sales"
+        ],
+        "labels": [
+          "Show Both",
+          "Production",
+          "Sales"
+        ],
+        "name": "Select Category: "
+      }
+    }
+  ],
+  "layer": [
       {
-        "name": "year_selection",
-        "value": 2010,
-        "bind": {
-          "input": "range",
-          "min": 2010,
-          "max": 2022,
-          "step": 1,
-          "name": "Select Year: "
-        }
+          "data": {
+            "url": "https://raw.githubusercontent.com/Beanmommo/DataVisualisation2/main/ne_110m_admin_0_countries.json",
+            "format": {
+              "type": "topojson",
+              "feature": "ne_110m_admin_0_countries"
+            }
+          },
+          "mark": {
+            "type": "geoshape",
+            "fill": "lightgrey",
+            "stroke": "white"
+          },
+          "projection": {
+            "type":"equalEarth"
+          }
       },
       {
-        "name": "type_selection",
-        "bind": {
-          "input": "select",
-          "options": [
-            null,
-            "Production",
-            "Sales"
-          ],
-          "labels": [
-            "Show Both",
-            "Production",
-            "Sales"
-          ],
-          "name": "Select Category: "
-        }
-      }
-    ],
-    "layer": [
-        {
-            "data": {
-              "url": "ne_110m_admin_0_countries.json",
-              "format": {
-                "type": "topojson",
-                "feature": "ne_110m_admin_0_countries"
-              }
-            },
-            "mark": {
-              "type": "geoshape",
-              "fill": "lightgrey",
-              "stroke": "white"
-            },
-            "projection": {
-              "type":"equalEarth"
-            }
-        },
-        {
-            "data": {
-              "graticule": { "step": [30, 30]}
-            },
-            "mark": {
-              "type": "geoshape",
-              "stroke": "#ddd",
-              "strokeWidth": 1
-            }
-        },
-        {
           "data": {
-              "url": "toyota_prod_sales_long.csv"
+            "graticule": { "step": [30, 30]}
           },
-          "transform": [
-            {
-              "lookup": "Country",
-              "from": {
-                "data": {
-                    "url": "ne_110m_admin_0_countries.json",
-                    "format": {
-                        "type": "topojson",
-                        "feature": "ne_110m_admin_0_countries"
-                    }
-                  },
-                  "key": "properties.NAME_EN"
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#ddd",
+            "strokeWidth": 1
+          }
+      },
+      {
+        "data": {
+            "url": "https://raw.githubusercontent.com/Beanmommo/DataVisualisation2/main/toyota_prod_sales_long.csv"
+        },
+        "transform": [
+          {
+            "lookup": "Country",
+            "from": {
+              "data": {
+                  "url": "https://raw.githubusercontent.com/Beanmommo/DataVisualisation2/main/ne_110m_admin_0_countries.json",
+                  "format": {
+                      "type": "topojson",
+                      "feature": "ne_110m_admin_0_countries"
+                  }
+                },
+                "key": "properties.NAME_EN"
+            },
+            "as": "geo"
+          },
+          {
+            "filter": "type_selection == null || datum.Type == type_selection"
+          },
+          {
+            "filter": "year_selection == null || datum.Year == year_selection"
+          },
+          {
+            "calculate": "datum.Type == 'Production' ? datum.Value: -datum.Value",
+            "as": "realValue"
+          },
+          {
+            "joinaggregate": [
+              {
+                "op": "sum",
+                "field": "realValue",
+                "as": "totalValue"
+              }
+            ],
+            "groupby": ["Country"]
+          }
+          
+        ],
+        "projection": {
+          "type": "equalEarth"
+        },
+        "mark": "geoshape",
+        "encoding": {
+          "shape": {
+              "field": "geo",
+              "type": "geojson"
+          },
+          "color": {
+              "field": "totalValue",
+              "type": "quantitative",
+              "scale": {
+                "type": "ordinal",
+                "scheme":"redblue",
+                "domain": [-1500000,1500000]
               },
-              "as": "geo"
-            },
-            {
-              "filter": "type_selection == null || datum.Type == type_selection"
-            },
-            {
-              "filter": "year_selection == null || datum.Year == year_selection"
-            }
-          ],
-          "projection": {
-            "type": "equalEarth"
-          },
-          "mark": "geoshape",
-          "encoding": {
-            "shape": {
-                "field": "geo",
-                "type": "geojson"
-            },
-            "color": {
+              "legend": {
+                "direction": "horizontal",
+                "orient": "bottom",
+                "titleAnchor":"middle",
+                "title": "Sales - Production"
                 
-                "field": "Value",
-                "type": "quantitative"
-            }
+              }
           }
         }
-  ]
+      }
+]
 }

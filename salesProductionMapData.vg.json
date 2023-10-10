@@ -67,6 +67,10 @@
         },
         "transform": [
           {
+            "calculate": "datum.Type == 'Production' ? datum.Value: -datum.Value",
+            "as": "realValue"
+          },
+          {
             "lookup": "Country",
             "from": {
               "data": {
@@ -84,11 +88,17 @@
             "filter": "type_selection == null || datum.Type == type_selection"
           },
           {
-            "filter": "year_selection == null || datum.Year == year_selection"
+            "joinaggregate": [
+              {
+                "op": "average",
+                "field": "realValue",
+                "as": "averageValue"
+              }
+            ],
+            "groupby": ["Country"]
           },
           {
-            "calculate": "datum.Type == 'Production' ? datum.Value: -datum.Value",
-            "as": "realValue"
+            "filter": "year_selection == null || datum.Year == year_selection"
           },
           {
             "joinaggregate": [
@@ -136,6 +146,9 @@
             },
             {
               "field": "totalValue", "type": "quantitative", "title": "Production - Sales"
+            },
+            {
+              "field": "averageValue", "type": "quantitative", "title": "Average"
             }
           ]
         }

@@ -33,4 +33,4 @@ for cars in topCars:
     count = math.ceil(cars.count/10000)
     for i in range(count):
         with open('wilkinson-top-car-data.txt', 'a') as f:
-            f.write(cars.brand + " ,")
+            f.write("\""+cars.brand +"\""+ " ,")

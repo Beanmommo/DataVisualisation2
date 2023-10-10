@@ -102,7 +102,7 @@
       "data": {
         "values": [
           {"x": "2008", "y": 200, "text": "2008 Global Recesion"},
-          {"x": "2013", "y": 135, "text": "Mercedes"},
+          {"x": "2013", "y": 140, "text": "Volkswagen"},
           {"x": "2019", "y": 280, "text": "Tesla"}
         ]
       },

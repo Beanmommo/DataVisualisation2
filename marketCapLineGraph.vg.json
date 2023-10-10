@@ -7,33 +7,80 @@
     },
     "layer": [
       {
-        "mark": "line",
-    "encoding": {
-      "x": {
-        "field": "Year", 
-        "type": "temporal", 
-        "axis": {
-          "grid": false
-        }
-      },
-      "y": {
-        "field": "Value", 
-        "type": "quantitative",
-        "scale": {
-            "domain": [0, 300]
+        "mark": {
+          "type": "line",
+          "clip": true
         },
-        "axis": {
+        "encoding": {
+          "x": {
+            "field": "Year", 
+            "type": "temporal", 
+            "axis": {
+              "grid": false
+              }
+            },
+          "y": {
+            "field": "Value", 
+            "type": "quantitative",
+            "scale": {
+                "domain": [0, 300]
+            },
+            "axis": {
+                "grid": false
+            }
+          },
+          "color": {
+            "field": "Name", "type": "nominal", "legend": null,
+            "scale": {
+                "domain": ["Toyota", "BMW","BYD","Ferrari","Honda","Mercedes", "Porsche", "Stellantis", "Tesla", "Volkswagen"],
+                "range": ["#d71920", "#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb"]
+            }
+          }
+        }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "Year", 
+          "type": "temporal", 
+          "axis": {
             "grid": false
-        }},
+            }
+          },
+        "y": {
+          "field": "Value", 
+          "type": "quantitative",
+          "scale": {
+              "domain": [0, 300]
+          },
+          "axis": {
+              "grid": false
+          }
+        },
         "color": {
           "field": "Name", "type": "nominal", "legend": null,
           "scale": {
               "domain": ["Toyota", "BMW","BYD","Ferrari","Honda","Mercedes", "Porsche", "Stellantis", "Tesla", "Volkswagen"],
               "range": ["#d71920", "#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb","#bbbbbb"]
           }
-        }
+        },
+        "size": {
+          "value": 2
+        },
+        "tooltip": [
+          {
+            "field":"Name", "type": "nominal", "title": "Company Name"
+          },
+          {
+            "field":"Value", "type": "quantitative", "title": "Market Cap (B)"
+          }
+        ]
       }
-    },
+  },
     {
       "data": {
         "values": [
@@ -54,7 +101,9 @@
     {
       "data": {
         "values": [
-          {"x": "2008", "y": 200, "text": "2008 Global Recesion"}
+          {"x": "2008", "y": 200, "text": "2008 Global Recesion"},
+          {"x": "2013", "y": 135, "text": "Mercedes"},
+          {"x": "2019", "y": 280, "text": "Tesla"}
         ]
       },
       "mark": "text",

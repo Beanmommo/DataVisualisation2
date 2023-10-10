@@ -30,6 +30,9 @@
                     "type": "quantitative",
                     "axis": {
                         "grid": false
+                    },
+                    "scale": {
+                        "domain": [0, 300]
                     }
                 },
                 "y": {

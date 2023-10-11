@@ -18,7 +18,8 @@
           "stroke": "white"
         },
         "projection": {
-          "type":"equalEarth"
+          "type":"equalEarth",
+          "rotate": [-107, 0, 0]
         }
       },
       {
@@ -36,7 +37,8 @@
             "url": "Toyota-manufacturing-locations.csv"
         },
         "projection": {
-          "type":"equalEarth"
+          "type":"equalEarth",
+          "rotate": [-107, 0, 0]
         },
         "mark":"circle",
         "encoding": {
@@ -49,14 +51,14 @@
                 "type": "quantitative"
             },
             "size": {
-                "value": 25
+                "value": 50
             },
             "color": {
                 "field": "Region",
                 "type": "nominal",
                 "scale": {
                   "domain": ["Africa", "Asia", "China", "Europe", "Latin America", "North America", "Oceania"],
-                  "range": ["#003f5c", "#374c80", "#7a5195", "#bc5090", "#ef5675", "#ff764a", "#ffa600"]
+                  "range": ["#772D8B", "#2E5077", "#FF7700", "#307351", "#5E574D", "#E43F6F", "#008DD5"]
                 }
             },
             "tooltip": [

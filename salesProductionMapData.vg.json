@@ -44,8 +44,8 @@
           },
           "mark": {
             "type": "geoshape",
-            "fill": "lightgrey",
-            "stroke": "white"
+            "fill": "white",
+            "stroke": "lightgrey"
           },
           "projection": {
             "type":"equalEarth"
@@ -127,7 +127,7 @@
               "scale": {
                 "type": "linear",
                 "range": ["#d71920", "#e55f4e", "#ee8f7f","#efbcb2", "#e8e8e8", "#c4d5e0", "#9fc2d9", "#76b0d1", "#429ec9"],
-                "domain": [-1500000,1500000]
+                "domain": [-1000000,1000000]
               },
               "legend": {
                 "direction": "horizontal",

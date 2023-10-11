@@ -89,6 +89,14 @@
     line-height: 1.8em;
 }
 
+.highlight-red{
+    color:#d71920;
+}
+
+.highlight-blue {
+    color: #3d91b9;
+}
+
 body {
     font-family: 'ToyotaType', sans-serif;
     background-image: url('background.jpg');

@@ -4,14 +4,21 @@
       "url": "top10carww.csv"
     },
     "width": "container",
+    "transform": [
+        {
+            "calculate": "datum.UnitsSold/10000",
+            "as": "simplifiedValue"
+        }
+    ],
     "layer": [
         {
             "mark": "bar",
             "encoding": {
                 "x": {
-                    "field": "UnitsSold", 
+                    "field": "simplifiedValue", 
                     "type": "quantitative",
                     "axis": {
+                        "title": "Units Sold (10,000)",
                         "grid": false
                     }
                 },

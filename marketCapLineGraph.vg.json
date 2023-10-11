@@ -48,7 +48,8 @@
           "field": "Year", 
           "type": "temporal", 
           "axis": {
-            "grid": false
+            "grid": false,
+            "title": "Year"
             }
           },
         "y": {
@@ -58,7 +59,8 @@
               "domain": [0, 300]
           },
           "axis": {
-              "grid": false
+              "grid": false,
+              "title": "Market Capacity (B)"
           }
         },
         "color": {

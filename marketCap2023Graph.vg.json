@@ -29,7 +29,8 @@
                     "field": "Value", 
                     "type": "quantitative",
                     "axis": {
-                        "grid": false
+                        "grid": false,
+                        "title": "Market Capacity (Billions)"
                     },
                     "scale": {
                         "domain": [0, 300]
@@ -39,6 +40,9 @@
                     "field": "Name", 
                     "type": "nominal",
                     "sort": "-x",
+                    "axis": {
+                        "title":""
+                    },
                     "scale": {
                         "padding": 0.6
                     }
